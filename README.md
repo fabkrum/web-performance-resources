@@ -7,7 +7,7 @@
 ### Table of Contents
 * **[Stay up to date: Community / Blogs / Newsletter](#stay-up-to-date)**
 * **[Articles](#articles)**
-* * [General](#general)
+  * [General](#general)
 * **[Online courses](#online-courses)**
 
 
