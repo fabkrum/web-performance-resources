@@ -21,7 +21,7 @@
   * [Measure](#measure)
   * [Tooling](#tooling)
   * [Images](#images)
-  * [Perceived performance](#perceived-performance)
+  * [The Psychology of Performance](#the-psychology-of-performance)
   * [Third-Party Services](#third-party-services)
   * [Development](#development)
 * **[Books](#books)**
@@ -268,7 +268,7 @@ This is a great free introduction into web performance. Ilya Grigorik from Googl
 
 * [Third Party Performance](https://www.youtube.com/watch?v=I5uhZcJ30SA), Guy Podjarny, 04/2015
 
-### Perceived performance
+### The Psychology of Performance
 
 * [Cheating the UX when there is nothing more to optimize](https://vimeo.com/251825705) ([Slides](https://speakerdeck.com/stephaniewalter/cheating-the-ux-when-there-is-nothing-more-to-optimise)), Stephanie Walter, 01/2018
 
