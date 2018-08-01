@@ -1,10 +1,8 @@
 # Web Performance Resources
 
-This is a list of sources I personally found useful to learn about web performance. I will keep this list up to date and add new great resources.
-
-If you know great resources which aren’t covered here please share them in the comments.
-
-***Last updated: August 1, 2018***
+> This is a list of sources I personally found useful to learn about web performance.
+> I will keep this list up to date and add new great resources.
+> If you know great resources which aren’t covered here please create a pull request.
 
 ## Stay up to date: Community / Blogs / Newsletter
 
