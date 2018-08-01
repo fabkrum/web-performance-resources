@@ -4,13 +4,13 @@
 > I will keep this list up to date and add new great resources.
 > If you know great resources which aren’t covered here please create a pull request.
 
-## Table of Contents
-1. **[Stay up to date: Community / Blogs / Newsletter](#Stay up to date: Community / Blogs / Newsletter)**
-2. **[Articles](#Articles)**
-3. **[Online courses](#Online courses)**
+### Table of Contents
+* **[Stay up to date: Community / Blogs / Newsletter](#stay-up-to-date)**
+* **[Articles](#articles)**
+* **[Online courses](#online-courses)**
 
 
-## Stay up to date: Community / Blogs / Newsletter
+## Stay up to date
 
 * [Planet Performance](http://www.perfplanet.com/)
 Overview of performance related blogs
