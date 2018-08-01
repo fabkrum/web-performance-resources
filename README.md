@@ -8,9 +8,33 @@
 * **[Stay up to date: Community / Blogs / Newsletter](#stay-up-to-date)**
 * **[Articles](#articles)**
   * [General](#general)
+  * [Network and Caching](#network-and-caching)
+  * [Measure Performance](#measure-performance)
+  * [Third-Party Services](#third-party-services)
+  * [Optimise the Critical Render Path](#optimise-the-critical-render-path)
+  * [Javascript and Render Performance](#javascript-and-render-performance)  
+  * [Perceived Performance](#perceived-performance)   
 * **[Online courses](#online-courses)**
-
-
+* **[Videos](#videos)**
+  * [Business](#business)
+  * [Network](#network) 
+  * [Measure](#measure)
+  * [Tooling](#tooling)
+  * [Images](#images)
+  * [Perceived performance](#perceived-performance)
+  * [Third-Party Services](#third-party-services)
+  * [Development](#development)
+* **[Books](#books)**
+* **[Tools](#tools)**
+  * [Free tools and services](#free-tools-and-services)
+  * [Paid tools and services](#paid-tools-and-services)  
+* **[Open Source Projects](#open-source-projects)**
+* **[Studies](#studies)**
+* **[Open Data Sources](#open-data-sources)**
+* **[Web Performance Meetups](#web-performance-meetups)**
+* **[Conferences](#conferences)**
+* **[W3C Standards](#w3c-standards)**
+  
 ## Stay up to date
 
 * [Planet Performance](http://www.perfplanet.com/)
@@ -61,7 +85,7 @@ Slack channel which is focusing on web performance with more than 750 members
 
 * [My Performance Audit Workflow](https://aerotwist.com/blog/my-performance-audit-workflow/), Paul Lewis, 04/2014
 
-### Network & Caching
+### Network and Caching
 
 * [To push or not to push](https://noti.st/patrickhamann/y2sScd/to-push-or-not-to-push), Patrick Hamann, 06/2018
 
@@ -133,7 +157,7 @@ Slack channel which is focusing on web performance with more than 750 members
 
 * [More Weight Doesn’t Mean More Wait](https://www.filamentgroup.com/lab/weight-wait.html), Scott Jehl, 04/2015
 
-### JS & Render Performance
+### Javascript and Render Performance
 
 * [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist), 2018, GitHub Project with updates
 
@@ -194,7 +218,7 @@ Umar is a Chrome Developer Tools expert and explains all the tools you need to u
 * [Frontend Center](https://frontend.center/), Glen Maddern, ($15/monthly subscription)
 Not 100% related to Web Performance. A few of the trainings are available for free.
 
-## Videos / Slides
+## Videos
 
 ### A crash course on web performance
 
