@@ -465,6 +465,12 @@ Access RUM data for 3,237,526 websites accessed by Google Chrome Users
 * [Waterfall Heatmap Bookmarklet](https://github.com/zeman/perfmap)
 Prints the timing data on assets.
 
+* [Google Speed Scorecard](https://www.thinkwithgoogle.com/feature/mobile/)
+Compare your mobile Site Speed with your competition based on CrUX data
+
+* [Google Imapct Calculator](https://www.thinkwithgoogle.com/feature/mobile/)
+Estimate the revenue impact of performance optimisations
+
 ### Paid tools and services
 
 These are professional tools which cost money. The cost are usually depends on traffic, server or data.
