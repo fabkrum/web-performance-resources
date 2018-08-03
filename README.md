@@ -9,6 +9,7 @@
 * **[Articles](#articles)**
   * [General](#general)
   * [Network and Caching](#network-and-caching)
+  * [Image Optimization](#image-optimization)  
   * [Measure Performance](#measure-performance)
   * [Third-Party Services](#third-party-services)
   * [Optimise the Critical Render Path](#optimise-the-critical-render-path)
@@ -69,13 +70,9 @@ Slack channel which is focusing on web performance with more than 750 members
 
 * [Delivering Fast and Light Applications with Save-Data](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/save-data/), Ilya Grigroik, 01/2018
 
-* [Essential Image Optimization](https://images.guide/), Addy Osmani, 2017
-
 * [Can You Afford It?: Real-world Web Performance Budgets](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/), Alex Russell, 10/2017
 
 * [The State of the Web — A guide to impactful performance improvements](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3), Karolina Szczur, 09/2017
-
-* [Performant Web Animations and Interactions: Achieving 60 FPS](https://blog.algolia.com/performant-web-animations/), Emily Hayman, 08/2017
 
 * [What is Progressive Enhancement and why should you care?](https://www.shopify.com/partners/blog/what-is-progressive-enhancement-and-why-should-you-care), Tiffany Tse, 02/2017
 
@@ -100,6 +97,14 @@ Slack channel which is focusing on web performance with more than 750 members
 * [What is the preload directive?](https://www.keycdn.com/support/preload-directive/), 01/2017
 
 * [How DNS works](https://howdns.works/) (Comic)
+
+### Image Optimization
+
+* [Essential Image Optimization](https://images.guide/), Addy Osmani, 2017
+
+* [Using SVG as placeholders — More Image Loading Techniques](https://jmperezperez.com/svg-placeholders/), José M. Pérez, 10/2017
+
+* [How Medium does progressive image loading](https://jmperezperez.com/medium-image-progressive-loading-placeholder/), José M. Pérez, 10/2015 
 
 ### Measure Performance
 
@@ -170,6 +175,8 @@ Slack channel which is focusing on web performance with more than 750 members
 * [Optimize Javascript Execution](https://developers.google.com/web/fundamentals/performance/rendering/optimize-javascript-execution), Paul Lewis, 01/2018
 
 * [Improving Performance with the Paint Timing API](https://www.sitepen.com/blog/2017/10/06/improving-performance-with-the-paint-timing-api), Umar Hansa, 10/2017
+
+* [Performant Web Animations and Interactions: Achieving 60 FPS](https://blog.algolia.com/performant-web-animations/), Emily Hayman, 08/2017
 
 * [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201), Addy Osmani, 02/2017
 
