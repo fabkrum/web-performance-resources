@@ -472,6 +472,9 @@ Access RUM data for 3,237,526 websites accessed by Google Chrome Users
 * [Waterfall Heatmap Bookmarklet](https://github.com/zeman/perfmap)
 Prints the timing data on assets.
 
+* [Test your mobile speed with Google](https://testmysite.withgoogle.com/intl/en-gb)
+Test score, benchmark with other pages from the same industry, detailed report
+
 * [Google Speed Scorecard](https://www.thinkwithgoogle.com/feature/mobile/)
 Compare your mobile Site Speed with your competition based on CrUX data
 
