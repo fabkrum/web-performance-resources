@@ -481,6 +481,8 @@ Compare your mobile Site Speed with your competition based on CrUX data
 * [Google Imapct Calculator](https://www.thinkwithgoogle.com/feature/mobile/)
 Estimate the revenue impact of performance optimisations
 
+* [Google Page Speed Industry Benchmarks](https://www.thinkwithgoogle.com/marketing-resources/data-measurement/mobile-page-speed-new-industry-benchmarks/)
+
 ### Paid tools and services
 
 These are professional tools which cost money. The cost are usually depends on traffic, server or data.
