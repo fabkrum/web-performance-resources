@@ -6,6 +6,7 @@
 
 ### Table of Contents
 * **[Stay up to date: Community / Blogs / Newsletter](#stay-up-to-date)**
+* **[Accessibility by project roles](#accessibility-by-project-roles)**
 * **[Articles](#articles)**
   * [General](#general)
   * [Network and Caching](#network-and-caching)
@@ -55,6 +56,13 @@ This is not a Web Performance only Newsletter
 
 * [Web performance Slack channel ](https://webperformance.herokuapp.com/)
 Slack channel which is focusing on web performance with more than 750 members
+
+## Accessibility by project roles
+* [Product Manager](https://accessibility.digital.gov/product/getting-started/)
+* [Content Creator](https://accessibility.digital.gov/content-design/getting-started/)
+* [UX Designer](https://accessibility.digital.gov/ux/getting-started/)
+* [Visiual Designer](https://accessibility.digital.gov/visual-design/getting-started/)
+* [Developer](https://accessibility.digital.gov/front-end/getting-started/)
 
 ## Articles
 
