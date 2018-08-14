@@ -86,6 +86,8 @@ Slack channel which is focusing on web performance with more than 750 members
 
 * [Dynamic resources using the Network Information API and service workers](https://deanhume.com/dynamic-resources-using-the-network-information-api-and-service-workers/), Dean Hume, 07/2018
 
+* [Connection-Aware Components](https://mxb.at/blog/connection-aware-components/), Max Böck, 07/2018
+
 * [To push or not to push](https://noti.st/patrickhamann/y2sScd/to-push-or-not-to-push), Patrick Hamann, 06/2018
 
 * [What is HTTP/2 — The Ultimate Guide](https://kinsta.com/learn/what-is-http2/), Ali Raza, 04/2018
