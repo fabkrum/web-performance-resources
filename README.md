@@ -62,6 +62,8 @@ Slack channel which is focusing on web performance with more than 750 members
 
 * [Optimize Website Speed With Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/speed/get-started), Kayce Basques, 07/2018
 
+* [How to create the best experience for every user with the newest web APIs](https://medium.com/web-perf-practitioner/how-to-create-the-best-experience-for-every-user-with-the-newest-web-apis-b24b880821b), Fabian Krumbholz, 06/2018
+
 * [15+ Experts Share Their Web Performance Advice for 2018](https://www.keycdn.com/blog/web-performance-advice-2018/), Cody Arsenault, 06/2018
 
 * [Fostering a Web Performance Culture](https://levelup.gitconnected.com/fostering-a-web-performance-culture-41360eb8dd36), José M. Pérez, 06/2018
