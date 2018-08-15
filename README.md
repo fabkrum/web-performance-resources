@@ -560,6 +560,8 @@ HTTP archive crawls periodically the top sites of the web and is a great source 
 * [Chrome UX report](https://developers.google.com/web/tools/chrome-user-experience-report/)
 This is the only source I know of, which provides you with RUM data of the most used websites. The data source is the user data of Chrome users. With Google BigQuery or Page Speed Insights you can analyse your competition.
 
+* [Chrome UX report dashboard](https://developers.google.com/web/updates/2018/08/chrome-ux-report-dashboard)
+
 * [Akamai Internet Observatory](https://www.akamai.com/uk/en/solutions/intelligent-platform/visualizing-akamai/internet-observatory/)
 Browser stats, Network latency between regions
 
