@@ -84,10 +84,6 @@ Slack channel which is focusing on web performance with more than 750 members
 
 ### Network and Caching
 
-* [Dynamic resources using the Network Information API and service workers](https://deanhume.com/dynamic-resources-using-the-network-information-api-and-service-workers/), Dean Hume, 07/2018
-
-* [Connection-Aware Components](https://mxb.at/blog/connection-aware-components/), Max Böck, 07/2018
-
 * [To push or not to push](https://noti.st/patrickhamann/y2sScd/to-push-or-not-to-push), Patrick Hamann, 06/2018
 
 * [What is HTTP/2 — The Ultimate Guide](https://kinsta.com/learn/what-is-http2/), Ali Raza, 04/2018
@@ -168,7 +164,11 @@ Slack channel which is focusing on web performance with more than 750 members
 
 ### Javascript and Render Performance
 
+* [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4), Addy Osmani, 08/2018
+
 * [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist), 2018, GitHub Project with updates
+
+* [Why Web Developers Need to Care about Interactivity](https://philipwalton.com/articles/why-web-developers-need-to-care-about-interactivity/), Philip Walton, 12/2017
 
 * [jankfree](http://jankfree.org/), Website which collects resources about render performance
 
@@ -538,11 +538,13 @@ Learn what influence PWA have on business metrics.
 
 * [https://www.ericsson.com/en/mobility-report](https://www.ericsson.com/en/mobility-report)
 
+* [Open Signal: Global stat of the mobile network](https://opensignal.com/reports/2018/02/global-state-of-the-mobile-network)
+
 * [https://www.akamai.com/us/en/about/our-thinking/state-of-the-internet-report/](https://www.akamai.com/us/en/about/our-thinking/state-of-the-internet-report/)
 
 ## Open data sources
 
-* [HTTP Archive](https://httparchive.org/)
+* [HTTP Archive](https://httparchive.org/) / [Loading speed](https://beta.httparchive.org/reports/loading-speed)
 HTTP archive crawls periodically the top sites of the web and is a great source for learning about trends on the internet.
 
 * [Chrome UX report](https://developers.google.com/web/tools/chrome-user-experience-report/)
@@ -550,6 +552,8 @@ This is the only source I know of, which provides you with RUM data of the most 
 
 * [Akamai Internet Observatory](https://www.akamai.com/uk/en/solutions/intelligent-platform/visualizing-akamai/internet-observatory/)
 Browser stats, Network latency between regions
+
+* [Open Signal](https://opensignal.com/reports/), Mobile status report worldwide
 
 ## Web Performance Meetups
 
