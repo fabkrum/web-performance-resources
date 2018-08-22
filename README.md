@@ -569,6 +569,8 @@ Browser stats, Network latency between regions
 
 * [Open Signal](https://opensignal.com/reports/), Mobile status report worldwide
 
+* [Pew Research Center](http://www.pewglobal.org/2018/06/19/social-media-use-continues-to-rise-in-developing-countries-but-plateaus-across-developed-ones/)
+
 ## Web Performance Meetups
 
 Look for a performance Meetup group close to where you live. This is a great opportunity to share and discuss ideas with other performance experts. Here are some groups close to our offices:
