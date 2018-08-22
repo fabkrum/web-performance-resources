@@ -194,9 +194,11 @@ Slack channel which is focusing on web performance with more than 750 members
 
 * [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201), Addy Osmani, 02/2017
 
-* [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/), Paul Lewis, 02/16
+* [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/), Paul Lewis, 02/2016
 
 * [The future of loading CSS](https://jakearchibald.com/2016/link-in-body/), Jake Archibald, 02/2016
+
+* [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/), Sebastián Peyrott, 01/2016
 
 * [The cost of frameworks](https://aerotwist.com/blog/the-cost-of-frameworks/), Paul Lewis, 11/2015
 
