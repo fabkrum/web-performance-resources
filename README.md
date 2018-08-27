@@ -88,6 +88,8 @@ Slack channel which is focusing on web performance with more than 750 members
 
 ### Network and Caching
 
+* [Service Worker Caching Strategies Based on Request Types](https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c), Thomas Steiner, 08/2018
+
 * [Dynamic resources using the Network Information API and service workers](https://deanhume.com/dynamic-resources-using-the-network-information-api-and-service-workers/), Dean Hume, 07/2018
 
 * [Connection-Aware Components](https://mxb.at/blog/connection-aware-components/), Max Böck, 07/2018
