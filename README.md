@@ -177,6 +177,8 @@ Slack channel which is focusing on web performance with more than 750 members
 
 ### Javascript and Render Performance
 
+* [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/), Philip Walton, 09/2018
+
 * [Browser painting and considerations for web performance](https://css-tricks.com/browser-painting-and-considerations-for-web-performance/), Georgy Marchuk, 08/2018
 
 * [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4), Addy Osmani, 08/2018
