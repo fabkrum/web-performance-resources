@@ -415,6 +415,9 @@ This book is a must read. If you are serious about web performance you have to u
 * [High Performance Web Sites](http://shop.oreilly.com/product/9780596529307.do), Steve Souders, O’Reilly, 09/2007
 This book is a classic.
 
+* [Even Faster Web Sites](http://shop.oreilly.com/product/9780596522315.do), Steve Souders, O’Reilly, 07/2009
+Another classic book.
+
 ## Tools
 
 ### Free tools and services
