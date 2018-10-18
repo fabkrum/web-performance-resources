@@ -445,6 +445,9 @@ Chrome extension for detecting and simulating frontend Single Points Of Failure
 * [CSS Triggers](https://csstriggers.com/)
 Which CSS element trigger layout, paint, or composite?
 
+* [Source Map Explorer](https://www.npmjs.com/package/source-map-explorer)
+The source map explorer determines which file each byte in your minified code came from.
+
 * [Ghostery](https://www.ghostery.com/)
 See what 3rd party tools are loaded on a site.
 
