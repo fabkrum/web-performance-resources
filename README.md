@@ -118,6 +118,8 @@ Slack channel which is focusing on web performance with more than 750 members
 
 ### Measure Performance
 
+* [The Three Types of Performance Testing](https://csswizardry.com/2018/10/three-types-of-performance-testing/)
+
 * [How to track performance](https://designsystem.digital.gov/performance/how/#choosing-metrics-amp-tools), U.S. Web Design System, 07/2018
 
 * [Assessing Loading Performance in Real Life with Navigation and Resource Timing](https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/), Jeremy Wagner, 06/2018
