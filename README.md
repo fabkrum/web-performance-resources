@@ -62,6 +62,8 @@ This is not a Web Performance only Newsletter
 
 ### General
 
+* [Start performance budgeting](https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3), Addy Osmani, 10/2018
+
 * [Hyper-Lightweight Websites Challenge (PDF)](http://www.chriszacharias.com/data/Hyperlight%20Websites%20-%20Chris%20Zacharias.pdf), Chris Zacharias, 10/2018
 
 * [The power of progressive enhancement](https://medium.com/no-divide/the-power-of-progressive-enhancement-98738766b009), Andy Bell, 08/2018
@@ -110,6 +112,8 @@ This is not a Web Performance only Newsletter
 
 * [A Comprehensive Guide To HTTP/2 Server Push](https://www.smashingmagazine.com/2017/04/guide-http2-server-push/), Jeremy Wagner, 04/2017
 
+* [A Link: rel=preload Analysis From the Chrome Data Saver Team](https://medium.com/reloading/a-link-rel-preload-analysis-from-the-chrome-data-saver-team-5edf54b08715), Simon Pelchat, 03/2017
+
 * [What is the preload directive?](https://www.keycdn.com/support/preload-directive/), 01/2017
 
 * [How DNS works](https://howdns.works/) (Comic)
@@ -125,6 +129,10 @@ This is not a Web Performance only Newsletter
 ### Measure Performance
 
 * [The Three Types of Performance Testing](https://csswizardry.com/2018/10/three-types-of-performance-testing/), Harry Roberts, 10/2018
+
+* [Applying Waterfall Visualizations to Real User Monitoring Data](https://developer.akamai.com/blog/2018/10/10/applying-waterfall-visualizations-real-user-monitoring-data), Simon Hearne, 10/2018
+
+* [An analysis of Chromium's paint timing metrics](https://speedcurve.com/blog/an-analysis-of-chromiums-paint-timing-metrics/), Joseph Wynn, 09/2018
 
 * [Accurately measuring layout on the web](https://nolanlawson.com/2018/09/25/accurately-measuring-layout-on-the-web/), Nolan Lawson, (09/2018)
 
@@ -326,7 +334,7 @@ The content of this talk is similar to Eli Fitch’s talk, but less technical.
 
 ### Network
 
-* [QUIC: in Theory and Practice](https://www.youtube.com/watch?v=B1SQFjIXJtc) ([Slides](http://internetonmars.org/deltav.pdf)), Robin Marx, 06/2018
+* [QUIC: in Theory and Practice](https://www.youtube.com/watch?v=B1SQFjIXJtc), [Slides](http://internetonmars.org/deltav.pdf), Robin Marx, 06/2018
 
 * [HTTP/2 101](https://www.youtube.com/watch?v=r5oT_2ndjms), Surma, 11/2015
 Nice introduction to HTTP2
@@ -335,9 +343,11 @@ Nice introduction to HTTP2
 
 ### Measure
 
+* [User Experience & Performance: Metrics that Matter](https://www.youtube.com/watch?v=nEHsHioWY1U), [Slides](https://speakerdeck.com/bluesmoon/ux-and-performance-metrics-that-matter-a062d37f-e6c7-4b8a-8399-472ec76bb75e), Philip Tellis, 10/2018
+
 * [Chrome User Experience Report](https://www.youtube.com/watch?v=wVY3-acLIoI), Inian Parameshwaran, 06/2018
 
-* [How Fast Is It?](https://vimeo.com/254728119) ([Slides](https://www.slideshare.net/patrickmeenan/how-fast-is-it)), Patrick Meenan, 02/2018
+* [How Fast Is It?](https://vimeo.com/254728119), [Slides](https://www.slideshare.net/patrickmeenan/how-fast-is-it), Patrick Meenan, 02/2018
 
 * [How’s the UX on the Web, Really?](https://vimeo.com/254834890), Ilya Grigorik, 02/2018
 
@@ -528,6 +538,8 @@ Compare your mobile Site Speed with your competition based on CrUX data
 Estimate the revenue impact of performance optimisations
 
 * [Google Page Speed Industry Benchmarks](https://www.thinkwithgoogle.com/marketing-resources/data-measurement/mobile-page-speed-new-industry-benchmarks/)
+
+* [Performance budget calculator](http://www.performancebudget.io/)
 
 ### Paid tools and services
 
