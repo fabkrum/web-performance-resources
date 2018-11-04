@@ -44,9 +44,6 @@ Overview of performance related blogs
 * [Dev Tips](https://umaar.com/dev-tips/), Umar Hansa, weekly
 Great resource to learn the newest Chrome Dev Tools tips and tricks
 
-* [Smashing Magazine Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
-This is not a Web Performance only Newsletter
-
 * [Medium articles about web performance](https://medium.com/tag/web-performance/latest)
 
 * Twitter: [#webperf](https://twitter.com/search?q=%23webperf), [#perfmatters](https://twitter.com/search?q=%23perfmatters)
@@ -56,9 +53,16 @@ This is not a Web Performance only Newsletter
 * [Web performance Slack channel ](https://webperformance.herokuapp.com/)
 Slack channel which is focusing on web performance with more than 750 members
 
+* [The speed of thought - Posts from the Performance Team at Wikimedia](https://phabricator.wikimedia.org/phame/blog/view/7/)
+
+* [Smashing Magazine Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
+This is not a Web Performance only Newsletter
+
 ## Articles
 
 ### General
+
+* [Hyper-Lightweight Websites Challenge (PDF)](http://www.chriszacharias.com/data/Hyperlight%20Websites%20-%20Chris%20Zacharias.pdf), Chris Zacharias, 10/2018
 
 * [The power of progressive enhancement](https://medium.com/no-divide/the-power-of-progressive-enhancement-98738766b009), Andy Bell, 08/2018
 
@@ -123,6 +127,8 @@ Slack channel which is focusing on web performance with more than 750 members
 * [The Three Types of Performance Testing](https://csswizardry.com/2018/10/three-types-of-performance-testing/), Harry Roberts, 10/2018
 
 * [Accurately measuring layout on the web](https://nolanlawson.com/2018/09/25/accurately-measuring-layout-on-the-web/), Nolan Lawson, (09/2018)
+
+* [A step by step guide to monitoring the competition with the Chrome UX Report](https://dev.to/rick_viscomi/a-step-by-step-guide-to-monitoring-the-competition-with-the-chrome-ux-report-4k1o), Rick Viscomi, 09/2018 
 
 * [How to track performance](https://designsystem.digital.gov/performance/how/#choosing-metrics-amp-tools), U.S. Web Design System, 07/2018
 
