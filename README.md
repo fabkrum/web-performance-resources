@@ -64,6 +64,8 @@ Slack channel which is focusing on web performance with more than 750 members
 
 * [Optimize Website Speed With Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/speed/get-started), Kayce Basques, 07/2018
 
+* [Speed is now a landing page factor for Google Search and Ads](https://developers.google.com/web/updates/2018/07/search-ads-speed), Ilya Grigorik, Addy Osmani, 07/2018
+
 * [How to create the best experience for every user with the newest web APIs](https://medium.com/web-perf-practitioner/how-to-create-the-best-experience-for-every-user-with-the-newest-web-apis-b24b880821b), Fabian Krumbholz, 06/2018
 
 * [15+ Experts Share Their Web Performance Advice for 2018](https://www.keycdn.com/blog/web-performance-advice-2018/), Cody Arsenault, 06/2018
@@ -118,7 +120,9 @@ Slack channel which is focusing on web performance with more than 750 members
 
 ### Measure Performance
 
-* [The Three Types of Performance Testing](https://csswizardry.com/2018/10/three-types-of-performance-testing/)
+* [The Three Types of Performance Testing](https://csswizardry.com/2018/10/three-types-of-performance-testing/), Harry Roberts, 10/2018
+
+* [Accurately measuring layout on the web](https://nolanlawson.com/2018/09/25/accurately-measuring-layout-on-the-web/), Nolan Lawson, (09/2018)
 
 * [How to track performance](https://designsystem.digital.gov/performance/how/#choosing-metrics-amp-tools), U.S. Web Design System, 07/2018
 
@@ -143,6 +147,8 @@ Slack channel which is focusing on web performance with more than 750 members
 * [Driving WebPagetest from a Google Docs Spreadsheet](https://calendar.perfplanet.com/2014/driving-webpagetest-from-a-google-docs-spreadsheet/), Andy Davies, 12/2014
 
 ### Third-Party Services
+* [How we shaved 1.7 seconds off casper.com by self-hosting Optimizely](https://medium.com/caspertechteam/we-shaved-1-7-seconds-off-casper-com-by-self-hosting-optimizely-2704bcbff8ec), Kyle Rush, 08/2018
+
 * [Changing Our Approach to Anti-tracking](https://blog.mozilla.org/futurereleases/2018/08/30/changing-our-approach-to-anti-tracking/), Nick Nguyen, 08/2018
 
 * [When 3rd parties stop being polite … and start getting real](https://docs.google.com/presentation/d/174EE6e7sV_SXPug_gK5GH4Jk5wB35xjqPrvDUG0E6FA), Charles Vazac & Nic Jansma, 06/2018
@@ -162,6 +168,8 @@ Slack channel which is focusing on web performance with more than 750 members
 * [10 pro tips for managing the performance of your third-party scripts,](https://www.soasta.com/blog/10-pro-tips-for-managing-the-performance-of-your-third-party-scripts/) Tammy Everts, 11/2015
 
 ### Optimise the Critical Render Path
+
+* [Th font loading checklist](https://www.zachleat.com/web/font-checklist/), Zach Leatherman, 08/2018
 
 * [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist), 2018, GitHub Project with updates
 
@@ -363,6 +371,8 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 * [High Performance Images: Beautiful Shouldn’t Mean Slow](https://www.youtube.com/watch?v=7zgd2OjSoS8), Guy Podjarny, 12/2015
 
 ### Development
+
+* [Schedule your animations like a pro – with requestAnimationFrame](https://www.youtube.com/watch?v=wSEU7ivOnzc), Paul Lewis, 09/2018
 
 * [Frontend Resilience](https://www.youtube.com/watch?v=iUfymdAZ1wI) ([Slides](https://speakerdeck.com/ianfeather/building-resilient-frontend-systems-all-day-hey)), Ian Feather, 06/2018
 
@@ -586,6 +596,8 @@ Browser stats, Network latency between regions
 * [Open Signal](https://opensignal.com/reports/), Mobile status report worldwide
 
 * [Pew Research Center](http://www.pewglobal.org/2018/06/19/social-media-use-continues-to-rise-in-developing-countries-but-plateaus-across-developed-ones/)
+
+* [Ofcom.org.uk](https://www.ofcom.org.uk/research-and-data)
 
 ## Web Performance Meetups
 
