@@ -477,6 +477,8 @@ Chrome extension for detecting and simulating frontend Single Points Of Failure
 * [CSS Triggers](https://csstriggers.com/)
 Which CSS element trigger layout, paint, or composite?
 
+* [FOIT vs FOUT](https://www.zachleat.com/foitfout/)
+
 * [Source Map Explorer](https://www.npmjs.com/package/source-map-explorer), [Webpback Bundle Analyer](https://www.npmjs.com/package/webpack-bundle-analyzer)
 Understand what code you are loading
 
