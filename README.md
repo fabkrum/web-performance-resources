@@ -62,6 +62,8 @@ This is not a Web Performance only Newsletter
 
 ### General
 
+* [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9), Addy Osmani, 11/2018
+
 * [Start performance budgeting](https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3), Addy Osmani, 10/2018
 
 * [Hyper-Lightweight Websites Challenge (PDF)](http://www.chriszacharias.com/data/Hyperlight%20Websites%20-%20Chris%20Zacharias.pdf), Chris Zacharias, 10/2018
