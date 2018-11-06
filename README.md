@@ -390,6 +390,8 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 
 ### Development
 
+* [The Long Tail of Performance](https://vimeo.com/296791460), Tim Kadlec, 10/2018
+
 * [Schedule your animations like a pro – with requestAnimationFrame](https://www.youtube.com/watch?v=wSEU7ivOnzc), Paul Lewis, 09/2018
 
 * [Frontend Resilience](https://www.youtube.com/watch?v=iUfymdAZ1wI) ([Slides](https://speakerdeck.com/ianfeather/building-resilient-frontend-systems-all-day-hey)), Ian Feather, 06/2018
