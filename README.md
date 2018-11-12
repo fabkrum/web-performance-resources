@@ -189,6 +189,8 @@ This is not a Web Performance only Newsletter
 
 ### Optimise the Critical Render Path
 
+* [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance/), Harry Roberts, 11/2018
+
 * [Th font loading checklist](https://www.zachleat.com/web/font-checklist/), Zach Leatherman, 08/2018
 
 * [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist), 2018, GitHub Project with updates
