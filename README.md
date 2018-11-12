@@ -9,7 +9,7 @@
 * **[Articles](#articles)**
   * [General](#general)
   * [Network and Caching](#network-and-caching)
-  * [Image Optimization](#image-optimization)  
+  * [Image and Video Optimization](#image-and-video-optimization)  
   * [Measure Performance](#measure-performance)
   * [Third-Party Services](#third-party-services)
   * [Optimise the Critical Render Path](#optimise-the-critical-render-path)
@@ -120,7 +120,11 @@ This is not a Web Performance only Newsletter
 
 * [How DNS works](https://howdns.works/) (Comic)
 
-### Image Optimization
+### Image and Video Optimization
+
+* [Video Playback On The Web: The Current State Of Video](https://www.smashingmagazine.com/2018/10/video-playback-on-the-web-part-1/), Doug Sillars, 10/2018
+
+* [Video Playback On The Web: Video Delivery Best Practices](https://www.smashingmagazine.com/2018/10/video-playback-on-the-web-part-2/), Doug Sillars, 10/2018
 
 * [Essential Image Optimization](https://images.guide/), Addy Osmani, 2017
 
@@ -381,10 +385,6 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 * [Developer’s Toolbox: What is Charles and why would I want it?](https://www.youtube.com/watch?v=y8Okx-RWK3M), Team Learnable, 05/2014
 
 ### Image and Video
-
-* [Video Playback On The Web: The Current State Of Video](https://www.smashingmagazine.com/2018/10/video-playback-on-the-web-part-1/), Doug Sillars, 10/2018
-
-* [Video Playback On The Web: Video Delivery Best Practices](https://www.smashingmagazine.com/2018/10/video-playback-on-the-web-part-2/), Doug Sillars, 10/2018
 
 * [Beyond the Basics of Image Optimization](https://vimeo.com/254736788) — ([Slides](https://github.com/una/beyond-the-basics-of-image-optimization)), Una Kravets/Martin Splitt, 02/2018
 
