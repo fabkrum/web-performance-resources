@@ -21,7 +21,7 @@
   * [Network](#network) 
   * [Measure](#measure)
   * [Tooling](#tooling)
-  * [Images](#images)
+  * [Image and video](#image-and-video)
   * [The Psychology of Performance](#the-psychology-of-performance)
   * [Third-Party Services](#third-party-services)
   * [Development](#development)
@@ -380,7 +380,11 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 
 * [Developer’s Toolbox: What is Charles and why would I want it?](https://www.youtube.com/watch?v=y8Okx-RWK3M), Team Learnable, 05/2014
 
-### Images
+### Image and Video
+
+* [Video Playback On The Web: The Current State Of Video](https://www.smashingmagazine.com/2018/10/video-playback-on-the-web-part-1/), Doug Sillars, 10/2018
+
+* [Video Playback On The Web: Video Delivery Best Practices](https://www.smashingmagazine.com/2018/10/video-playback-on-the-web-part-2/), Doug Sillars, 10/2018
 
 * [Beyond the Basics of Image Optimization](https://vimeo.com/254736788) — ([Slides](https://github.com/una/beyond-the-basics-of-image-optimization)), Una Kravets/Martin Splitt, 02/2018
 
