@@ -109,6 +109,8 @@ This is not a Web Performance only Newsletter
 
 * [To push or not to push](https://noti.st/patrickhamann/y2sScd/to-push-or-not-to-push), Patrick Hamann, 06/2018
 
+* [Brotli Compression – How Much Will It Reduce Your Content?](https://paulcalvano.com/index.php/2018/07/25/brotli-compression-how-much-will-it-reduce-your-content/), Paul Calvano, 07/2018
+
 * [What is HTTP/2 — The Ultimate Guide](https://kinsta.com/learn/what-is-http2/), Ali Raza, 04/2018
 
 * [Resource Hints — What is Preload, Prefetch, and Preconnect?](https://www.keycdn.com/blog/resource-hints/), Brian Jackson, 01/2018
@@ -566,6 +568,8 @@ Estimate the revenue impact of performance optimisations
 * [Google Page Speed Industry Benchmarks](https://www.thinkwithgoogle.com/marketing-resources/data-measurement/mobile-page-speed-new-industry-benchmarks/)
 
 * [Performance budget calculator](http://www.performancebudget.io/)
+
+* [Gzip and Brotli Compression Level Estimator](https://tools.paulcalvano.com/compression.php)
 
 ### Paid tools and services
 
