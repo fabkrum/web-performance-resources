@@ -126,11 +126,15 @@ This is not a Web Performance only Newsletter
 
 * [Video Playback On The Web: Video Delivery Best Practices](https://www.smashingmagazine.com/2018/10/video-playback-on-the-web-part-2/), Doug Sillars, 10/2018
 
+* [Automating Resource Selection with Client Hints](https://developers.google.com/web/updates/2015/09/automating-resource-selection-with-client-hints), Ilya Grigorik, 07/2018
+
 * [Essential Image Optimization](https://images.guide/), Addy Osmani, 2017
 
 * [Using SVG as placeholders — More Image Loading Techniques](https://jmperezperez.com/svg-placeholders/), José M. Pérez, 10/2017
 
-* [How Medium does progressive image loading](https://jmperezperez.com/medium-image-progressive-loading-placeholder/), José M. Pérez, 10/2015 
+* [How Medium does progressive image loading](https://jmperezperez.com/medium-image-progressive-loading-placeholder/), José M. Pérez, 10/2015
+
+* [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/), Jason Grigsby, 03/2015
 
 ### Measure Performance
 
