@@ -85,6 +85,8 @@ This is not a Web Performance only Newsletter
 
 * [A Beginner’s Guide to Website Speed Optimization](https://kinsta.com/learn/page-speed/), Mark Gavalda, 05/2018
 
+* [Case study: analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/), Ivan Akulov, 04/2018
+
 * [Delivering Fast and Light Applications with Save-Data](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/save-data/), Ilya Grigroik, 01/2018
 
 * [Can You Afford It?: Real-world Web Performance Budgets](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/), Alex Russell, 10/2017
@@ -237,6 +239,8 @@ This is not a Web Performance only Newsletter
 * [Optimize Javascript Execution](https://developers.google.com/web/fundamentals/performance/rendering/optimize-javascript-execution), Paul Lewis, 01/2018
 
 * [Improving Performance with the Paint Timing API](https://www.sitepen.com/blog/2017/10/06/improving-performance-with-the-paint-timing-api), Umar Hansa, 10/2017
+
+* [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/),  Philip Walton, 09/2017
 
 * [Performant Web Animations and Interactions: Achieving 60 FPS](https://blog.algolia.com/performant-web-animations/), Emily Hayman, 08/2017
 
