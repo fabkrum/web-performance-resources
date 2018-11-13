@@ -16,6 +16,9 @@
   * [Javascript and Render Performance](#javascript-and-render-performance)  
   * [Perceived Performance](#perceived-performance)   
 * **[Online courses](#online-courses)**
+  * [Free Web Courses](#free-web-courses)
+  * [Free Video Courses](#free-video-courses)
+  * [Paid Video Courses](#paid-video-courses)
 * **[Videos](#videos)**
   * [Business](#business)
   * [Network](#network) 
@@ -269,8 +272,15 @@ This is all about how humans perceive performance and what we can do to help our
 
 These are excellent courses for web developer to gain a lot of insights about web performance.
 
+### Free Web Courses
+* [web.dev](https://web.dev/learn), Google, 11/2018
+
+### Free Video Courses
+
 * Udacity: [Website Performance Optimization by Google](https://www.udacity.com/course/website-performance-optimization--ud884) (free)
 This course is great to start. You will learn how the browser works internally and how you can optimise the critical render path.
+
+### Paid Video Courses
 
 * Frontend Masters: [Web Performance](https://frontendmasters.com/courses/web-performance/), Steve Kinney, 03/2018 ($39 / monthly subscription)
 This is the go to course for Frontend Developers. This course is going really deep into Javascript Performance and Rendering Performance. I recommend this for more senior developers.
