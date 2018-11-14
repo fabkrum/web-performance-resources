@@ -1,7 +1,7 @@
 # Web Performance Resources
 
 > This is a list of sources I personally found useful to learn about web performance.
-> I will keep this list up to date and add new great resources.
+> I keep this list up to date and add new great resources often.
 > If you know great resources which aren’t covered here please create a pull request.
 
 ### Table of Contents
