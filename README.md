@@ -65,9 +65,15 @@ This is not a Web Performance only Newsletter
 
 ### General
 
+* [The very real problem facing British retailers that nobody is talking about](https://www.shiftmagazine.com/articles/the-very-real-problem-facing-british-retailers-that-nobody-is-talking-about.html), Ryan Townsend, 11/2018
+
+* [Brain Food: Speed Matters: Designing for mobile performance (PDF)](https://www.awwwards.com/brain-food-perceived-performance/), AWWWARDS & Google, 2018
+
 * [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9), Addy Osmani, 11/2018
 
 * [Start performance budgeting](https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3), Addy Osmani, 10/2018
+
+* [Web Performance 101: JS, CSS, HTTP, images & fonts](https://3perf.com/talks/web-perf-101/), Ivan Akulov, 10/2018
 
 * [Hyper-Lightweight Websites Challenge (PDF)](http://www.chriszacharias.com/data/Hyperlight%20Websites%20-%20Chris%20Zacharias.pdf), Chris Zacharias, 10/2018
 
