@@ -208,7 +208,9 @@ This is not a Web Performance only Newsletter
 
 * [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance/), Harry Roberts, 11/2018
 
-* [Th font loading checklist](https://www.zachleat.com/web/font-checklist/), Zach Leatherman, 08/2018
+* [The font loading checklist](https://www.zachleat.com/web/font-checklist/), Zach Leatherman, 08/2018
+
+* [Analyzing Critical Rendering Path Performance](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/analyzing-crp), Ilya Grigorik, 08/2018
 
 * [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist), 2018, GitHub Project with updates
 
