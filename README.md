@@ -688,32 +688,6 @@ They all have a very good lineup:
 
 The [Web Performance Working Group](https://www.w3.org/webperf/) is providing methods to measure and improve aspects of application performance of user agent features and APIs.
 
-The [Performance Timing Primer](https://w3c.github.io/perf-timing-primer/) gives a good overview on what the Web Performance Group is working on:
+The [Performance Timing Primer](https://w3c.github.io/perf-timing-primer/) gives a good overview on what the Web Performance Group is working on.
 
-* [High-Resolution Time](https://github.com/w3c/hr-time)
-
-* [Performance Timeline](https://w3c.github.io/performance-timeline/)
-
-* [Resource Timing](https://w3c.github.io/resource-timing/)
-
-* [Navigation Timing](https://w3c.github.io/navigation-timing/)
-
-* [User Timing](https://w3c.github.io/user-timing/)
-
-* [Page Visibility](https://www.w3.org/TR/2017/PR-page-visibility-2-20171017/)
-
-* [Beacon API](https://www.w3.org/TR/beacon/)
-
-* [Cooperative Scheduling](https://github.com/w3c/requestidlecallback)
-
-* [Preload](https://www.w3.org/TR/preload/)
-
-* [Resource Hints](https://www.w3.org/TR/resource-hints/)
-
-* [Long Tasks](https://www.w3.org/TR/longtasks/)
-
-* [Server Timing](https://www.w3.org/TR/server-timing/)
-
-* [Paint Timing](https://www.w3.org/TR/paint-timing/)
-
-* [Device Memory](https://github.com/w3c/device-memory)
+[All standards and drafts from the Performance Working Group](https://www.w3.org/TR/?tag=performance)
