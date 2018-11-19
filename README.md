@@ -660,7 +660,7 @@ Learn what influence PWA have on business metrics.
 ## Open data sources
 
 * [HTTP Archive](https://httparchive.org/) / [Loading speed](https://beta.httparchive.org/reports/loading-speed)
-HTTP archive crawls periodically the top sites of the web and is a great source for learning about trends on the internet.
+HTTP archive crawls twice a month the 1.300.000 top sites of the web. This is the best source to understand the state of the web. The [HTTP Archive - Guided Tour](https://github.com/HTTPArchive/httparchive.org/blob/master/docs/guided_tour.md) from Paul Calvano and Rick Viscomi is the best way to get started.
 
 * [Firefox Public Data Report](https://data.firefox.com/), Firefox usage data
 
