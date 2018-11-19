@@ -206,6 +206,8 @@ This is not a Web Performance only Newsletter
 
 ### Optimise the Critical Render Path
 
+* [Inlining or Caching? Both Please!](https://www.filamentgroup.com/lab/inlining-cache.html), Scott Jehl, 11/2018
+
 * [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance/), Harry Roberts, 11/2018
 
 * [The font loading checklist](https://www.zachleat.com/web/font-checklist/), Zach Leatherman, 08/2018
