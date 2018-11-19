@@ -711,6 +711,9 @@ They all have a very good lineup:
 (Ticket: 550 EUR + VAT)
 8–9 November 2018, Amsterdam, Netherland
 
+* [We love speed](https://www.welovespeed.com/), Bordeaux, France – Not very international, most of the talks are French
+
+
 ## W3C Standards
 
 The [Web Performance Working Group](https://www.w3.org/webperf/) is providing methods to measure and improve aspects of application performance of user agent features and APIs.
