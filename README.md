@@ -5,40 +5,43 @@
 > If you know great resources which aren’t covered here please create a pull request.
 
 ### Table of Contents
-* **[Stay up to date: Community / Blogs / Newsletter](#stay-up-to-date)**
-* **[Articles](#articles)**
-  * [General](#general)
-  * [Network and Caching](#network-and-caching)
-  * [Image and Video Optimization](#image-and-video-optimization)  
-  * [Measure Performance](#measure-performance)
-  * [Third-Party Services](#third-party-services)
-  * [Optimise the Critical Render Path](#optimise-the-critical-render-path)
-  * [Javascript and Render Performance](#javascript-and-render-performance)  
-  * [Perceived Performance](#perceived-performance)   
-* **[Online courses](#online-courses)**
-  * [Free Web Courses](#free-web-courses)
-  * [Free Video Courses](#free-video-courses)
-  * [Paid Video Courses](#paid-video-courses)
-* **[Videos](#videos)**
-  * [Business](#business)
-  * [Network](#network) 
-  * [Measure](#measure)
-  * [Tooling](#tooling)
-  * [Image and video](#image-and-video)
-  * [The Psychology of Performance](#the-psychology-of-performance)
-  * [Third-Party Services](#third-party-services)
-  * [Development](#development)
-* **[Books](#books)**
-* **[Tools](#tools)**
-  * [Free tools and services](#free-tools-and-services)
-  * [Paid tools and services](#paid-tools-and-services)  
-* **[Open Source Projects](#open-source-projects)**
-* **[Studies](#studies)**
-* **[Open Data Sources](#open-data-sources)**
-* **[Web Performance Meetups](#web-performance-meetups)**
-* **[Conferences](#conferences)**
-* **[W3C Standards](#w3c-standards)**
-  
+
+* [Stay up to date](#stay-up-to-date)
+* [Articles](#articles)
+    + [General](#general)
+    + [Network and Caching](#network-and-caching)
+    + [Image and Video Optimization](#image-and-video-optimization)
+    + [Measure Performance](#measure-performance)
+    + [Third-Party Services](#third-party-services)
+    + [Optimise the Critical Render Path](#optimise-the-critical-render-path)
+    + [Javascript and Render Performance](#javascript-and-render-performance)
+    + [Perceived performance](#perceived-performance)
+* [Online courses](#online-courses)
+    + [Free Web Courses](#free-web-courses)
+    + [Free Video Courses](#free-video-courses)
+    + [Paid Video Courses](#paid-video-courses)
+* [Videos](#videos)
+    + [A crash course on web performance](#a-crash-course-on-web-performance)
+    + [Business](#business)
+    + [Third-Party Services](#third-party-services-1)
+    + [The Psychology of Performance](#the-psychology-of-performance)
+    + [Network](#network)
+    + [Measure](#measure)
+    + [Tooling](#tooling)
+    + [Image and Video](#image-and-video)
+    + [Development](#development)
+* [Books](#books)
+* [Tools](#tools)
+    + [Free tools and services](#free-tools-and-services)
+    + [Paid tools and services](#paid-tools-and-services)
+* [Open Source Projects](#open-source-projects)
+* [Studies](#studies)
+* [Case studies](#case-studies)
+* [Open data sources](#open-data-sources)
+* [Web Performance Meetups](#web-performance-meetups)
+* [Conferences](#conferences)
+* [W3C Standards](#w3c-standards)
+
 ## Stay up to date
 
 * [Planet Performance](http://www.perfplanet.com/)
@@ -69,8 +72,6 @@ This is not a Web Performance only Newsletter
 
 * [Brain Food: Speed Matters: Designing for mobile performance (PDF)](https://www.awwwards.com/brain-food-perceived-performance/), AWWWARDS & Google, 2018
 
-* [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9), Addy Osmani, 11/2018
-
 * [Start performance budgeting](https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3), Addy Osmani, 10/2018
 
 * [Web Performance 101: JS, CSS, HTTP, images & fonts](https://3perf.com/talks/web-perf-101/), Ivan Akulov, 10/2018
@@ -90,8 +91,6 @@ This is not a Web Performance only Newsletter
 * [Fostering a Web Performance Culture](https://levelup.gitconnected.com/fostering-a-web-performance-culture-41360eb8dd36), José M. Pérez, 06/2018
 
 * [A Beginner’s Guide to Website Speed Optimization](https://kinsta.com/learn/page-speed/), Mark Gavalda, 05/2018
-
-* [Case study: analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/), Ivan Akulov, 04/2018
 
 * [Delivering Fast and Light Applications with Save-Data](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/save-data/), Ilya Grigroik, 01/2018
 
@@ -159,7 +158,7 @@ This is not a Web Performance only Newsletter
 
 * [Accurately measuring layout on the web](https://nolanlawson.com/2018/09/25/accurately-measuring-layout-on-the-web/), Nolan Lawson, (09/2018)
 
-* [A step by step guide to monitoring the competition with the Chrome UX Report](https://dev.to/rick_viscomi/a-step-by-step-guide-to-monitoring-the-competition-with-the-chrome-ux-report-4k1o), Rick Viscomi, 09/2018 
+* [A step by step guide to monitoring the competition with the Chrome UX Report](https://dev.to/rick_viscomi/a-step-by-step-guide-to-monitoring-the-competition-with-the-chrome-ux-report-4k1o), Rick Viscomi, 09/2018
 
 * [How to track performance](https://designsystem.digital.gov/performance/how/#choosing-metrics-amp-tools), U.S. Web Design System, 07/2018
 
@@ -184,6 +183,7 @@ This is not a Web Performance only Newsletter
 * [Driving WebPagetest from a Google Docs Spreadsheet](https://calendar.perfplanet.com/2014/driving-webpagetest-from-a-google-docs-spreadsheet/), Andy Davies, 12/2014
 
 ### Third-Party Services
+
 * [How we shaved 1.7 seconds off casper.com by self-hosting Optimizely](https://medium.com/caspertechteam/we-shaved-1-7-seconds-off-casper-com-by-self-hosting-optimizely-2704bcbff8ec), Kyle Rush, 08/2018
 
 * [Changing Our Approach to Anti-tracking](https://blog.mozilla.org/futurereleases/2018/08/30/changing-our-approach-to-anti-tracking/), Nick Nguyen, 08/2018
@@ -289,6 +289,7 @@ This is all about how humans perceive performance and what we can do to help our
 These are excellent courses for web developer to gain a lot of insights about web performance.
 
 ### Free Web Courses
+
 * [web.dev](https://web.dev/learn), Google, 11/2018
 
 ### Free Video Courses
@@ -657,6 +658,17 @@ Learn what influence PWA have on business metrics.
 
 * [https://www.akamai.com/us/en/about/our-thinking/state-of-the-internet-report/](https://www.akamai.com/us/en/about/our-thinking/state-of-the-internet-report/)
 
+## Case studies
+
+Nikkei achieves a new level of quality and performance with their multi-page PWA (Google, 11/2018)  
+https://developers.google.com/web/showcase/2018/nikkei
+
+A Netflix Web Performance Case Study (Addy Osmani, 11/2018)  
+https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9
+
+Case study: analyzing the Walmart site performance (Ivan Akulov, 04/2018)  
+https://iamakulov.com/notes/walmart/
+
 ## Open data sources
 
 * [HTTP Archive](https://httparchive.org/) / [Loading speed](https://beta.httparchive.org/reports/loading-speed)
@@ -712,7 +724,6 @@ They all have a very good lineup:
 8–9 November 2018, Amsterdam, Netherland
 
 * [We love speed](https://www.welovespeed.com/), Bordeaux, France – Not very international, most of the talks are French
-
 
 ## W3C Standards
 
