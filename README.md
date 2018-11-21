@@ -660,14 +660,11 @@ Learn what influence PWA have on business metrics.
 
 ## Case studies
 
-Nikkei achieves a new level of quality and performance with their multi-page PWA (Google, 11/2018)  
-https://developers.google.com/web/showcase/2018/nikkei
+* [Nikkei achieves a new level of quality and performance with their multi-page PWA](https://developers.google.com/web/showcase/2018/nikkei), Google, 11/2018
 
-A Netflix Web Performance Case Study (Addy Osmani, 11/2018)  
-https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9
+* [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9), Addy Osmani, 11/2018
 
-Case study: analyzing the Walmart site performance (Ivan Akulov, 04/2018)  
-https://iamakulov.com/notes/walmart/
+* [Case study: analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/), Ivan Akulov, 04/2018
 
 ## Open data sources
 
