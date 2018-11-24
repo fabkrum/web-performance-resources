@@ -327,9 +327,13 @@ This is a great free introduction into web performance. Ilya Grigorik from Googl
 
 ### Business
 
+* [PWA Challenges](https://www.youtube.com/watch?v=1570FmnYtck) ([Slides](https://www.slideshare.net/grigs/progressive-web-app-challenges)), Jason Grigsby, 11/2018 – Performance.now()
+
+* [Building a Foundation for Performance](https://www.youtube.com/watch?v=FBeR6QvroEQ), Michelle Vu, 11/2018 – Performance.now()
+
 * [Starting a Dedicated Web Performance Team](https://www.youtube.com/watch?v=ne_UYfDmDYc), Sarah Dapul-Weberman, 06/2018
 
-* [Web Performance @ NBrown](https://www.youtube.com/watch?v=z-mhV-pn68Q) (Slides), Nick Webb & Laura Sheridan, 06/2018
+* [Web Performance @ NBrown](https://www.youtube.com/watch?v=z-mhV-pn68Q), Nick Webb & Laura Sheridan, 06/2018
 
 * [Fast Fashion: Missguided](https://www.youtube.com/watch?v=mLzt23ZVGx0) ([Slides](https://www.slideshare.net/AndyDavies/fast-fashion-how-missguided-revolutionised-their-approach-to-site-performance-deltav-conference-may-2018)), Mark Leach & Andy Davies, 06/2018
 
@@ -386,6 +390,8 @@ Nice introduction to HTTP2
 
 ### Measure
 
+* [The Latest in Metrics & Measurement](https://www.youtube.com/watch?v=XvZ7-Uh0R4Q), Paul Irish, 11/2018 – Performance.now()
+
 * [How I learned to stop worrying and love UX metrics](https://www.youtube.com/watch?v=lLR_nGA5t5g) ([Slides](https://www.slideshare.net/tammyeverts/how-i-learned-to-stop-worrying-and-love-ux-metrics)), Tammy Everts, 11/2018 – Performance.now() Conference
 
 * [User Experience & Performance: Metrics that Matter](https://www.youtube.com/watch?v=nEHsHioWY1U), [Slides](https://speakerdeck.com/bluesmoon/ux-and-performance-metrics-that-matter-a062d37f-e6c7-4b8a-8399-472ec76bb75e), Philip Tellis, 10/2018
@@ -425,6 +431,8 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 
 ### Image and Video
 
+* [Image Optimization](https://www.youtube.com/watch?v=jTXhYj2aCDU), Kornel Lesiński, 11/2018 – Performance.now()
+
 * [Beyond the Basics of Image Optimization](https://vimeo.com/254736788) — ([Slides](https://github.com/una/beyond-the-basics-of-image-optimization)), Una Kravets/Martin Splitt, 02/2018
 
 * [Your Hero Images Need You! Save the Day with HTTP2 Image Loading](https://vimeo.com/163113212), Tobias Baldauf, 04/2016
@@ -433,6 +441,10 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 
 ### Development
 
+* [Raiders of the Fast Start: Frontend Perf Archeology](https://www.youtube.com/watch?v=qts9gPYoANU) ([Slides](https://www.slideshare.net/KatrinaSylorMiller/raiders-of-the-fast-start-frontend-performance-archaeology-performancenow-conference)), Katie Sylor-Miller, 11/2018 - Performance.now() Conference
+
+* [The Long Tail of Performance](https://www.youtube.com/watch?v=6vMvg38CXFk) ([Slides](https://noti.st/tkadlec/FAqr8X)), Tim Kadlec, 11/2018 - Performance.now() Conference
+
 * [Optimizing Fonts](https://www.youtube.com/watch?v=FbguhX3n3Uc) ([Slides](https://noti.st/zachleat/KNaZEg/the-five-whys-of-web-font-loading-performance)), Zach Leatherman, 11/2018 – Performance.now() Conference
 
 * [How I optimized my JavaScript sheet music rendering engine](https://www.youtube.com/watch?v=XH5EtQge_Bg), Adrian Holovaty, 11/2018 – Performance.now() Conference
@@ -440,8 +452,6 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 * [Debugging UI Performance Issues](https://www.youtube.com/watch?v=JGdIzKcAEkI) ([Slides](https://www.slideshare.net/AnnaMigas1/performancenow-fast-but-not-furious)), Anna Migas, 11/2018 – Performance.now() Conference
 
 * [Make JavaScript Faster](https://www.youtube.com/watch?v=RwSlubTBnew) ([Slides](https://www.slideshare.net/souders/make-javascript-faster)), Steve Souders, 11/2018 – Performance.now() Conference
-
-* [The Long Tail of Performance](https://vimeo.com/296791460), Tim Kadlec, 10/2018
 
 * [Schedule your animations like a pro – with requestAnimationFrame](https://www.youtube.com/watch?v=wSEU7ivOnzc), Paul Lewis, 09/2018
 
