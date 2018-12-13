@@ -68,6 +68,8 @@ This is not a Web Performance only Newsletter
 
 ### General
 
+* [You need neither PWA nor AMP to make your website load fast](http://tonsky.me/blog/pwa/), Nikita, 11/2018
+
 * [The very real problem facing British retailers that nobody is talking about](https://www.shiftmagazine.com/articles/the-very-real-problem-facing-british-retailers-that-nobody-is-talking-about.html), Ryan Townsend, 11/2018
 
 * [Brain Food: Speed Matters: Designing for mobile performance (PDF)](https://www.awwwards.com/brain-food-perceived-performance/), AWWWARDS & Google, 2018
