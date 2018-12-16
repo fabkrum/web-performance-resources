@@ -25,7 +25,7 @@
     + [Business](#business)
     + [Third-Party Services](#third-party-services-1)
     + [The Psychology of Performance](#the-psychology-of-performance)
-    + [Network](#network)
+    + [Network and Caching](#network-and-caching)
     + [Measure](#measure)
     + [Tooling](#tooling)
     + [Image and Video](#image-and-video)
@@ -377,7 +377,9 @@ This is a really good talk about how humans perceive performance. Eli shares a l
 * [Deconstructing Performance](https://vimeo.com/184659742), Denys Mishunov, 01/2016
 The content of this talk is similar to Eli Fitch’s talk, but less technical.
 
-### Network
+### Network and Caching
+
+* [Building Faster, More Resilient Apps with Service Worker (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=25aCD5XL1Jk), Phil Walton/Ewa Gasperowicz, 11/2018
 
 * [Headers for Hackers](https://www.youtube.com/watch?v=k92ZbrY815c) ([Slides](https://speakerdeck.com/triblondon/headers-for-hackers)), Andrew Betts, 11/2018 – Performance.now() Conference
 
@@ -418,6 +420,8 @@ Nice introduction to HTTP2
 
 ### Tooling
 
+* [State of the Union for Speed Tooling (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=ymxs8OSXiUA), Elizabeth Sween/Paul Irish, 11/2018
+
 * [What’s new in Chrome Dev Tools](https://www.youtube.com/watch?v=mfuE53x4b3k&index=36&list=PL5jvCmjsPECB2mhJopSB-yryxO473JA1r&t=52s), Paul Irish, 05/2018
 
 * [The power of Headless Chrome and browser automation](https://www.youtube.com/watch?v=lhZOFUY1weo), Eric Bidelman, 05/2018
@@ -433,6 +437,8 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 
 ### Image and Video
 
+* [Building Modern Web Media Experiences: Picture-in-Picture and AV1 (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=iTC3mfe0DwE), François Beaufort/Angie Chiang, 11/2018
+
 * [Image Optimization](https://www.youtube.com/watch?v=jTXhYj2aCDU), Kornel Lesiński, 11/2018 – Performance.now()
 
 * [Beyond the Basics of Image Optimization](https://vimeo.com/254736788) — ([Slides](https://github.com/una/beyond-the-basics-of-image-optimization)), Una Kravets/Martin Splitt, 02/2018
@@ -442,6 +448,9 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 * [High Performance Images: Beautiful Shouldn’t Mean Slow](https://www.youtube.com/watch?v=7zgd2OjSoS8), Guy Podjarny, 12/2015
 
 ### Development
+
+* [A Quest to Guarantee Responsiveness: Scheduling On and Off the Main Thread (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=mDdgfyRB5kg), Shubhie Panicker/Jason Miller, 11/2018
+* [Speed Essentials: Key Techniques for Fast Websites (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=reztLS3vomE), Katie Hempenius/Houssein Djirdeh, 11/2018
 
 * [Raiders of the Fast Start: Frontend Perf Archeology](https://www.youtube.com/watch?v=qts9gPYoANU) ([Slides](https://www.slideshare.net/KatrinaSylorMiller/raiders-of-the-fast-start-frontend-performance-archaeology-performancenow-conference)), Katie Sylor-Miller, 11/2018 - Performance.now() Conference
 
@@ -545,6 +554,9 @@ Chrome extension for detecting and simulating frontend Single Points Of Failure
 * [CSS Triggers](https://csstriggers.com/)
 Which CSS element trigger layout, paint, or composite?
 
+* [BundlePhobia](https://bundlephobia.com/)
+find the cost of adding a npm package to your bundle
+
 * [FOIT vs FOUT](https://www.zachleat.com/foitfout/)
 
 * [Source Map Explorer](https://www.npmjs.com/package/source-map-explorer), [Webpback Bundle Analyer](https://www.npmjs.com/package/webpack-bundle-analyzer)
@@ -558,6 +570,9 @@ Nice list of 3rd party trackers with detailed information, for example about how
 
 * [ImageOptim](https://imageoptim.com/)
 Image compression
+
+* [Squoosh](https://squoosh.app)
+Upload an image and compare the original with different compressed version to find a good balance between filesize and image quality. 
 
 * [Can I use?](https://caniuse.com/)
 Check the browser support for every web technology.
