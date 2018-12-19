@@ -152,6 +152,8 @@ This is not a Web Performance only Newsletter
 
 ### Measure Performance
 
+* [Second Meaningful Content: the Worst Performance Metric](https://www.filamentgroup.com/lab/second-meaningful-content.html), Scott Jehl, 11/2018
+
 * [The Three Types of Performance Testing](https://csswizardry.com/2018/10/three-types-of-performance-testing/), Harry Roberts, 10/2018
 
 * [Applying Waterfall Visualizations to Real User Monitoring Data](https://developer.akamai.com/blog/2018/10/10/applying-waterfall-visualizations-real-user-monitoring-data), Simon Hearne, 10/2018
