@@ -216,6 +216,8 @@ This is not a Web Performance only Newsletter
 
 ### Optimise the Critical Render Path
 
+* [CSS audit](https://css-tricks.com/a-quick-css-audit-and-general-notes-about-design-systems/)
+
 * [[Measuring the Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/measure-crp), Ilya Grigorik, 12/2018 
 
 * [Inlining or Caching? Both Please!](https://www.filamentgroup.com/lab/inlining-cache.html), Scott Jehl, 11/2018
@@ -646,6 +648,8 @@ Estimate the revenue impact of performance optimisations
 * [Performance budget calculator](http://www.performancebudget.io/)
 
 * [Gzip and Brotli Compression Level Estimator](https://tools.paulcalvano.com/compression.php)
+
+* [CSS stats](https://cssstats.com/)
 
 ### Paid tools and services
 
