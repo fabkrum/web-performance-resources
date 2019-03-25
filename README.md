@@ -708,6 +708,8 @@ Learn what influence PWA have on business metrics.
 
 ## Case studies
 
+* [How we built the fastest conference website in the world](https://2019.jsconf.eu/news/how-we-built-the-fastest-conference-website-in-the-world/), 03/2019
+
 * [Nikkei achieves a new level of quality and performance with their multi-page PWA](https://developers.google.com/web/showcase/2018/nikkei), Google, 11/2018
 
 * [Measuring Web Performance for Wikipedia using synthetic testing tools](https://speakerdeck.com/soulislove/measuring-web-performance-for-wikipedia-using-synthetic-testing-tools), Wikimedia Foundation, 10/2018
