@@ -710,6 +710,8 @@ Learn what influence PWA have on business metrics.
 
 ## Case studies
 
+* [Who has the fastest website in F1?](https://jakearchibald.com/2019/f1-perf/), Jake Archiblad, 03/2019
+
 * [How we built the fastest conference website in the world](https://2019.jsconf.eu/news/how-we-built-the-fastest-conference-website-in-the-world/), 03/2019
 
 * [Nikkei achieves a new level of quality and performance with their multi-page PWA](https://developers.google.com/web/showcase/2018/nikkei), Google, 11/2018
