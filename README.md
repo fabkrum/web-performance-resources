@@ -138,6 +138,8 @@ This is not a Web Performance only Newsletter
 
 * [What is the preload directive?](https://www.keycdn.com/support/preload-directive/), 01/2017
 
+* [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices/), Jake Archibald, 2016
+
 * [How DNS works](https://howdns.works/) (Comic)
 
 ### Image and Video Optimization
