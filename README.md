@@ -110,6 +110,8 @@ This is not a Web Performance only Newsletter
 
 ### Network and Caching
 
+* [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/), Harry Roberts, 03/2019
+
 * [TTFB optimization: a guide to enhanced performance](https://www.netcentric.biz/insights/2019/03/ttfb.html), Stephan Becker, 03/2019
 
 * [All about prefetching](https://calendar.perfplanet.com/2018/all-about-prefetching/), Katie Hempenius, 12/2018
@@ -156,6 +158,12 @@ This is not a Web Performance only Newsletter
 
 * [Using SVG as placeholders — More Image Loading Techniques](https://jmperezperez.com/svg-placeholders/), José M. Pérez, 10/2017
 
+* [Base64 Encoding & Performance, Part 2: Gathering Data](https://csswizardry.com/2017/02/base64-encoding-and-performance-part-2/), Harry Roberts, 02/2017
+
+* [Base64 Encoding & Performance, Part 1: What’s Up with Base64?](https://csswizardry.com/2017/02/base64-encoding-and-performance/), Harry Roberts, 02/2017
+
+* [Improving Perceived Performance with Multiple Background Images](https://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images/), Harry Roberts, 10/2016
+
 * [How Medium does progressive image loading](https://jmperezperez.com/medium-image-progressive-loading-placeholder/), José M. Pérez, 10/2015
 
 * [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/), Jason Grigsby, 03/2015
@@ -191,6 +199,8 @@ This is not a Web Performance only Newsletter
 * [User-centric Performance Metrics](https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics), Philip Walton, 02/2018
 
 * [An Audit of Boomerang’s Performance](https://nicj.net/an-audit-of-boomerangs-performance/), Nic Jansma, 12/2017
+
+* [Choosing the Correct Average](https://csswizardry.com/2017/01/choosing-the-correct-average/), Harry Roberts, 01/2017
 
 * [User Timing and Custom Metrics](https://speedcurve.com/blog/user-timing-and-custom-metrics/), Steve Souders, 11/2015
 
