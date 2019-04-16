@@ -248,6 +248,8 @@ This is not a Web Performance only Newsletter
 
 ### Javascript and Render Performance
 
+* [Responsible Javascript](https://alistapart.com/article/responsible-javascript-part-1/), Jeremy Wagner, 03/2019
+
 * [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/), Philip Walton, 09/2018
 
 * [Browser painting and considerations for web performance](https://css-tricks.com/browser-painting-and-considerations-for-web-performance/), Georgy Marchuk, 08/2018
