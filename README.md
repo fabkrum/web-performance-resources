@@ -260,6 +260,8 @@ This is not a Web Performance only Newsletter
 
 ### Javascript and Render Performance
 
+* [Svelte 3: Rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity), Rich Harris, 04/2019
+
 * [Responsible Javascript](https://alistapart.com/article/responsible-javascript-part-1/), Jeremy Wagner, 03/2019
 
 * [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/), Philip Walton, 09/2018
@@ -288,7 +290,7 @@ This is not a Web Performance only Newsletter
 
 * [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201), Addy Osmani, 02/2017
 
-*[Performant Parallaxing](https://developers.google.com/web/updates/2016/12/performant-parallaxing), Paul Lewis, 12/2016
+* [Performant Parallaxing](https://developers.google.com/web/updates/2016/12/performant-parallaxing), Paul Lewis, 12/2016
 
 * [The Anatomy of a Frame](https://aerotwist.com/blog/the-anatomy-of-a-frame/), Paul Lewis, 02/2016
 
