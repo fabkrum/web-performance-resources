@@ -270,6 +270,8 @@ This is not a Web Performance only Newsletter
 
 * [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4) ([Video](https://www.youtube.com/watch?v=i5R7giitymk)), Addy Osmani, 08/2018
 
+* [Examining Web Worker Performance](https://www.loxodrome.io/post/web-worker-performance/), James L Milner, 05/2018
+
 * [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist), 2018, GitHub Project with updates
 
 * [jankfree](http://jankfree.org/), Website which collects resources about render performance
