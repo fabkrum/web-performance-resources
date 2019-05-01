@@ -68,6 +68,8 @@ This is not a Web Performance only Newsletter
 
 ### General
 
+* [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/), Vitaly Friedman, 01/2019 
+
 * [You need neither PWA nor AMP to make your website load fast](http://tonsky.me/blog/pwa/), Nikita, 11/2018
 
 * [The very real problem facing British retailers that nobody is talking about](https://www.shiftmagazine.com/articles/the-very-real-problem-facing-british-retailers-that-nobody-is-talking-about.html), Ryan Townsend, 11/2018
@@ -78,7 +80,7 @@ This is not a Web Performance only Newsletter
 
 * [Web Performance 101: JS, CSS, HTTP, images & fonts](https://3perf.com/talks/web-perf-101/), Ivan Akulov, 10/2018
 
-* [Hyper-Lightweight Websites Challenge (PDF)](http://www.chriszacharias.com/data/Hyperlight%20Websites%20-%20Chris%20Zacharias.pdf), Chris Zacharias, 10/2018
+* [Hyper-Lightweight Websites Challenge (PDF)](http://www.chriszacharias.com/data/Hyperlight%20Websites%20-%20Chris%20Zacharias.pdf) / [Toronto SPOTLIGHT PERFORMANCE talk](https://youtu.be/EZ3mlLyO_ww), Chris Zacharias, 10/2018
 
 * [The power of progressive enhancement](https://medium.com/no-divide/the-power-of-progressive-enhancement-98738766b009), Andy Bell, 08/2018
 
