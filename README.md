@@ -508,6 +508,8 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 
 * [Frontend Resilience](https://www.youtube.com/watch?v=iUfymdAZ1wI) ([Slides](https://speakerdeck.com/ianfeather/building-resilient-frontend-systems-all-day-hey)), Ian Feather, 06/2018
 
+* [There's more to Performance than meets the Eye](https://www.youtube.com/watch?v=n1sXj9oAXFU), Léonie Watson, 06/2018, Delta Conference
+
 * [The Event Loop](https://vimeo.com/254947206), Jake Archibald, 02/2018 – [W3C Spec Event Loop](https://html.spec.whatwg.org/multipage/webappapis.html#event-loop-processing-model)
 
 * [Performant Animations: Hitting 60fps](https://vimeo.com/254906131), Emily Hayman, 02/2018
