@@ -479,6 +479,8 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 
 ### Image and Video
 
+* [SVG Will Save Us](https://www.youtube.com/watch?v=sxte3WpyO60), Sarah Drasner, 04/2019, perfmatters
+
 * [Building Modern Web Media Experiences: Picture-in-Picture and AV1 (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=iTC3mfe0DwE), François Beaufort/Angie Chiang, 11/2018
 
 * [Image Optimization](https://www.youtube.com/watch?v=jTXhYj2aCDU), Kornel Lesiński, 11/2018 – Performance.now()
