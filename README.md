@@ -264,6 +264,8 @@ This is not a Web Performance only Newsletter
 
 ### Javascript and Render Performance
 
+* [Faster script loading with BinaryAST?](https://blog.cloudflare.com/binary-ast/), Ingvar Stepanyan, 05/2019
+
 * [Svelte 3: Rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity), Rich Harris, 04/2019
 
 * [Responsible Javascript](https://alistapart.com/article/responsible-javascript-part-1/), Jeremy Wagner, 03/2019
