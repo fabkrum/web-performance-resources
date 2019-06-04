@@ -587,6 +587,9 @@ This is the go to tool for all web developers. Understand how your code gets loa
 * [Image Analyser](https://webspeedtest.cloudinary.com/)
 Image analysis tool. This tool gives you insight about how you can optimise your images to gain a better web performance. This tool is also integrated within webpagetest.org.
 
+* [Web Performance Budget Calculator](https://perf-budget-calculator.firebaseapp.com/)
+Create your own budget based on httparchive data of millions of pages. Download it as an json file for [Lighthouse Web Performance Budget](https://developers.google.com/web/tools/lighthouse/audits/budgets).
+
 * [WebPageTest](http://www.webpagetest.org/)
 Make synthetic measurements from all over the world. Make performance audits of any website. This tool is very powerful and gives you a lot of insights. I use it a lot to make a website comparison video.
 
