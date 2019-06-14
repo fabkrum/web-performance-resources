@@ -112,11 +112,15 @@ This is not a Web Performance only Newsletter
 
 ### Network and Caching
 
+* [Three Ways of Checking Rel=preconnect Resource Hints Are Working](https://andydavies.me/blog/2019/04/17/three-ways-of-checking-your-rel-equals-preconnect-resource-hints-are-working/), Andy Davies, 04/2019
+
 * [Preconnect resource hint and the crossorigin attribute](https://crenshaw.dev/preconnect-resource-hint-crossorigin-attribute), Michael Crenshaw, 04/2019
 
 * [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/), Harry Roberts, 03/2019
 
 * [TTFB optimization: a guide to enhanced performance](https://www.netcentric.biz/insights/2019/03/ttfb.html), Stephan Becker, 03/2019
+
+* [Preloading Fonts and the Puzzle of Priorities](https://andydavies.me/blog/2019/02/12/preloading-fonts-and-the-puzzle-of-priorities/), Andy Davies, 02/2019
 
 * [All about prefetching](https://calendar.perfplanet.com/2018/all-about-prefetching/), Katie Hempenius, 12/2018
 
