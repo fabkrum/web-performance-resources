@@ -112,6 +112,8 @@ This is not a Web Performance only Newsletter
 
 ### Network and Caching
 
+* [When should you be using Web Workers?](https://dassur.ma/things/when-workers/), Surma, 06/2019
+
 * [Three Ways of Checking Rel=preconnect Resource Hints Are Working](https://andydavies.me/blog/2019/04/17/three-ways-of-checking-your-rel-equals-preconnect-resource-hints-are-working/), Andy Davies, 04/2019
 
 * [Preconnect resource hint and the crossorigin attribute](https://crenshaw.dev/preconnect-resource-hint-crossorigin-attribute), Michael Crenshaw, 04/2019
