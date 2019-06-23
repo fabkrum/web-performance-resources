@@ -700,6 +700,8 @@ Estimate the revenue impact of performance optimisations
 
 * [CSS stats](https://cssstats.com/)
 
+* [Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
+
 ### Paid tools and services
 
 These are professional tools which cost money. The cost are usually depends on traffic, server or data.
@@ -757,6 +759,8 @@ Learn what influence PWA have on business metrics.
 
 ## Case studies
 
+* [Improving third-party web performance at The Telegraph](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5), Gareth Clubb, 04/2019
+
 * [Who has the fastest website in F1?](https://jakearchibald.com/2019/f1-perf/), Jake Archiblad, 03/2019
 
 * [How we built the fastest conference website in the world](https://2019.jsconf.eu/news/how-we-built-the-fastest-conference-website-in-the-world/), 03/2019
@@ -800,11 +804,18 @@ Browser stats, Network latency between regions
 
 Look for a performance Meetup group close to where you live. This is a great opportunity to share and discuss ideas with other performance experts. Here are some groups close to our offices:
 
-* Munich: [https://www.meetup.com/Munchen-Web-Performance-Group/](https://www.meetup.com/Munchen-Web-Performance-Group/)
+* Barcelona: [https://www.meetup.com/Barcelona-Web-Performance/](https://www.meetup.com/Barcelona-Web-Performance/)
 
 * Berlin: [https://www.meetup.com/Berlin-Web-Performance-Group/](https://www.meetup.com/Berlin-Web-Performance-Group/)
 
-* Barcelona: [https://www.meetup.com/Barcelona-Web-Performance/](https://www.meetup.com/Barcelona-Web-Performance/)
+* London: [https://ldnwebperf.org/](https://ldnwebperf.org/)
+
+* Munich: [https://www.meetup.com/Munchen-Web-Performance-Group/](https://www.meetup.com/Munchen-Web-Performance-Group/)
+
+* New York City [https://www.meetup.com/Web-Performance-NY/](https://www.meetup.com/Web-Performance-NY/)
+
+* Toronto: [https://www.meetup.com/Toronto-Web-Performance-Group/](https://www.meetup.com/Toronto-Web-Performance-Group/)
+
 
 ## Conferences
 
