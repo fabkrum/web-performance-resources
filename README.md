@@ -54,7 +54,7 @@ Great resource to learn the newest Chrome Dev Tools tips and tricks
 
 * Twitter: [#webperf](https://twitter.com/search?q=%23webperf), [#perfmatters](https://twitter.com/search?q=%23perfmatters)
 
-* This [Web Performance Twitter-List](https://twitter.com/fabkru/lists/web-performance) makes it easy for you to follow all the web performance authors, speakers, and evangelists at once:
+* This [Web Performance Twitter-List](https://twitter.com/fabkru/lists/web-performance) makes it easy for you to follow all the web performance authors, speakers, and evangelists at once
 
 * [Web performance Slack channel ](https://webperformance.herokuapp.com/)
 Slack channel which is focusing on web performance with more than 750 members
@@ -67,6 +67,8 @@ This is not a Web Performance only Newsletter
 ## Articles
 
 ### General
+
+* [Web Page Usability Matters](https://dev.to/addyosmani/web-page-usability-matters-3aok), Addy Osmani, 01/2019
 
 * [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/), Vitaly Friedman, 01/2019 
 
@@ -177,6 +179,8 @@ This is not a Web Performance only Newsletter
 * [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/), Jason Grigsby, 03/2015
 
 ### Measure Performance
+
+* [Web Page Usability Matters](https://dev.to/addyosmani/web-page-usability-matters-3aok), Addy Osmani, 01/2019
 
 * [Metrics from 1M sites](https://speedcurve.com/blog/metrics-from-1m-sites/), Steve Souders, 12/2018
 
@@ -427,6 +431,8 @@ The content of this talk is similar to Eli Fitch’s talk, but less technical.
 
 ### Network and Caching
 
+* [Resource loading, prioritization, HTTP/2 - oh my! - PerfMatters](https://www.youtube.com/watch?v=nOW-i6bbRdo) ([Slides](https://www.slideshare.net/patrickmeenan/resource-loading-prioritization-http2-oh-my) / [Slides from Tutorial](https://www.slideshare.net/patrickmeenan/http2-in-practice)), Patrick Meenan, 05/2019
+
 * [Building Faster, More Resilient Apps with Service Worker (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=25aCD5XL1Jk), Phil Walton/Ewa Gasperowicz, 11/2018
 
 * [Headers for Hackers](https://www.youtube.com/watch?v=k92ZbrY815c) ([Slides](https://speakerdeck.com/triblondon/headers-for-hackers), [Article: Headers we want](https://www.fastly.com/blog/headers-we-want), [Article: Headers we don't want](https://www.fastly.com/blog/headers-we-dont-want)), Andrew Betts, 11/2018 – Performance.now() Conference
@@ -598,6 +604,9 @@ This is the go to tool for all web developers. Understand how your code gets loa
 
 * [Image Analyser](https://webspeedtest.cloudinary.com/)
 Image analysis tool. This tool gives you insight about how you can optimise your images to gain a better web performance. This tool is also integrated within webpagetest.org.
+
+* [Responsive Image Breakpoints Generator v2.0](https://responsivebreakpoints.com/)
+Easily generate the optimal responsive image dimensions
 
 * [Web Performance Budget Calculator](https://perf-budget-calculator.firebaseapp.com/)
 Create your own budget based on httparchive data of millions of pages. Download it as an json file for [Lighthouse Web Performance Budget](https://developers.google.com/web/tools/lighthouse/audits/budgets).
