@@ -470,6 +470,8 @@ Nice introduction to HTTP2
 
 ### Tooling
 
+* [Demystifying Speed Tooling (Google I/O ’19)](https://www.youtube.com/watch?v=mLjxXPHuIJo), Elizabeth Sweeny & Paul Irish & Amir Rachum, 05/2019
+
 * [State of the Union for Speed Tooling (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=ymxs8OSXiUA), Elizabeth Sween/Paul Irish, 11/2018
 
 * [What’s new in Chrome Dev Tools](https://www.youtube.com/watch?v=mfuE53x4b3k&index=36&list=PL5jvCmjsPECB2mhJopSB-yryxO473JA1r&t=52s), Paul Irish, 05/2018
@@ -500,6 +502,10 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 * [High Performance Images: Beautiful Shouldn’t Mean Slow](https://www.youtube.com/watch?v=7zgd2OjSoS8), Guy Podjarny, 12/2015
 
 ### Development
+
+* [Speed at Scale: Web Performance Tips and Tricks from the Trenches (Google I/O ’19)](https://www.youtube.com/watch?v=YJGCZCaIZkQ), Addy Osmani & Katie Hempenius, 05/2019
+
+* [Rendering on the Web: Performance Implications of Application Architecture (Google I/O ’19)](https://www.youtube.com/watch?v=k-A2VfuUROg), Jason Miller & Houssein Djirdeh , 05/2019
 
 * [A Quest to Guarantee Responsiveness: Scheduling On and Off the Main Thread (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=mDdgfyRB5kg), Shubhie Panicker/Jason Miller, 11/2018
 * [Speed Essentials: Key Techniques for Fast Websites (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=reztLS3vomE), Katie Hempenius/Houssein Djirdeh, 11/2018
