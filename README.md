@@ -448,6 +448,8 @@ Nice introduction to HTTP2
 
 ### Measure
 
+* [How website speed can impact digital ad revenue](https://www.youtube.com/watch?v=EwlmYec3M-s) ([Slides](https://simonhearne.github.io/presentations/digital-revenue/#/)), Simon Hearne, 06/2019
+
 * [Crash Course in CrUX](https://www.youtube.com/watch?v=YUD5mDOJmhE), [Slides](https://gist.github.com/rviscomi/250bee3c02d1bf9e6e1f528c8813c535), Rick Viscomi, 04/2018 - perfmatters
 
 * [The Latest in Metrics & Measurement](https://www.youtube.com/watch?v=XvZ7-Uh0R4Q), Paul Irish, 11/2018 – Performance.now()
