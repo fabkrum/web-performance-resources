@@ -421,6 +421,8 @@ This is a great free introduction into web performance. Ilya Grigorik from Googl
 
 ### The Psychology of Performance
 
+* [Designing for Speed & Hacking Users Perception](https://www.youtube.com/watch?v=zfn_tVY5qRI), Mustafa Kurtuldu, 04/2019
+
 * [Cheating the UX when there is nothing more to optimize](https://vimeo.com/251825705) ([Slides](https://speakerdeck.com/stephaniewalter/cheating-the-ux-when-there-is-nothing-more-to-optimise)), Stephanie Walter, 01/2018
 
 * O’Reilly Safaribooksonline: [Perceived Performance: The Only Kind that Really Matters](https://www.safaribooksonline.com/library/view/perceived-performance-the/9781492029953/) ([Slides](http://assets.eli.wtf/talks/perceived-perf-talk/)), Eli Fitch, 11/2017 (34$ / monthly subscription) 
