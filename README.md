@@ -324,6 +324,8 @@ This is not a Web Performance only Newsletter
 
 This is all about how humans perceive performance and what we can do to help our users to keep focused:
 
+* [Everything you need to know about skeleton screens](https://uxdesign.cc/what-you-should-know-about-skeleton-screens-a820c45a571a), Bill Chung, 10/2018
+
 * [The psychology of web performance](https://blog.uptrends.com/web-performance/the-psychology-of-web-performance/), 06/2018
 
 * [The Illusion of Time](https://medium.com/swlh/the-illusion-of-time-8f321fa2f191), Adrian Zumbrunnen, 08/2015
