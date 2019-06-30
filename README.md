@@ -602,6 +602,9 @@ Another classic book.
 
 ### Free tools and services
 
+* [SpeedChecklist](https://speedchecklist.com/)
+A checklist which shows you how to optimise web performance issues you might have. You find best practices for the most common problems described in great detail.
+
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 Lighthouse is becoming the best audit tool for web performance. It has a great documentation and gives valuable insights. This is where my performance audit is starting.
 
