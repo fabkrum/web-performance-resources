@@ -720,6 +720,13 @@ Estimate the revenue impact of performance optimisations
 
 * [Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
 
+* [SimilarWeb](https://www.similarweb.com/)
+Find similar pages for a competitor benchmark.
+
+* [Build with](https://builtwith.com/)
+Understand the technical building blocks of a website.
+
+
 ### Paid tools and services
 
 These are professional tools which cost money. The cost are usually depends on traffic, server or data.
