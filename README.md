@@ -244,9 +244,11 @@ This is not a Web Performance only Newsletter
 
 ### Optimise the Critical Render Path
 
+* [The Simplest Way to Load CSS Asynchronously](https://www.filamentgroup.com/lab/load-css-simpler/), Scott Jehl, 07/2019
+
 * [CSS audit](https://css-tricks.com/a-quick-css-audit-and-general-notes-about-design-systems/)
 
-* [[Measuring the Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/measure-crp), Ilya Grigorik, 12/2018 
+* [Measuring the Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/measure-crp), Ilya Grigorik, 12/2018 
 
 * [Inlining or Caching? Both Please!](https://www.filamentgroup.com/lab/inlining-cache.html), Scott Jehl, 11/2018
 
