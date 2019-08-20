@@ -445,6 +445,8 @@ The content of this talk is similar to Eli Fitch’s talk, but less technical.
 
 * [Fun with Protocols](https://www.youtube.com/watch?v=WCwzKe4pKxY), Natasha Rooney, 11/2018 – Performance.now() Conference
 
+* [Take a (Client) Hint](https://speaking.jeremy.codes/yD4dKY), Jeremy Wagner, 09/2018 - FullStack Fest Conference
+
 * [QUIC: in Theory and Practice](https://www.youtube.com/watch?v=B1SQFjIXJtc), [Slides](http://internetonmars.org/deltav.pdf), Robin Marx, 06/2018
 
 * [HTTP/2 101](https://www.youtube.com/watch?v=r5oT_2ndjms), Surma, 11/2015
