@@ -180,6 +180,10 @@ This is not a Web Performance only Newsletter
 
 ### Measure Performance
 
+*[Largest Contentful Paint](https://web.dev/largest-contentful-paint/), Philip Walton, 08/2019
+
+* [Time to First Byte: What It Is and Why It Matters](https://csswizardry.com/2019/08/time-to-first-byte-what-it-is-and-why-it-matters/), Harry Roberts, 08/2019
+
 * [Web Page Usability Matters](https://dev.to/addyosmani/web-page-usability-matters-3aok), Addy Osmani, 01/2019
 
 * [Metrics from 1M sites](https://speedcurve.com/blog/metrics-from-1m-sites/), Steve Souders, 12/2018
@@ -201,6 +205,8 @@ This is not a Web Performance only Newsletter
 * [Assessing Loading Performance in Real Life with Navigation and Resource Timing](https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/), Jeremy Wagner, 06/2018
 
 * [User Timing API (Custom Timing): the most relevant performance measure ever](https://blog.dareboost.com/en/2018/03/user-timing-api-measuring-web-performance-custom-timing/), Damien Jubeau, 03/2018
+
+* [Server Timing in the Wild](https://medium.com/bbc-design-engineering/server-timing-in-the-wild-bfb34816322e), Christopher Sidebottom, 03/2018
 
 * [Is a High Abandon Rate Hitting Your Online Marketing Budget?](https://medium.com/web-perf-practitioner/is-a-high-abandon-rate-hitting-your-online-marketing-budget-c819f85f96b2), Fabian Krumbholz, 03/2018
 
