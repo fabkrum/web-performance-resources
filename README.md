@@ -180,7 +180,7 @@ This is not a Web Performance only Newsletter
 
 ### Measure Performance
 
-*[Largest Contentful Paint](https://web.dev/largest-contentful-paint/), Philip Walton, 08/2019
+* [Largest Contentful Paint](https://web.dev/largest-contentful-paint/), Philip Walton, 08/2019
 
 * [Time to First Byte: What It Is and Why It Matters](https://csswizardry.com/2019/08/time-to-first-byte-what-it-is-and-why-it-matters/), Harry Roberts, 08/2019
 
