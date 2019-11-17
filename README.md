@@ -444,6 +444,8 @@ The content of this talk is similar to Eli Fitch’s talk, but less technical.
 
 ### Network and Caching
 
+* [HTTP/3 - HTTP over QUIC is the next generation](https://www.youtube.com/watch?v=idViw4anA6E), Daniel Stenberg, 09/2019
+
 * [Resource loading, prioritization, HTTP/2 - oh my! - PerfMatters](https://www.youtube.com/watch?v=nOW-i6bbRdo) ([Slides](https://www.slideshare.net/patrickmeenan/resource-loading-prioritization-http2-oh-my) / [Slides from Tutorial](https://www.slideshare.net/patrickmeenan/http2-in-practice)), Patrick Meenan, 05/2019
 
 * [Building Faster, More Resilient Apps with Service Worker (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=25aCD5XL1Jk), Phil Walton/Ewa Gasperowicz, 11/2018
@@ -493,6 +495,8 @@ Nice introduction to HTTP2
 
 ### Tooling
 
+* [Speed tooling evolutions: 2019 and beyond](https://www.youtube.com/watch?v=iaWLXf1FgI0), Elizabeth Sweeny & Paul Irish, 11/2019
+
 * [Demystifying Speed Tooling (Google I/O ’19)](https://www.youtube.com/watch?v=mLjxXPHuIJo), Elizabeth Sweeny & Paul Irish & Amir Rachum, 05/2019
 
 * [State of the Union for Speed Tooling (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=ymxs8OSXiUA), Elizabeth Sween/Paul Irish, 11/2018
@@ -525,6 +529,10 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 * [High Performance Images: Beautiful Shouldn’t Mean Slow](https://www.youtube.com/watch?v=7zgd2OjSoS8), Guy Podjarny, 12/2015
 
 ### Development
+
+* [Adaptive Loading — Improving the UX for millions on low-end devices](https://www.youtube.com/watch?v=puUPpVrIRkc), Addy Osmany, 11/2019
+
+* [The main thread is overworked & underpaid](https://www.youtube.com/watch?v=7Rrv9qFMWNM), Surma, 11/2019
 
 * [Speed at Scale: Web Performance Tips and Tricks from the Trenches (Google I/O ’19)](https://www.youtube.com/watch?v=YJGCZCaIZkQ), Addy Osmani & Katie Hempenius, 05/2019
 
