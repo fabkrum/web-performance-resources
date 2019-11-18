@@ -67,6 +67,8 @@ This is not a Web Performance only Newsletter
 ## Articles
 
 ### General
+
+
 * [How Web Content Can Affect Power Usage](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/), Benjamin Poulain & Simon Fraser, 08/2019
 
 * [Web Page Usability Matters](https://dev.to/addyosmani/web-page-usability-matters-3aok), Addy Osmani, 01/2019
