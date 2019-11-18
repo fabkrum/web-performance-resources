@@ -67,8 +67,6 @@ This is not a Web Performance only Newsletter
 ## Articles
 
 ### General
-
-
 * [How Web Content Can Affect Power Usage](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/), Benjamin Poulain & Simon Fraser, 08/2019
 
 * [Web Page Usability Matters](https://dev.to/addyosmani/web-page-usability-matters-3aok), Addy Osmani, 01/2019
@@ -182,6 +180,7 @@ This is not a Web Performance only Newsletter
 * [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/), Jason Grigsby, 03/2015
 
 ### Measure Performance
+* [Metrics - Measure and optimize performance and user experience](https://web.dev/metrics/), 2019
 
 * [Largest Contentful Paint](https://web.dev/largest-contentful-paint/), Philip Walton, 08/2019
 
@@ -826,6 +825,9 @@ Learn what influence PWA have on business metrics.
 * [Case study: analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/), Ivan Akulov, 04/2018
 
 ## Open data sources
+
+* [Web Almanac 2019 - HTTP Archive's annual
+state of the web report](https://almanac.httparchive.org/en/2019/), 11/2019
 
 * [HTTP Archive](https://httparchive.org/) / [Loading speed](https://beta.httparchive.org/reports/loading-speed)
 HTTP archive crawls twice a month the 1.300.000 top sites of the web. This is the best source to understand the state of the web. The [HTTP Archive - Guided Tour](https://github.com/HTTPArchive/httparchive.org/blob/master/docs/guided_tour.md) from Paul Calvano and Rick Viscomi is the best way to get started.
