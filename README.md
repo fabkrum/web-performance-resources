@@ -31,6 +31,7 @@
     + [Image and Video](#image-and-video)
     + [Development](#development)
 * [Books](#books)
+* [Podcasts](#podcasts)
 * [Tools](#tools)
     + [Free tools and services](#free-tools-and-services)
     + [Paid tools and services](#paid-tools-and-services)
@@ -618,6 +619,11 @@ This book is a classic.
 * [Even Faster Web Sites](http://shop.oreilly.com/product/9780596522315.do), Steve Souders, O’Reilly, 07/2009
 Another classic book.
 
+## Podcasts
+* [Chasing Waterfalls - Tim Kadlec](https://chasingwaterfalls.io/)
+
+* [Planet Performance Podcast - Stoyan Stefanov](https://podcast.perfplanet.com/)
+
 ## Tools
 
 ### Free tools and services
@@ -745,6 +751,8 @@ Find similar pages for a competitor benchmark.
 
 * [Build with](https://builtwith.com/)
 Understand the technical building blocks of a website.
+
+* [Bundlephobia - find the cost of adding a npm package to your bundle](https://bundlephobia.com/)
 
 
 ### Paid tools and services
