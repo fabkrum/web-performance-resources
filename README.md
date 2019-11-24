@@ -837,6 +837,8 @@ Learn what influence PWA have on business metrics.
 * [Web Almanac 2019 - HTTP Archive's annual
 state of the web report](https://almanac.httparchive.org/en/2019/), 11/2019
 
+* [Web Worldwide](https://www.webworldwide.io/)
+
 * [HTTP Archive](https://httparchive.org/) / [Loading speed](https://beta.httparchive.org/reports/loading-speed)
 HTTP archive crawls twice a month the 1.300.000 top sites of the web. This is the best source to understand the state of the web. The [HTTP Archive - Guided Tour](https://github.com/HTTPArchive/httparchive.org/blob/master/docs/guided_tour.md) from Paul Calvano and Rick Viscomi is the best way to get started.
 
