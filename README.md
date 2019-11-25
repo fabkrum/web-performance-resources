@@ -754,6 +754,8 @@ Understand the technical building blocks of a website.
 
 * [Bundlephobia - find the cost of adding a npm package to your bundle](https://bundlephobia.com/)
 
+* [Is HTTP2 fast yet?](http://ishttp2fastyet.com/), Andy Davies
+
 
 ### Paid tools and services
 
