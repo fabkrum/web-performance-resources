@@ -30,6 +30,7 @@
     + [Tooling](#tooling)
     + [Image and Video](#image-and-video)
     + [Development](#development)
+    + [General](#general)
 * [Books](#books)
 * [Podcasts](#podcasts)
 * [Tools](#tools)
@@ -394,6 +395,12 @@ This is a great free introduction into web performance. Ilya Grigorik from Googl
 
 ### Business
 
+* [From Milliseconds to Millions: A Look at the Numbers Driving Web Performance](https://www.youtube.com/watch?v=cXLOIIJ1UaE) ([Slides](https://speakerdeck.com/csswizardry/from-milliseconds-to-millions-a-look-at-the-numbers-powering-web-performance)), Harry Roberts, 11/2019
+
+* [The 7 Habits of Highly Effective Performance Teams](https://www.youtube.com/watch?v=SE0HhF4TO0Q) ([Slides](https://www.slideshare.net/tammyeverts/the-7-habits-of-highly-effective-performance-teams-perfnow-2019)), Tammy Everts, 11/2019
+
+* [7 Years of Never Shutting Up About Site Speed (Schuh case study)](https://www.youtube.com/watch?v=D7MCAvDVv98) ([Slides](https://www.slideshare.net/StuartMcMillan1/7-years-of-site-speed)), Stuart McMillan, 11/2019
+
 * [PWA Challenges](https://www.youtube.com/watch?v=1570FmnYtck) ([Slides](https://www.slideshare.net/grigs/progressive-web-app-challenges)), Jason Grigsby, 11/2018 – Performance.now()
 
 * [Building a Foundation for Performance](https://www.youtube.com/watch?v=FBeR6QvroEQ), Michelle Vu, 11/2018 – Performance.now()
@@ -417,6 +424,8 @@ This is a great free introduction into web performance. Ilya Grigorik from Googl
 * [Performance Budget](https://www.youtube.com/watch?v=yqejmZrtmNg), Tim Kadlec, 04/2015
 
 ### Third-Party Services
+
+* [Deep dive into third-party performance](https://www.youtube.com/watch?v=uXv9JFvrnwo) ([Slides](https://noti.st/simonhearne/5QA7lv/third-party-performance-a-deep-dive)), Simon Hearne, 11/2019
 
 * [It’s My (Third) Party and I’ll Cry If I Want To](https://www.youtube.com/watch?v=bmIUYBNKja4) ([Slides](https://speakerdeck.com/csswizardry/its-my-third-party-and-ill-cry-if-i-want-to)), Harry Roberts, 11/2018
 
@@ -466,6 +475,8 @@ Nice introduction to HTTP2
 * [Yesterday’s perf best-practices are today’s HTTP/2 anti-patterns](https://www.youtube.com/watch?v=yURLTwZ3ehk), Ilya Grigorik, 06/2015
 
 ### Measure
+
+* [Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI) ([Slides](https://www.slideshare.net/AnnieSullivan9/monitoring-and-metrics-in-chrome-196438420)), Annie Sullivan, 11/2019
 
 * [How website speed can impact digital ad revenue](https://www.youtube.com/watch?v=EwlmYec3M-s) ([Slides](https://simonhearne.github.io/presentations/digital-revenue/#/)), Simon Hearne, 06/2019
 
@@ -532,7 +543,13 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 
 ### Development
 
+* [When JavaScript Bytes](https://www.youtube.com/watch?v=JvJ0v5OohNg) ([Slides](https://noti.st/tkadlec/MC0Bvy/when-javascript-bytes)), Tim Kadlec, 11/2019
+
 * [Adaptive Loading — Improving the UX for millions on low-end devices](https://www.youtube.com/watch?v=puUPpVrIRkc), Addy Osmany, 11/2019
+
+* [Predictive Prefetching](https://www.youtube.com/watch?v=Faaf5tzqvZg) ([Slides](https://noti.st/shortdiv/jsHO3Z)), Divya Sasidhara, 11/2019
+
+* [WebAssembly – To the browser and beyond!](https://www.youtube.com/watch?v=Z6ZhIA8i_8g) ([Slides](https://noti.st/patrickhamann/uEw4zt/webassembly-to-the-browser-and-beyond)), Patrick Hamann, 11/2019
 
 * [The main thread is overworked & underpaid](https://www.youtube.com/watch?v=7Rrv9qFMWNM), Surma, 11/2019
 
@@ -590,6 +607,14 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 * [Owning your performance: RAIL](https://www.youtube.com/watch?v=w0O2znkSBXA&list=PL5jvCmjsPECB2mhJopSB-yryxO473JA1r&index=6&t=1497s), Paul Irish, 11/2015
 
 * [HTTP2 and Front-End Performance](https://www.youtube.com/watch?v=GIDXISQs67w), Mark Nottingham, 05/2015
+
+### General
+
+* [performance.now().reject(reasons)](https://www.youtube.com/watch?v=vtIfVPtN6io) ([Slides](https://docs.google.com/presentation/d/18KW9c8ywYvMVsXVwU-Llvc1nEX40y9Fj3VBAkHRKs_4/present)), Ilya Grigorik, 11/2019
+
+* [A Decade of Disciplined Delivery](https://www.youtube.com/watch?v=HC1eVj5cQOo) ([Slides](https://www.dropbox.com/s/lfvrkzoqkecnh0h/DecadeOfDelivery_PDF.pdf)), Henri Helvetica, 11/2019
+
+* [The Future of Performance](https://www.youtube.com/watch?v=Jz3Fu1o356g) ([Slides](https://www.dropbox.com/s/2bxw50ajomvniio/future-web-perf-perfnow.pdf?dl=0)), Vitaly Friedman, 11/2019
 
 ## Books
 
@@ -755,6 +780,8 @@ Understand the technical building blocks of a website.
 * [Bundlephobia - find the cost of adding a npm package to your bundle](https://bundlephobia.com/)
 
 * [Is HTTP2 fast yet?](http://ishttp2fastyet.com/), Andy Davies
+
+* [Wappalyzer - Identify technology on websites](https://www.wappalyzer.com/)
 
 
 ### Paid tools and services
