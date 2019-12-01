@@ -30,7 +30,7 @@
     + [Tooling](#tooling)
     + [Image and Video](#image-and-video)
     + [Development](#development)
-    + [General](#general)
+    + [Meta](#meta)
 * [Books](#books)
 * [Podcasts](#podcasts)
 * [Tools](#tools)
@@ -608,7 +608,7 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 
 * [HTTP2 and Front-End Performance](https://www.youtube.com/watch?v=GIDXISQs67w), Mark Nottingham, 05/2015
 
-### General
+### Meta
 
 * [performance.now().reject(reasons)](https://www.youtube.com/watch?v=vtIfVPtN6io) ([Slides](https://docs.google.com/presentation/d/18KW9c8ywYvMVsXVwU-Llvc1nEX40y9Fj3VBAkHRKs_4/present)), Ilya Grigorik, 11/2019
 
