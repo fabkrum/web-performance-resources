@@ -284,13 +284,17 @@ This is not a Web Performance only Newsletter
 
 ### Javascript and Render Performance
 
+* [Responsible JavaScript: Part III - Third parties](https://alistapart.com/article/responsible-javascript-part-3/), Jeremy Wagner, 11/2019
+
 * [When should you be using Web Workers?](https://dassur.ma/things/when-workers/), Surma, 06/2019
+
+* [Responsible Javascript: Part II - Code Bundle](https://alistapart.com/article/responsible-javascript-part-2/), Jeremy Wagner, 06/2019
 
 * [Faster script loading with BinaryAST?](https://blog.cloudflare.com/binary-ast/), Ingvar Stepanyan, 05/2019
 
 * [Svelte 3: Rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity), Rich Harris, 04/2019
 
-* [Responsible Javascript](https://alistapart.com/article/responsible-javascript-part-1/), Jeremy Wagner, 03/2019
+* [Responsible Javascript: Part I - Web platform over frameworks](https://alistapart.com/article/responsible-javascript-part-1/), Jeremy Wagner, 03/2019
 
 * [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/), Philip Walton, 09/2018
 
