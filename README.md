@@ -739,6 +739,9 @@ Collection of tools which can be used to inspect HAR files.
 * [httpstat.us](http://httpstat.us/)
 Service which responds which all kind of http error codes. With this service you can check how your app or website reacts when 3rd party services are responding with an error.
 
+* [https://httpstatus.io/](https://httpstatus.io/)
+Service which shows status codes, latency, response headers and more from the URL you submit. This is great to check for redirects and other network related issues. 
+
 * [Font Style Matcher](https://meowni.ca/font-style-matcher/)
 If you use font-display: swap this tool is great to make sure the fallback font looks as similar as possible to avoid major layout changes once the web font is loaded and swapped.
 
