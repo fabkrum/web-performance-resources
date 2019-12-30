@@ -686,6 +686,8 @@ The Request Map Generator is the go to place to understand what 3rd party tools 
 * [What does my site cost](https://whatdoesmysitecost.com/)
 How much does it cost for your users to download your page? In many countries the majority of the users are on a pre paid data plan.
 
+* [Website carbon - How is your website impacting the planet?](https://www.websitecarbon.com/)
+
 * [spof-o-matic](https://github.com/pmeenan/spof-o-matic)
 Chrome extension for detecting and simulating frontend Single Points Of Failure
 
