@@ -69,6 +69,8 @@ This is not a Web Performance only Newsletter
 ## Articles
 
 ### General
+* [Front-End Performance Checklist 2020](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/), Vitaly Friedman (Smashing Magazine), 01/2020
+
 * [How Web Content Can Affect Power Usage](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/), Benjamin Poulain & Simon Fraser, 08/2019
 
 * [Web Page Usability Matters](https://dev.to/addyosmani/web-page-usability-matters-3aok), Addy Osmani, 01/2019
