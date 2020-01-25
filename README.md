@@ -184,6 +184,8 @@ This is not a Web Performance only Newsletter
 * [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/), Jason Grigsby, 03/2015
 
 ### Measure Performance
+* [Performance Budgets, Pragmatically](https://csswizardry.com/2020/01/performance-budgets-pragmatically/), Harry Roberts, 01/2020
+
 * [Metrics - Measure and optimize performance and user experience](https://web.dev/metrics/), 2019
 
 * [Largest Contentful Paint](https://web.dev/largest-contentful-paint/), Philip Walton, 08/2019
