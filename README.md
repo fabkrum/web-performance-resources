@@ -467,6 +467,8 @@ The content of this talk is similar to Eli Fitch’s talk, but less technical.
 
 * [HTTP/3 - HTTP over QUIC is the next generation](https://www.youtube.com/watch?v=idViw4anA6E), Daniel Stenberg, 09/2019
 
+* [More Than You Wanted to Know About Resource Hints](https://www.youtube.com/watch?v=ySdRvo_QnxI), Harry Roberts, 06/2019
+
 * [Resource loading, prioritization, HTTP/2 - oh my! - PerfMatters](https://www.youtube.com/watch?v=nOW-i6bbRdo) ([Slides](https://www.slideshare.net/patrickmeenan/resource-loading-prioritization-http2-oh-my) / [Slides from Tutorial](https://www.slideshare.net/patrickmeenan/http2-in-practice)), Patrick Meenan, 05/2019
 
 * [Building Faster, More Resilient Apps with Service Worker (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=25aCD5XL1Jk), Phil Walton/Ewa Gasperowicz, 11/2018
