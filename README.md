@@ -288,6 +288,8 @@ This is not a Web Performance only Newsletter
 
 ### Javascript and Render Performance
 
+* [The Cost of Javascript Frameworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/), Tim Kadlec, 03/2020 
+
 * [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/), Nolan Lawson, 02/2020
 
 * [Responsible JavaScript: Part III - Third parties](https://alistapart.com/article/responsible-javascript-part-3/), Jeremy Wagner, 11/2019
