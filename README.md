@@ -860,6 +860,8 @@ Learn what influence PWA have on business metrics.
 
 ## Case studies
 
+* [ebuilding our tech stack for the new Facebook.com](https://engineering.fb.com/web/facebook-redesign/), Ashley Watkins, Royi Hagigi, 05/2020
+
 * [Bringing service workers to Google Search](https://web.dev/google-search-sw), Jeff Posnick, 06/2019
 
 * [Improving third-party web performance at The Telegraph](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5), Gareth Clubb, 04/2019
