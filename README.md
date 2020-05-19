@@ -379,6 +379,11 @@ This course is great to start. You will learn how the browser works internally a
 
 ### Paid Video Courses
 
+* [Lightning-Fast
+Web Performance](https://scottjehl.com/lfwp/), Scott Jehl, 05/2020
+This course is great for Frontend Developers who are interested in web performance. 
+Scott introduces the most relevant web performance metrics and shows the most effective ways how to optimize them in great detail. The course contains also a lot of good references which can be used to dive deeper into the topic.  
+
 * Frontend Masters: [Web Performance](https://frontendmasters.com/courses/web-performance/), Steve Kinney, 03/2018 ($39 / monthly subscription)
 This is the go to course for Frontend Developers. This course is going really deep into Javascript Performance and Rendering Performance. I recommend this for more senior developers.
 
