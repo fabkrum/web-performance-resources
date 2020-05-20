@@ -676,6 +676,8 @@ Another classic book.
 
 ### Free tools and services
 
+* [Lighthouse Scoring Calculator](https://googlechrome.github.io/lighthouse/scorecalc/): Learn how the Lighthouse Score is calculated for the last two versions. This helps to understand where changes are comming from if your score changes.
+
 * [SpeedChecklist](https://speedchecklist.com/)
 A checklist which shows you how to optimise web performance issues you might have. You find best practices for the most common problems described in great detail.
 
