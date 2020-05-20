@@ -63,6 +63,8 @@ Slack channel which is focusing on web performance with more than 750 members
 
 * [The speed of thought - Posts from the Performance Team at Wikimedia](https://phabricator.wikimedia.org/phame/blog/view/7/)
 
+* [Perf.email by Calibre](https://calibreapp.com/newsletter), The newsletter contains mainly web performance articles which are not directly connected with their product. Therefore I can recommend to follow it.
+
 * [Smashing Magazine Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
 This is not a Web Performance only Newsletter
 
