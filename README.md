@@ -693,6 +693,9 @@ Create your own budget based on httparchive data of millions of pages. Download 
 * [WebPageTest](http://www.webpagetest.org/)
 Make synthetic measurements from all over the world. Make performance audits of any website. This tool is very powerful and gives you a lot of insights. I use it a lot to make a website comparison video.
 
+* [WebPageTest comparison URL generator](https://wpt-compare.app/)
+Compare multiple webpagetest results which each other. Nice tool to see filmstrips site by site.
+
 * [Request Map Generator](https://requestmap.herokuapp.com/)
 The Request Map Generator is the go to place to understand what 3rd party tools are running on your page and how much data they are adding.
 
