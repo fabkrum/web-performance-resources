@@ -186,6 +186,13 @@ This is not a Web Performance only Newsletter
 * [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/), Jason Grigsby, 03/2015
 
 ### Measure Performance
+
+* [Web Vitals - Essential metrics for a healthy site](https://web.dev/vitals/), 05/2020
+
+* [Defining the Core Web Vitals metrics thresholds](https://web.dev/defining-core-web-vitals-thresholds/), Bryan McQuade, 05/2020
+
+* [The Science Behind Web Vitals](https://blog.chromium.org/2020/05/the-science-behind-web-vitals.html), Amar Sagoo / Annie Sullivan / Vivek Sekhar, 05/2020
+
 * [Measuring Performance behind consent popups](https://simonhearne.com/2020/testing-behind-consent/), Simon Hearne, 05/2020
 
 * [Performance Budgets, Pragmatically](https://csswizardry.com/2020/01/performance-budgets-pragmatically/), Harry Roberts, 01/2020
