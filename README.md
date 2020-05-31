@@ -73,6 +73,8 @@ This is not a Web Performance only Newsletter
 ### General
 * [The Need for Speed, 23 Years Later](https://www.nngroup.com/articles/the-need-for-speed/), Kathryn Whitenton, 05/2020
 
+* [Evaluating page experience for a better web](https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html), Sowmya Subramanian, 05/2020
+
 * [Front-End Performance Checklist 2020](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/), Vitaly Friedman (Smashing Magazine), 01/2020
 
 * [We analyzed 5.2 million desktop and mobile pages - Here’s What We Learned About Page Speed](https://backlinko.com/page-speed-stats), Brian Dean, 10/2019
