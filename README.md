@@ -691,6 +691,8 @@ Another classic book.
 
 * [Lighthouse Scoring Calculator](https://googlechrome.github.io/lighthouse/scorecalc/): Learn how the Lighthouse Score is calculated for the last two versions. This helps to understand where changes are comming from if your score changes.
 
+* [Lighthouse Scores from around the world](https://lighthouse-metrics.com/): Global performance insights, powered by Lighthouse. Lighthouse Metrics provides easy insights for your site's performance. Save your time by running tests from multiple locations to get the valuable insight you need.
+
 * [SpeedChecklist](https://speedchecklist.com/)
 A checklist which shows you how to optimise web performance issues you might have. You find best practices for the most common problems described in great detail.
 
