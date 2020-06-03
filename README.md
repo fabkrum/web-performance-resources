@@ -803,6 +803,8 @@ Prints the timing data on assets.
 * [Test your mobile speed with Google](https://testmysite.withgoogle.com/intl/en-gb)
 Test score, benchmark with other pages from the same industry, detailed report
 
+* [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) Show CrUX RUM data of big websites
+
 * [Google Speed Scorecard](https://www.thinkwithgoogle.com/feature/mobile/)
 Compare your mobile Site Speed with your competition based on CrUX data
 
