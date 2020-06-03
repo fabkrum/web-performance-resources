@@ -850,6 +850,9 @@ With mPulse you can understand how your performance and business data is correla
 * [Cloudinary](https://cloudinary.com/)
 Image and video management in the cloud
 
+* [Treo](https://treo.sh/)
+Combines RUM (CrUX) and Synthetic data
+
 ## Open Source Projects
 
 * [Fast Dom](https://github.com/wilsonpage/fastdom)
