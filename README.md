@@ -730,6 +730,9 @@ How much does it cost for your users to download your page? In many countries th
 * [spof-o-matic](https://github.com/pmeenan/spof-o-matic)
 Chrome extension for detecting and simulating frontend Single Points Of Failure
 
+* [Slowfiles](https://slowfil.es/), Harry Roberts & Ryan Townsend
+Simulate slow loading JS and CSS files.
+
 * [CSS Triggers](https://csstriggers.com/)
 Which CSS element trigger layout, paint, or composite?
 
@@ -782,6 +785,9 @@ Service which responds which all kind of http error codes. With this service you
 
 * [https://httpstatus.io/](https://httpstatus.io/)
 Service which shows status codes, latency, response headers and more from the URL you submit. This is great to check for redirects and other network related issues. 
+
+* [SSL Server Test](https://entrust.ssllabs.com/)
+This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet.
 
 * [Font Style Matcher](https://meowni.ca/font-style-matcher/)
 If you use font-display: swap this tool is great to make sure the fallback font looks as similar as possible to avoid major layout changes once the web font is loaded and swapped.
