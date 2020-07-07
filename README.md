@@ -309,6 +309,8 @@ This is not a Web Performance only Newsletter
 
 * [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/), Nolan Lawson, 02/2020
 
+* [How to load polyfills only when needed](https://3perf.com/blog/polyfills/), Ivan Akulov, 02/2020
+
 * [Responsible JavaScript: Part III - Third parties](https://alistapart.com/article/responsible-javascript-part-3/), Jeremy Wagner, 11/2019
 
 * [When should you be using Web Workers?](https://dassur.ma/things/when-workers/), Surma, 06/2019
