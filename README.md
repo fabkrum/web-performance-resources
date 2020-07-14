@@ -843,6 +843,8 @@ Understand the technical building blocks of a website.
 
 * [Wappalyzer - Identify technology on websites](https://www.wappalyzer.com/)
 
+* [Cache Control Header Builder](https://cache-control.sdgluck.now.sh/)
+
 
 ### Paid tools and services
 
