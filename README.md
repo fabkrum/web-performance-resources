@@ -68,6 +68,8 @@ Slack channel which is focusing on web performance with more than 750 members
 * [Smashing Magazine Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
 This is not a Web Performance only Newsletter
 
+* [Web performance newsletter](https://marcradziwill.com/newsletter/) weekly web performance newsletter by [Marc Radziwill](https://marcradziwill.com/)
+
 ## Articles
 
 ### General
@@ -418,6 +420,8 @@ Umar is a Chrome Developer Tools expert and explains all the tools you need to u
 
 * [Frontend Center](https://frontend.center/), Glen Maddern, ($15/monthly subscription)
 Not 100% related to Web Performance. A few of the trainings are available for free.
+
+* [devcademy - Web performance workshop](https://devcademy.marcradziwill.com/web-performance-workshop), Marc Radziwill, 08/2020 (299€ - 750€)
 
 ## Videos
 
