@@ -173,6 +173,9 @@ This is not a Web Performance only Newsletter
 
 * [Native image lazy-loading for the web](https://web.dev/native-lazy-loading/), Houssein Djirdeh, Addy Osmani, Mathias Bynens, 07/2020
 
+* [AVIF for Next-Generation Image Coding](https://netflixtechblog.com/avif-for-next-generation-image-coding-b1d75675fe4), Netflix Technology Blog, 
+ 02/2020
+
 * [Video Playback On The Web: The Current State Of Video](https://www.smashingmagazine.com/2018/10/video-playback-on-the-web-part-1/), Doug Sillars, 10/2018
 
 * [Video Playback On The Web: Video Delivery Best Practices](https://www.smashingmagazine.com/2018/10/video-playback-on-the-web-part-2/), Doug Sillars, 10/2018
