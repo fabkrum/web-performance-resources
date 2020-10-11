@@ -278,6 +278,8 @@ This is not a Web Performance only Newsletter
 
 * [Discover how Adidas is using data science to deliver third-party governance](https://www.slideshare.net/kskoeld/discover-how-adidas-is-using-data-science-to-deliver-thirdparty-governance), Kristian Sköld, 11/2016
 
+* [How A/B testing tools worsen your site speed (study)](https://orangevalley.nl/en/9-ab-testing-tools-compared-on-site-speed-impact/), OrangeValley, 04/2016
+
 * [10 pro tips for managing the performance of your third-party scripts,](https://www.soasta.com/blog/10-pro-tips-for-managing-the-performance-of-your-third-party-scripts/) Tammy Everts, 11/2015
 
 ### Optimise the Critical Render Path
@@ -779,6 +781,9 @@ Browserscope is a community-driven project for profiling web browsers. The goals
 
 * [JS Manners](http://jsmanners.com/)
 I like this page to audit JS Frameworks and 3rd party tools.
+
+* [Webbkoll](https://webbkoll.dataskydd.net/)
+This tool helps you check what data-protecting measures a site has taken to help you exercise control over your privacy.
 
 * [You might not need Javascript](http://youmightnotneedjs.com/)
 Don’t use Javascript for things where it is not really needed. This website shows you to do stuff with CSS: Slider, Modal, Scroll Indicator, Navigation, Tabs, Accordion
