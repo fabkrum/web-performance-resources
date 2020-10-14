@@ -202,6 +202,8 @@ This is not a Web Performance only Newsletter
 
 ### Measure Performance
 
+* [Cumulative Layout Shift in the Real World](https://nicj.net/cumulative-layout-shift-in-the-real-world/), Nic Jansma, 10/2020
+
 * [Web Vitals - Essential metrics for a healthy site](https://web.dev/vitals/), 05/2020
 
 * [Defining the Core Web Vitals metrics thresholds](https://web.dev/defining-core-web-vitals-thresholds/), Bryan McQuade, 05/2020
