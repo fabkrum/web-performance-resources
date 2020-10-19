@@ -743,6 +743,8 @@ Compare multiple webpagetest results which each other. Nice tool to see filmstri
 * [Request Map Generator](https://requestmap.herokuapp.com/)
 The Request Map Generator is the go to place to understand what 3rd party tools are running on your page and how much data they are adding.
 
+* [3P web](https://www.thirdpartyweb.today/), Shows the impact of Third-Party Tools based on HTTP Archive data.
+
 * [Web Performance Heat Map Generator](http://heatmap.webperf.tools/)
 
 * [What does my site cost](https://whatdoesmysitecost.com/)
