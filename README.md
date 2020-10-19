@@ -65,6 +65,8 @@ Slack channel which is focusing on web performance with more than 750 members
 
 * [Perf.email by Calibre](https://calibreapp.com/newsletter), The newsletter contains mainly web performance articles which are not directly connected with their product. Therefore I can recommend to follow it.
 
+* [Maximiliano Firtman's Newsletter](https://firt.dev/newsletter/)
+
 * [Smashing Magazine Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
 This is not a Web Performance only Newsletter
 
