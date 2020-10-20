@@ -537,6 +537,8 @@ Nice introduction to HTTP2
 
 ### Measure
 
+* [WebPageTest and Cloudflare Workers – A Performance Consultant’s Dream Combo?](https://www.youtube.com/watch?v=YSS0a0uaDvk), Andy Davies, 20/2020
+
 * [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc), Addy Osmani, 06/2020
 
 * [Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI) ([Slides](https://www.slideshare.net/AnnieSullivan9/monitoring-and-metrics-in-chrome-196438420)), Annie Sullivan, 11/2019
