@@ -132,6 +132,7 @@ This is not a Web Performance only Newsletter
 * [My Performance Audit Workflow](https://aerotwist.com/blog/my-performance-audit-workflow/), Paul Lewis, 04/2014
 
 ### Network and Caching
+* [The Performance Cost of EV Certificates](https://simonhearne.com/2020/drop-ev-certs/), Simon Hearne, 11/2020
 
 * [Three Ways of Checking Rel=preconnect Resource Hints Are Working](https://andydavies.me/blog/2019/04/17/three-ways-of-checking-your-rel-equals-preconnect-resource-hints-are-working/), Andy Davies, 04/2019
 
