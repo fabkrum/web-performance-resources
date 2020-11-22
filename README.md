@@ -132,6 +132,8 @@ This is not a Web Performance only Newsletter
 * [My Performance Audit Workflow](https://aerotwist.com/blog/my-performance-audit-workflow/), Paul Lewis, 04/2014
 
 ### Network and Caching
+* [Who Opts-in to Save-data?](https://simonhearne.com/2020/save-data/), Simon Hearne, 10/2020
+
 * [Back/forward cache](https://web.dev/bfcache/), Philip Walton, 11/2020
 
 * [Intent to Remove: HTTP/2 and gQUIC server push](https://groups.google.com/a/chromium.org/g/blink-dev/c/K3rYLvmQUBY/m/vOWBKZGoAQAJ?pli=1), Chromium, 11/2020
@@ -524,6 +526,8 @@ This is a really good talk about how humans perceive performance. Eli shares a l
 The content of this talk is similar to Eli Fitch’s talk, but less technical.
 
 ### Network and Caching
+
+* [Data-s(h)aver strategies](https://youtu.be/X0BbSvSbwD0), Tim Vereecke, 11/2019
 
 * [HTTP/3 - HTTP over QUIC is the next generation](https://www.youtube.com/watch?v=idViw4anA6E), Daniel Stenberg, 09/2019
 
