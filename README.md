@@ -787,8 +787,6 @@ Which CSS element trigger layout, paint, or composite?
 * [BundlePhobia](https://bundlephobia.com/)
 find the cost of adding a npm package to your bundle
 
-* [FOIT vs FOUT](https://www.zachleat.com/foitfout/)
-
 * [Source Map Explorer](https://www.npmjs.com/package/source-map-explorer), [Webpback Bundle Analyer](https://www.npmjs.com/package/webpack-bundle-analyzer)
 Understand what code you are loading
 
@@ -842,6 +840,11 @@ This free online service performs a deep analysis of the configuration of any SS
 
 * [Font Style Matcher](https://meowni.ca/font-style-matcher/)
 If you use font-display: swap this tool is great to make sure the fallback font looks as similar as possible to avoid major layout changes once the web font is loaded and swapped.
+
+* [FOIT vs FOUT](https://www.zachleat.com/foitfout/)
+
+* [Wakamaifondue](https://wakamaifondue.com)
+Tool to inspect local font files
 
 * [3rdParty.io](http://3rdparty.io/)
 3rdParty.io monitors third-party scripts and libraries, and checks that they’re following best practices for performance, reliability and security
