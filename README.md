@@ -735,15 +735,27 @@ Another classic book.
 
 ### Free tools and services
 
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+Lighthouse is becoming the best audit tool for web performance. It has a great documentation and gives valuable insights. This is where my performance audit is starting.
+
+* [Yellow Lab Tools](https://yellowlab.tools)
+Online test to help speeding up heavy web pages: Frontend Quality, WebPerf, JS Profiling
+
+* [WebPageTest](http://www.webpagetest.org/)
+Make synthetic measurements from all over the world. Make performance audits of any website. This tool is very powerful and gives you a lot of insights. I use it a lot to make a website comparison video.
+
+* [WebPageTest comparison URL generator](https://wpt-compare.app/)
+Compare multiple webpagetest results which each other. Nice tool to see filmstrips site by site.
+
+* [Request Map Generator](https://requestmap.herokuapp.com/)
+The Request Map Generator is the go to place to understand what 3rd party tools are running on your page and how much data they are adding.
+
 * [Lighthouse Scoring Calculator](https://googlechrome.github.io/lighthouse/scorecalc/): Learn how the Lighthouse Score is calculated for the last two versions. This helps to understand where changes are comming from if your score changes.
 
 * [Lighthouse Scores from around the world](https://lighthouse-metrics.com/): Global performance insights, powered by Lighthouse. Lighthouse Metrics provides easy insights for your site's performance. Save your time by running tests from multiple locations to get the valuable insight you need.
 
 * [SpeedChecklist](https://speedchecklist.com/)
 A checklist which shows you how to optimise web performance issues you might have. You find best practices for the most common problems described in great detail.
-
-* [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
-Lighthouse is becoming the best audit tool for web performance. It has a great documentation and gives valuable insights. This is where my performance audit is starting.
 
 * [Chrome Developer Tools](https://developer.chrome.com/devtools)
 This is the go to tool for all web developers. Understand how your code gets loaded, parsed and rendered.
@@ -756,15 +768,6 @@ Easily generate the optimal responsive image dimensions
 
 * [Web Performance Budget Calculator](https://perf-budget-calculator.firebaseapp.com/)
 Create your own budget based on httparchive data of millions of pages. Download it as an json file for [Lighthouse Web Performance Budget](https://developers.google.com/web/tools/lighthouse/audits/budgets).
-
-* [WebPageTest](http://www.webpagetest.org/)
-Make synthetic measurements from all over the world. Make performance audits of any website. This tool is very powerful and gives you a lot of insights. I use it a lot to make a website comparison video.
-
-* [WebPageTest comparison URL generator](https://wpt-compare.app/)
-Compare multiple webpagetest results which each other. Nice tool to see filmstrips site by site.
-
-* [Request Map Generator](https://requestmap.herokuapp.com/)
-The Request Map Generator is the go to place to understand what 3rd party tools are running on your page and how much data they are adding.
 
 * [3P web](https://www.thirdpartyweb.today/), Shows the impact of Third-Party Tools based on HTTP Archive data.
 
