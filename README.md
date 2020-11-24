@@ -785,7 +785,7 @@ Simulate slow loading JS and CSS files.
 Which CSS element trigger layout, paint, or composite?
 
 * [BundlePhobia](https://bundlephobia.com/)
-find the cost of adding a npm package to your bundle
+Find the cost of adding a npm package to your bundle
 
 * [Source Map Explorer](https://www.npmjs.com/package/source-map-explorer), [Webpback Bundle Analyer](https://www.npmjs.com/package/webpack-bundle-analyzer)
 Understand what code you are loading
@@ -843,6 +843,9 @@ If you use font-display: swap this tool is great to make sure the fallback font 
 
 * [FOIT vs FOUT](https://www.zachleat.com/foitfout/)
 
+* [Glyphhanger](https://github.com/filamentgroup/glyphhanger)
+Your web font utility belt. It can subset web fonts. It can show you what unicode-ranges are used on a web site (optionally per font-family). It can also subset web fonts automatically using the unicode-ranges it found.
+
 * [Wakamaifondue](https://wakamaifondue.com)
 Tool to inspect local font files
 
@@ -863,7 +866,11 @@ Prints the timing data on assets.
 * [Test your mobile speed with Google](https://testmysite.withgoogle.com/intl/en-gb)
 Test score, benchmark with other pages from the same industry, detailed report
 
-* [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) Show CrUX RUM data of big websites
+* [Google Search Console](https://search.google.com/)
+Detect Core Web Vitals issues on your page. Fix it. And revalidate.
+
+* [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
+Show CrUX RUM data of big websites.
 
 * [Google Speed Scorecard](https://www.thinkwithgoogle.com/feature/mobile/)
 Compare your mobile Site Speed with your competition based on CrUX data
@@ -886,8 +893,6 @@ Find similar pages for a competitor benchmark.
 
 * [Build with](https://builtwith.com/)
 Understand the technical building blocks of a website.
-
-* [Bundlephobia - find the cost of adding a npm package to your bundle](https://bundlephobia.com/)
 
 * [Is HTTP2 fast yet?](http://ishttp2fastyet.com/), Andy Davies
 
