@@ -337,6 +337,8 @@ This is not a Web Performance only Newsletter
 
 ### Javascript and Render Performance
 
+* [The Import On Interaction Pattern](https://addyosmani.com/blog/import-on-interaction/), Addy Osmani, 12/2020
+
 * [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/), Una Kravets, Vladimir Levin, 08/2020
 
 * [The Cost of Javascript Frameworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/), Tim Kadlec, 04/2020 
