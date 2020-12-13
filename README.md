@@ -994,8 +994,8 @@ Learn what influence PWA have on business metrics.
 
 ## Open data sources
 
-* [Web Almanac 2019 - HTTP Archive's annual
-state of the web report](https://almanac.httparchive.org/en/2019/), 11/2019
+* [Web Almanac 2020 - HTTP Archive's annual
+state of the web report](https://almanac.httparchive.org/en/2020/), 12/2020
 
 * [Web Worldwide](https://www.webworldwide.io/)
 
@@ -1019,6 +1019,8 @@ Browser stats, Network latency between regions
 * [Pew Research Center](http://www.pewglobal.org/2018/06/19/social-media-use-continues-to-rise-in-developing-countries-but-plateaus-across-developed-ones/)
 
 * [Ofcom.org.uk](https://www.ofcom.org.uk/research-and-data)
+
+* [Global Internet Speed](https://www.speedtest.net/global-index)
 
 ## Web Performance Meetups
 
