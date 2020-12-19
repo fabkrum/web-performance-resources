@@ -892,6 +892,9 @@ Detect Core Web Vitals issues on your page. Fix it. And revalidate.
 * [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
 Show CrUX RUM data of big websites.
 
+* [](https://treo.sh/sitespeed/)
+Configure speed metrics using percentiles and intervals for any website from @ChromeUXReport
+
 * [Google Speed Scorecard](https://www.thinkwithgoogle.com/feature/mobile/)
 Compare your mobile Site Speed with your competition based on CrUX data
 
@@ -905,6 +908,9 @@ Estimate the revenue impact of performance optimisations
 * [Gzip and Brotli Compression Level Estimator](https://tools.paulcalvano.com/compression.php)
 
 * [CSS stats](https://cssstats.com/)
+
+* [UX Speed Calculator](https://ux-speed-calculator.netlify.app), Sergey Chernyshev
+A visualization tool that helps understand relationship between page speed, conversion and bounce rates. Does not require a real data (e.g. RUM) and lets you tweak the distributions yourself
 
 * [Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
 
