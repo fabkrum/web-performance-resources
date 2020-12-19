@@ -234,6 +234,8 @@ This is not a Web Performance only Newsletter
 
 * [Performance Budgets, Pragmatically](https://csswizardry.com/2020/01/performance-budgets-pragmatically/), Harry Roberts, 01/2020
 
+* [How to read a WebPageTest Connection View chart](https://nooshu.github.io/blog/2019/12/30/how-to-read-a-wpt-connection-view-chart/), Matt Hobbs, 12/2019
+
 * [How to read a WebPageTest Waterfall View chart](https://nooshu.github.io/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart/), Matt Hobbs, 10/2019
 
 * [Lighthouse Variability](https://developers.google.com/web/tools/lighthouse/variability), 2019
