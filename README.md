@@ -981,7 +981,9 @@ Learn what influence PWA have on business metrics.
 
 ## Case studies
 
-* [ebuilding our tech stack for the new Facebook.com](https://engineering.fb.com/web/facebook-redesign/), Ashley Watkins, Royi Hagigi, 05/2020
+* [Getting Postmark’s Lighthouse Performance Score to 100](https://wildbit.com/blog/2020/09/30/getting-postmark-lighthouse-performance-score-to-100#:~:text=What%20if%20we%20could%20replace%20the%20real%20widget), Eugene Fedorenko, 09/2020
+
+* [Rebuilding our tech stack for the new Facebook.com](https://engineering.fb.com/web/facebook-redesign/), Ashley Watkins, Royi Hagigi, 05/2020
 
 * [Bringing service workers to Google Search](https://web.dev/google-search-sw), Jeff Posnick, 06/2019
 
