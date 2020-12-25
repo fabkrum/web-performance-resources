@@ -75,6 +75,8 @@ This is not a Web Performance only Newsletter
 ## Articles
 
 ### General
+* [Understanding Emotion for Happy Users – How does your site make your users feel?](https://tech.bluesmoon.info/2020/11/understanding-emotion-for-happy-users.html), Philip Tellis, 11/2020
+
 * [Strengthening the Link Between Site Speed and Business Outcomes](https://andydavies.me/blog/2020/10/12/strengthening-the-link-between-site-speed-and-business-outcomes/), Andy Davies, 10/2020
 
 * [The Need for Speed, 23 Years Later](https://www.nngroup.com/articles/the-need-for-speed/), Kathryn Whitenton, 05/2020
