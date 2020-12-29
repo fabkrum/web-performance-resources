@@ -188,6 +188,8 @@ This is not a Web Performance only Newsletter
 
 ### Image and Video Optimization
 
+* [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations/), Malte Ubl, 12/2020
+
 * [Native image lazy-loading for the web](https://web.dev/native-lazy-loading/), Houssein Djirdeh, Addy Osmani, Mathias Bynens, 07/2020
 
 * [AVIF for Next-Generation Image Coding](https://netflixtechblog.com/avif-for-next-generation-image-coding-b1d75675fe4), Netflix Technology Blog, 
@@ -216,6 +218,7 @@ This is not a Web Performance only Newsletter
 * [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/), Jason Grigsby, 03/2015
 
 ### Measure Performance
+* [Strategies for Telemetry Exfiltration (aka Beaconing In Practice)](https://calendar.perfplanet.com/2020/beaconing-in-practice/), Nic Jansma, 12/2020
 * [Analyzing Web Vitals with WebPageTest](https://calendar.perfplanet.com/2020/analyzing-web-vitals-with-webpagetest/), Patrick Meenan, 12/2020
 
 * [On Cadence, Cohorts and Trained Behavior](https://calendar.perfplanet.com/2020/y-u-no-revenue-cadence-cohorts-trained-behavior/), Tobias Baldauf, 12/2020
