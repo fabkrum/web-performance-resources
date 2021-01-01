@@ -134,6 +134,8 @@ This is not a Web Performance only Newsletter
 * [My Performance Audit Workflow](https://aerotwist.com/blog/my-performance-audit-workflow/), Paul Lewis, 04/2014
 
 ### Network and Caching
+* [Head-of-Line Blocking in QUIC and HTTP/3: The Details](https://github.com/rmarx/holblocking-blogpost), Robin Marx, 12/2020
+
 * [Who Opts-in to Save-data?](https://simonhearne.com/2020/save-data/), Simon Hearne, 10/2020
 
 * [Back/forward cache](https://web.dev/bfcache/), Philip Walton, 11/2020
