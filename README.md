@@ -136,13 +136,15 @@ This is not a Web Performance only Newsletter
 ### Network and Caching
 * [Head-of-Line Blocking in QUIC and HTTP/3: The Details](https://github.com/rmarx/holblocking-blogpost), Robin Marx, 12/2020
 
-* [Who Opts-in to Save-data?](https://simonhearne.com/2020/save-data/), Simon Hearne, 10/2020
-
 * [Back/forward cache](https://web.dev/bfcache/), Philip Walton, 11/2020
 
 * [Intent to Remove: HTTP/2 and gQUIC server push](https://groups.google.com/a/chromium.org/g/blink-dev/c/K3rYLvmQUBY/m/vOWBKZGoAQAJ?pli=1), Chromium, 11/2020
 
 * [The Performance Cost of EV Certificates](https://simonhearne.com/2020/drop-ev-certs/), Simon Hearne, 11/2020
+
+* [Who Opts-in to Save-data?](https://simonhearne.com/2020/save-data/), Simon Hearne, 10/2020
+
+* [Improve performance by using a content delivery network](https://web.dev/content-delivery-networks/), Katie Hempenius, 09/2020
 
 * [EV Certificates Make The Web Slow and Unreliable](https://www.aaronpeters.nl/blog/ev-certificates-make-the-web-slow-and-unreliable/), Aaron Peters, 01/2020
 
@@ -157,6 +159,8 @@ This is not a Web Performance only Newsletter
 * [TTFB optimization: a guide to enhanced performance](https://www.netcentric.biz/insights/2019/03/ttfb.html), Stephan Becker, 03/2019
 
 * [Preloading Fonts and the Puzzle of Priorities](https://andydavies.me/blog/2019/02/12/preloading-fonts-and-the-puzzle-of-priorities/), Andy Davies, 02/2019
+
+* [QUIC and HTTP/3 : Too big to fail?!](https://calendar.perfplanet.com/2018/quic-and-http-3-too-big-to-fail/), Robin Marx, 12/2018
 
 * [All about prefetching](https://calendar.perfplanet.com/2018/all-about-prefetching/), Katie Hempenius, 12/2018
 
@@ -185,6 +189,8 @@ This is not a Web Performance only Newsletter
 * [What is the preload directive?](https://www.keycdn.com/support/preload-directive/), 01/2017
 
 * [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices/), Jake Archibald, 2016
+
+* [HTTP/2 Push: The details](https://calendar.perfplanet.com/2016/http2-push-the-details/), Robin Marx, 12/2016
 
 * [How DNS works](https://howdns.works/) (Comic)
 
@@ -452,8 +458,7 @@ This course is great to start. You will learn how the browser works internally a
 
 ### Paid Video Courses
 
-* [Lightning-Fast
-Web Performance](https://scottjehl.com/lfwp/), Scott Jehl, 05/2020
+* [Lightning-Fast Web Performance](https://scottjehl.com/lfwp/), Scott Jehl, 05/2020
 This course is great for Frontend Developers who are interested in web performance. 
 Scott introduces the most relevant web performance metrics and shows the most effective ways how to optimize them in great detail. The course contains also a lot of good references which can be used to dive deeper into the topic.  
 
@@ -548,6 +553,8 @@ This is a really good talk about how humans perceive performance. Eli shares a l
 The content of this talk is similar to Eli Fitch’s talk, but less technical.
 
 ### Network and Caching
+
+* [List of YouTube videos about QUIC/HTTP3](https://www.youtube.com/results?search_query=robin+marx+quic), Robin Marx
 
 * [Data-s(h)aver strategies](https://youtu.be/X0BbSvSbwD0), Tim Vereecke, 11/2019
 
