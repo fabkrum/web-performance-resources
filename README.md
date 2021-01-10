@@ -363,6 +363,8 @@ This is not a Web Performance only Newsletter
 
 * [The Import On Interaction Pattern](https://addyosmani.com/blog/import-on-interaction/), Addy Osmani, 12/2020
 
+* [Prevent layout shifts with CSS grid stacks](https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo/), Hubert Sablonnière, 10/2020
+
 * [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/), Una Kravets, Vladimir Levin, 08/2020
 
 * [The Cost of Javascript Frameworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/), Tim Kadlec, 04/2020 
