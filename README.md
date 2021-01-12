@@ -965,6 +965,9 @@ Image and video management in the cloud
 * [Treo](https://treo.sh/)
 Combines RUM (CrUX) and Synthetic data
 
+* [Request Metrics](https://requestmetrics.com/)
+Request Metrics is a simple low-cost performance monitoring service. It charts real user metrics and web vitals for your web pages and API endpoints. It also comes with alerting tools that notify you when pages or endpoints slow down.
+
 ## Open Source Projects
 
 * [Fast Dom](https://github.com/wilsonpage/fastdom)
