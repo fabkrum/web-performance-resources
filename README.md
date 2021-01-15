@@ -16,6 +16,7 @@
     + [Optimise the Critical Render Path](#optimise-the-critical-render-path)
     + [Javascript and Render Performance](#javascript-and-render-performance)
     + [Perceived performance](#perceived-performance)
+    + [Tooling Articles](#tooling-articles)
 * [Online courses](#online-courses)
     + [Free Web Courses](#free-web-courses)
     + [Free Video Courses](#free-video-courses)
@@ -446,6 +447,10 @@ This is all about how humans perceive performance and what we can do to help our
 * [True Lies Of Optimistic User Interfaces](https://www.smashingmagazine.com/2016/11/true-lies-of-optimistic-user-interfaces/), Denys Mishunov, 11/2016
 
 * [Taking A Look At The State Of Progressive Images And User Perception](https://www.smashingmagazine.com/2018/02/progressive-image-loading-user-perceived-performance/), José Manuel Pérez, 02/2018
+
+### Tooling Articles
+
+* [Chrome Flags for Tooling](https://github.com/GoogleChrome/chrome-launcher/blob/master/docs/chrome-flags-for-tools.md), Paul Irish
 
 ## Online courses
 
