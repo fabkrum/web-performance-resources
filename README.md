@@ -432,6 +432,8 @@ This is not a Web Performance only Newsletter
 
 This is all about how humans perceive performance and what we can do to help our users to keep focused:
 
+* [Optimistic UI Patterns for Improved Perceived Performance](https://simonhearne.com/2021/optimistic-ui-patterns/), Simon Hearne, 01/2021
+
 * [Everything you need to know about skeleton screens](https://uxdesign.cc/what-you-should-know-about-skeleton-screens-a820c45a571a), Bill Chung, 10/2018
 
 * [The psychology of web performance](https://blog.uptrends.com/web-performance/the-psychology-of-web-performance/), 06/2018
