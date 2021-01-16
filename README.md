@@ -193,6 +193,8 @@ This is not a Web Performance only Newsletter
 
 * [HTTP/2 Push: The details](https://calendar.perfplanet.com/2016/http2-push-the-details/), Robin Marx, 12/2016
 
+* [The 14KB In The TCP Initial Window](https://tylercipriani.com/blog/2016/09/25/the-14kb-in-the-tcp-initial-window/), Tyler Cipriani, 09/2016
+
 * [How DNS works](https://howdns.works/) (Comic)
 
 ### Image and Video Optimization
