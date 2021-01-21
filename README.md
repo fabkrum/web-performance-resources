@@ -802,6 +802,8 @@ The Request Map Generator is the go to place to understand what 3rd party tools 
 
 * [Lighthouse Scores from around the world](https://lighthouse-metrics.com/): Global performance insights, powered by Lighthouse. Lighthouse Metrics provides easy insights for your site's performance. Save your time by running tests from multiple locations to get the valuable insight you need.
 
+* [Layout Shift GIF Generator](https://defaced.dev/tools/layout-shift-gif-generator/): Visualise the Core Web Vitals metric Cumulative Layout Shift (CLS) with a simple GIF.
+
 * [SpeedChecklist](https://speedchecklist.com/)
 A checklist which shows you how to optimise web performance issues you might have. You find best practices for the most common problems described in great detail.
 
@@ -1023,6 +1025,8 @@ Learn what influence PWA have on business metrics.
 * [https://www.akamai.com/us/en/about/our-thinking/state-of-the-internet-report/](https://www.akamai.com/us/en/about/our-thinking/state-of-the-internet-report/)
 
 ## Case studies
+
+* [How We Improved SmashingMag Performance](https://www.smashingmagazine.com/2021/01/smashingmag-performance-case-study/), Vitaly Friedman, 01/2021
 
 * [Getting Postmark’s Lighthouse Performance Score to 100](https://wildbit.com/blog/2020/09/30/getting-postmark-lighthouse-performance-score-to-100#:~:text=What%20if%20we%20could%20replace%20the%20real%20widget), Eugene Fedorenko, 09/2020
 
