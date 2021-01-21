@@ -151,6 +151,8 @@ This is not a Web Performance only Newsletter
 
 * [The impact of SSL certificate revocation on web performance](https://nooshu.github.io/blog/2020/01/26/the-impact-of-ssl-certificate-revocation-on-web-performance/), Matt Hobbs, 01/2020
 
+* [How to Test DNS Server Response Time to Troubleshoot Site Speed](https://wp-rocket.me/blog/test-dns-server-response-time-troubleshoot-site-speed/), Jenni McKinnon ,11/2019
+
 * [Three Ways of Checking Rel=preconnect Resource Hints Are Working](https://andydavies.me/blog/2019/04/17/three-ways-of-checking-your-rel-equals-preconnect-resource-hints-are-working/), Andy Davies, 04/2019
 
 * [Preconnect resource hint and the crossorigin attribute](https://crenshaw.dev/preconnect-resource-hint-crossorigin-attribute), Michael Crenshaw, 04/2019
@@ -890,6 +892,12 @@ Service which responds which all kind of http error codes. With this service you
 
 * [https://httpstatus.io/](https://httpstatus.io/)
 Service which shows status codes, latency, response headers and more from the URL you submit. This is great to check for redirects and other network related issues. 
+
+* [DNS Perf](https://www.dnsperf.com/dns-speed-benchmark/)
+DNS Speed Benchmark: Test the performance of your DNS provider from all over the world using this benchmark tool
+
+* [DNS Speed Test](https://www.ultratools.com/tools/dnsHostingSpeed)
+The DNS hosting speed tool will give you valuable DNS performance information for each level in the DNS tree to assist with performance evaluations and performance troubleshooting.
 
 * [SSL Server Test](https://entrust.ssllabs.com/)
 This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet.
