@@ -1001,6 +1001,9 @@ Combines RUM (CrUX) and Synthetic data
 * [Request Metrics](https://requestmetrics.com/)
 Request Metrics is a simple low-cost performance monitoring service. It charts real user metrics and web vitals for your web pages and API endpoints. It also comes with alerting tools that notify you when pages or endpoints slow down.
 
+* [Cloudflare Workers](https://workers.cloudflare.com/)
+They are like service workers in the cloud. With their help you can prototype your web performance optimizations quickly and test the outcome in Webpagetest.org.
+
 ## Open Source Projects
 
 * [Fast Dom](https://github.com/wilsonpage/fastdom)
