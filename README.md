@@ -470,6 +470,9 @@ This is all about how humans perceive performance and what we can do to help our
 
 * [Prototyping optimizations with Cloudflare Workers and WebPageTest](https://blog.cloudflare.com/workers-and-webpagetest/), Andrew Galloni, 08/2020
 
+* [Cloudflare Workers](https://github.com/pmeenan/cf-workers), Pat Meenan
+Collection of Cloudflare Worker scripts, generally focused on performance optimizations
+
 * [Chrome Flags for Tooling](https://github.com/GoogleChrome/chrome-launcher/blob/master/docs/chrome-flags-for-tools.md), Paul Irish
 
 ## Online courses
