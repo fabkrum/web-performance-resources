@@ -1076,6 +1076,8 @@ Learn what influence PWA have on business metrics.
 
 * [Case study: analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/), Ivan Akulov, 04/2018
 
+* [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154), Addy Osmani, 11/2017
+
 ## Open data sources
 
 * [Web Almanac 2020 - HTTP Archive's annual
