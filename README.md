@@ -811,6 +811,10 @@ Make synthetic measurements from all over the world. Make performance audits of 
 * [WebPageTest comparison URL generator](https://wpt-compare.app/)
 Compare multiple webpagetest results which each other. Nice tool to see filmstrips site by site.
 
+* [Frustration Index](https://www.frustrationindex.com)
+"The gap between metrics is a better KPI for user experience" - FRUSTRATIONindex looks at the gap between metrics instead of looking at them individually.
+The bigger the gap the bigger the chance a user gets frustrated.
+
 * [Request Map Generator](https://requestmap.herokuapp.com/)
 The Request Map Generator is the go to place to understand what 3rd party tools are running on your page and how much data they are adding.
 
