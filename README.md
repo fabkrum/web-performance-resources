@@ -76,6 +76,7 @@ This is not a Web Performance only Newsletter
 ## Articles
 
 ### General
+* [Finally – a way to calculate revenue impact of site speed](https://digies.se/site-speed/finally-a-way-to-calculate-revenue-impact-of-site-speed), Lina Hansson, 01/2021
 * [Understanding Emotion for Happy Users – How does your site make your users feel?](https://tech.bluesmoon.info/2020/11/understanding-emotion-for-happy-users.html), Philip Tellis, 11/2020
 
 * [Strengthening the Link Between Site Speed and Business Outcomes](https://andydavies.me/blog/2020/10/12/strengthening-the-link-between-site-speed-and-business-outcomes/), Andy Davies, 10/2020
