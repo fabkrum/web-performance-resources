@@ -393,8 +393,6 @@ This is not a Web Performance only Newsletter
 
 * [Responsible JavaScript: Part III - Third parties](https://alistapart.com/article/responsible-javascript-part-3/), Jeremy Wagner, 11/2019
 
-* [JavaScript Loading Priorities in Chrome](https://addyosmani.com/blog/script-priorities/), Addy Osmani, 02/2019
-
 * [When should you be using Web Workers?](https://dassur.ma/things/when-workers/), Surma, 06/2019
 
 * [Responsible Javascript: Part II - Code Bundle](https://alistapart.com/article/responsible-javascript-part-2/), Jeremy Wagner, 06/2019
@@ -404,6 +402,8 @@ This is not a Web Performance only Newsletter
 * [Svelte 3: Rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity), Rich Harris, 04/2019
 
 * [Responsible Javascript: Part I - Web platform over frameworks](https://alistapart.com/article/responsible-javascript-part-1/), Jeremy Wagner, 03/2019
+
+* [JavaScript Loading Priorities in Chrome](https://addyosmani.com/blog/script-priorities/), Addy Osmani, 02/2019
 
 * [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/), Philip Walton, 09/2018
 
