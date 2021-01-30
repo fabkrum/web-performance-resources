@@ -393,6 +393,8 @@ This is not a Web Performance only Newsletter
 
 * [Responsible JavaScript: Part III - Third parties](https://alistapart.com/article/responsible-javascript-part-3/), Jeremy Wagner, 11/2019
 
+* [JavaScript Loading Priorities in Chrome](https://addyosmani.com/blog/script-priorities/), Addy Osmani, 02/2019
+
 * [When should you be using Web Workers?](https://dassur.ma/things/when-workers/), Surma, 06/2019
 
 * [Responsible Javascript: Part II - Code Bundle](https://alistapart.com/article/responsible-javascript-part-2/), Jeremy Wagner, 06/2019
