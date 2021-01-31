@@ -1057,6 +1057,8 @@ Learn what influence PWA have on business metrics.
 
 ## Case studies
 
+* [Making GitHub’s new homepage fast and performant](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/), Tobias Ahlin, 01/2021
+
 * [How We Improved SmashingMag Performance](https://www.smashingmagazine.com/2021/01/smashingmag-performance-case-study/), Vitaly Friedman, 01/2021
 
 * [Getting Postmark’s Lighthouse Performance Score to 100](https://wildbit.com/blog/2020/09/30/getting-postmark-lighthouse-performance-score-to-100#:~:text=What%20if%20we%20could%20replace%20the%20real%20widget), Eugene Fedorenko, 09/2020
