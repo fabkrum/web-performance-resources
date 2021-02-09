@@ -251,6 +251,8 @@ This is not a Web Performance only Newsletter
 
 * [On Cadence, Cohorts and Trained Behavior](https://calendar.perfplanet.com/2020/y-u-no-revenue-cadence-cohorts-trained-behavior/), Tobias Baldauf, 12/2020
 
+* [Site-Speed Topography](https://csswizardry.com/2020/11/site-speed-topography/), Harry Roberts, 11/2020
+
 * [How to Improve Core Web Vitals](https://simonhearne.com/2020/core-web-vitals/), Simon Hearne, 10/2020
 
 * [Cumulative Layout Shift in Practice](https://nicj.net/cumulative-layout-shift-in-practice/), Nic Jansma, 10/2020
