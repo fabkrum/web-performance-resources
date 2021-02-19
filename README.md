@@ -84,6 +84,8 @@ This is not a Web Performance only Newsletter
 
 * [Strengthening the Link Between Site Speed and Business Outcomes](https://andydavies.me/blog/2020/10/12/strengthening-the-link-between-site-speed-and-business-outcomes/), Andy Davies, 10/2020
 
+* [Why you should be testing your 404 pages web performance](https://nooshu.github.io/blog/2020/08/25/you-should-be-testing-your-404-pages-web-performance/), Matt Hobbs, 08/2020
+
 * [The Need for Speed, 23 Years Later](https://www.nngroup.com/articles/the-need-for-speed/), Kathryn Whitenton, 05/2020
 
 * [Evaluating page experience for a better web](https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html), Sowmya Subramanian, 05/2020
