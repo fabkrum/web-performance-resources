@@ -980,7 +980,7 @@ Detect Core Web Vitals issues on your page. Fix it. And revalidate.
 * [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
 Show CrUX RUM data of big websites.
 
-* [](https://treo.sh/sitespeed/)
+* [Treo](https://treo.sh/sitespeed/)
 Configure speed metrics using percentiles and intervals for any website from @ChromeUXReport
 
 * [Google Speed Scorecard](https://www.thinkwithgoogle.com/feature/mobile/)
@@ -1036,9 +1036,6 @@ Treo is a good choice if you are interested in Lighthouse (Pages) and CrUX (Site
 
 * [Cloudinary](https://cloudinary.com/)
 Image and video management in the cloud
-
-* [Treo](https://treo.sh/)
-Combines RUM (CrUX) and Synthetic data
 
 * [Request Metrics](https://requestmetrics.com/)
 Request Metrics is a simple low-cost performance monitoring service. It charts real user metrics and web vitals for your web pages and API endpoints. It also comes with alerting tools that notify you when pages or endpoints slow down.
