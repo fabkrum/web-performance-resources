@@ -1028,6 +1028,12 @@ Speedcurve is build on top of WebPageTest and makes running synthetic tests easy
 * [Akamai Web Performance Tools](https://www.akamai.com/uk/en/products/web-performance/)
 With mPulse you can understand how your performance and business data is correlation. With the “What if” tool you can predict the impact of performance changes on your business KPI. Works together with Chrome UX report data and shows RUM data of your competition (if the data is available).
 
+* [Calibre](https://calibreapp.com)
+Nice Web Perf Tool to measure synthetic data
+
+* [Treo](https://treo.sh)
+Treo is a good choice if you are interested in Lighthouse (Pages) and CrUX (Sites) data.
+
 * [Cloudinary](https://cloudinary.com/)
 Image and video management in the cloud
 
