@@ -886,7 +886,7 @@ Find the cost of adding a npm package to your bundle
 * [EStimator](https://estimator.dev/)
 Find out how much turning on modern JS could save.
 
-* [Source Map Explorer](https://www.npmjs.com/package/source-map-explorer), [Webpback Bundle Analyer](https://www.npmjs.com/package/webpack-bundle-analyzer)
+* [Source Map Explorer](https://www.npmjs.com/package/source-map-explorer), [Webpack Bundle Analyer](https://www.npmjs.com/package/webpack-bundle-analyzer)
 Understand what code you are loading
 
 * [Ghostery](https://www.ghostery.com/)
