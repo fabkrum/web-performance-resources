@@ -1058,6 +1058,8 @@ Codebase of the Google Chrome Lighthouse tool.
 
 Studies are important to understand how the different markets in the world are working. What are the most used devices? What is the average network connection?
 
+* [Cumulative Layout Shift Study of Over 1 Million Websites](https://www.seoclarity.net/blog/core-web-vitals-study), Mitul Gandhi, 02/2021
+
 * [Web Performance Optimisation Stats](https://wpostats.com)
 Web performance studies. Learn how web performance impacts business KPIs. A good source to convince people to invest money in web performance optimisations.
 
