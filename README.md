@@ -819,6 +819,9 @@ Another classic book.
 
 ### Free tools and services
 
+* [Pagespeed Compare](https://pagespeed.compare/)
+Compare performance metrics of your pages against each other or your competitors using Google PageSpeed Insights.
+
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 Lighthouse is becoming the best audit tool for web performance. It has a great documentation and gives valuable insights. This is where my performance audit is starting.
 
