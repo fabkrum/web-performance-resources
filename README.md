@@ -78,6 +78,8 @@ This is not a Web Performance only Newsletter
 ## Articles
 
 ### General
+* [Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo/), Simon Hearne, 02/2021
+
 * [Site Speed and Search Ranking (Complete Guide)](https://calibreapp.com/blog/site-speed-search-ranking-complete-guide), Ben Schwarz, 02/2021 
 
 * [Finally – a way to calculate revenue impact of site speed](https://digies.se/site-speed/finally-a-way-to-calculate-revenue-impact-of-site-speed), Lina Hansson, 01/2021
@@ -143,6 +145,8 @@ This is not a Web Performance only Newsletter
 * [My Performance Audit Workflow](https://aerotwist.com/blog/my-performance-audit-workflow/), Paul Lewis, 04/2014
 
 ### Network and Caching
+* [Prefetching Heuristics](https://blog.mgechev.com/2021/02/07/prefetching-strategies-heuristics-faster-web-apps/), Minko Gechev, 02/2021
+
 * [Head-of-Line Blocking in QUIC and HTTP/3: The Details](https://github.com/rmarx/holblocking-blogpost), Robin Marx, 12/2020
 
 * [Back/forward cache](https://web.dev/bfcache/), Philip Walton, 11/2020
@@ -399,6 +403,8 @@ This is not a Web Performance only Newsletter
 * [More Weight Doesn’t Mean More Wait](https://www.filamentgroup.com/lab/weight-wait.html), Scott Jehl, 04/2015
 
 ### Javascript and Render Performance
+
+* [JavaScript performance beyond bundle size](https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size/), Nolan Lawson, 02/2021
 
 * [The Import On Interaction Pattern](https://addyosmani.com/blog/import-on-interaction/), Addy Osmani, 12/2020
 
