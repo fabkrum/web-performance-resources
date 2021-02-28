@@ -78,11 +78,14 @@ This is not a Web Performance only Newsletter
 ## Articles
 
 ### General
+
 * [Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo/), Simon Hearne, 02/2021
 
 * [Site Speed and Search Ranking (Complete Guide)](https://calibreapp.com/blog/site-speed-search-ranking-complete-guide), Ben Schwarz, 02/2021 
 
 * [Finally – a way to calculate revenue impact of site speed](https://digies.se/site-speed/finally-a-way-to-calculate-revenue-impact-of-site-speed), Lina Hansson, 01/2021
+
+* [Blood pressure study: Which website issue cause users the most stress?](https://www.netimperative.com/2020/12/09/blood-pressure-study-which-website-issue-cause-users-the-most-stress/), Robin Langford, 12/2020
 
 * [Understanding Emotion for Happy Users – How does your site make your users feel?](https://tech.bluesmoon.info/2020/11/understanding-emotion-for-happy-users.html), Philip Tellis, 11/2020
 
@@ -255,6 +258,8 @@ This is not a Web Performance only Newsletter
 * [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/), Jason Grigsby, 03/2015
 
 ### Measure Performance
+* [Measuring Network Performance in Mobile Safari](https://csswizardry.com/2021/02/measuring-network-performance-in-mobile-safari/), Harry Roberts, 02/2021
+
 * [An Opinionated Guide to Performance Budgets](https://speedcurve.com/blog/performance-budgets-guide/), Tammy Everts, 02/2021
 
 * [How to run a WebPageTest test](https://nooshu.github.io/blog/2020/12/31/how-to-run-a-webpagetest-test/), Matt Hobbs, 12/2020
