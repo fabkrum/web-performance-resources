@@ -258,6 +258,8 @@ This is not a Web Performance only Newsletter
 * [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/), Jason Grigsby, 03/2015
 
 ### Measure Performance
+* [Cloudflare Worker recipes for frontend performance testing](https://nooshu.github.io/blog/2021/03/02/cloudflare-worker-recipes-for-frontend-performance-testing/), Matt Hobbs, 03/2021
+
 * [Measuring Network Performance in Mobile Safari](https://csswizardry.com/2021/02/measuring-network-performance-in-mobile-safari/), Harry Roberts, 02/2021
 
 * [An Opinionated Guide to Performance Budgets](https://speedcurve.com/blog/performance-budgets-guide/), Tammy Everts, 02/2021
