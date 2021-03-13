@@ -79,6 +79,8 @@ This is not a Web Performance only Newsletter
 
 ### General
 
+* [The Performance Inequality Gap, 2021](https://infrequently.org/2021/03/the-performance-inequality-gap/), Alex Russell, 03/2021
+
 * [Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo/), Simon Hearne, 02/2021
 
 * [Site Speed and Search Ranking (Complete Guide)](https://calibreapp.com/blog/site-speed-search-ranking-complete-guide), Ben Schwarz, 02/2021 
