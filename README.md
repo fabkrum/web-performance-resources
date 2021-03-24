@@ -79,6 +79,8 @@ This is not a Web Performance only Newsletter
 
 ### General
 
+* [prefers-reduced-motion: Taking a no-motion-first approach to animations](https://tatianamac.com/posts/prefers-reduced-motion/), Tatiana Mac, 03/2021
+
 * [The Performance Inequality Gap, 2021](https://infrequently.org/2021/03/the-performance-inequality-gap/), Alex Russell, 03/2021
 
 * [Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo/), Simon Hearne, 02/2021
@@ -349,11 +351,14 @@ This is not a Web Performance only Newsletter
 * [Driving WebPagetest from a Google Docs Spreadsheet](https://calendar.perfplanet.com/2014/driving-webpagetest-from-a-google-docs-spreadsheet/), Andy Davies, 12/2014
 
 ### Third-Party Services
+
 * [Understanding the True Cost of Client-Side A/B Testing](https://timkadlec.com/remembers/2021-01-12-cost-of-client-side-ab-testing/), Tim Kadlec, 01/2021
+
+* [The Case Against Anti-Flicker Snippets](https://andydavies.me/blog/2020/11/16/the-case-against-anti-flicker-snippets/), Andy Davies, 11/2020
 
 * [Reducing the Site-Speed Impact of Third-Party Tags](https://andydavies.me/blog/2020/10/02/reducing-the-site-speed-impact-of-third-party-tags/), Andy Davies, 10/2020
 
-* [The Case Against Anti-Flicker Snippets](https://andydavies.me/blog/2020/11/16/the-case-against-anti-flicker-snippets/), Andy Davies, 11/2020
+* [Improve web performance lazy loading reCaptcha](https://antonioufano.com/articles/improve-web-performance-lazy-loading-recaptcha/), Antonio Ufano, 06/2020
 
 * [Self-Host Your Static Assets](https://csswizardry.com/2019/05/self-host-your-static-assets/), Harry Roberts, 05/2019
 
@@ -380,6 +385,8 @@ This is not a Web Performance only Newsletter
 * [10 pro tips for managing the performance of your third-party scripts,](https://www.soasta.com/blog/10-pro-tips-for-managing-the-performance-of-your-third-party-scripts/) Tammy Everts, 11/2015
 
 ### Optimise the Critical Render Path
+
+* [How to Improve CSS Performance](https://calibreapp.com/blog/css-performance), Milica Mihajlija, 03/2021
 
 * [The importance of `@font-face` source order when used with preload](https://nooshu.github.io/blog/2021/01/23/the-importance-of-font-face-source-order-when-used-with-preload/), Matt Hobbs, 01/2021
 
@@ -1102,6 +1109,8 @@ Learn what influence PWA have on business metrics.
 * [https://www.akamai.com/us/en/about/our-thinking/state-of-the-internet-report/](https://www.akamai.com/us/en/about/our-thinking/state-of-the-internet-report/)
 
 ## Case studies
+
+* [How we built UK’s fastest online fashion-store](https://www.scipioerp.com/2021/03/08/how-we-built-uks-fastest-online-fashion-store/), Paul, 03/2021
 
 * [Making GitHub’s new homepage fast and performant](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/), Tobias Ahlin, 01/2021
 
