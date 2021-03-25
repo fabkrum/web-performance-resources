@@ -1113,6 +1113,8 @@ Learn what influence PWA have on business metrics.
 
 ## Case studies
 
+* [How has the fastest F1 website in 2021?](https://jakearchibald.com/2021/f1-perf-part-1/), Jake Archibald, 03/2021
+
 * [How we built UK’s fastest online fashion-store](https://www.scipioerp.com/2021/03/08/how-we-built-uks-fastest-online-fashion-store/), Paul, 03/2021
 
 * [Making GitHub’s new homepage fast and performant](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/), Tobias Ahlin, 01/2021
