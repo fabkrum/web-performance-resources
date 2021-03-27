@@ -1043,6 +1043,8 @@ Understand the technical building blocks of a website.
 * [SERP Speed](https://reddico.co.uk/tools/serp-speed/)
 Compare your page speed at keyword level with the rest
 
+* [Perf Track](https://perf-track.web.app/),
+Compares the HTTP archive data of different JavaScript Frameworks
 
 ### Paid tools and services
 
