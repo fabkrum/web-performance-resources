@@ -262,6 +262,8 @@ This is not a Web Performance only Newsletter
 * [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/), Jason Grigsby, 03/2015
 
 ### Measure Performance
+* [Debug Web Vitals in the field](https://web.dev/debug-web-vitals-in-the-field/), Philip Walton, 04/2021
+
 * [Setting up Cloudflare Workers for web performance optimisation and testing](https://nooshu.github.io/blog/2021/03/14/setting-up-cloudflare-workers-for-web-performance-optimisation-and-testing/), Matt Hobbs, 03/2021
 
 * [Cloudflare Worker recipes for frontend performance testing](https://nooshu.github.io/blog/2021/03/02/cloudflare-worker-recipes-for-frontend-performance-testing/), Matt Hobbs, 03/2021
