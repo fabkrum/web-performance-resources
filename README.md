@@ -866,6 +866,9 @@ Online test to help speeding up heavy web pages: Frontend Quality, WebPerf, JS P
 * [WebPageTest](http://www.webpagetest.org/)
 Make synthetic measurements from all over the world. Make performance audits of any website. This tool is very powerful and gives you a lot of insights. I use it a lot to make a website comparison video.
 
+* [Waterfaller: generate tasks for developers that boost page speed](https://waterfaller.dev/)
+Waterfaller uses Google PageSpeed Insights to generate an actionable list of tasks to improve your Core Web Vitals metrics. It might be a good compliment to Lighthouse audit tips!
+
 * [WebPageTest comparison URL generator](https://wpt-compare.app/)
 Compare multiple webpagetest results which each other. Nice tool to see filmstrips site by site.
 
