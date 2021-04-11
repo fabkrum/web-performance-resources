@@ -1074,6 +1074,9 @@ Nice Web Perf Tool to measure synthetic data
 * [Treo](https://treo.sh)
 Treo is a good choice if you are interested in Lighthouse (Pages) and CrUX (Sites) data.
 
+* [Blackbird](https://tryblackbird.com/)
+Ecommerce site speed monitoring – Track down-to-the-millisecond speed metrics for your users, see how speed affects your conversion rate, and get alerts & reports to stay on top of it
+
 * [Cloudinary](https://cloudinary.com/)
 Image and video management in the cloud
 
@@ -1125,6 +1128,8 @@ Learn what influence PWA have on business metrics.
 * [https://www.akamai.com/us/en/about/our-thinking/state-of-the-internet-report/](https://www.akamai.com/us/en/about/our-thinking/state-of-the-internet-report/)
 
 ## Case studies
+
+* [Making Cybertruck Faster](https://tryblackbird.com/blog/cybertruck), 04/2021
 
 * [How has the fastest F1 website in 2021?](https://jakearchibald.com/2021/f1-perf-part-1/), Jake Archibald, 03/2021
 
@@ -1211,6 +1216,9 @@ Look for a performance Meetup group close to where you live. This is a great opp
 
 This are all conferences with a strong focus on web performance.
 They all have a very good lineup:
+
+* [Lazy Load 2021](https://www.webdirections.org/lazyload/)
+  (May 21 & 28, online event, Ticket: Starting at 119 USD)
 
 * [Smashing Conference London 2018](https://smashingconf.com/london-2018/)
 (Ticket: Early Bird: $499 — Conference & Workshop: $922)
