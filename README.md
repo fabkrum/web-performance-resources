@@ -79,6 +79,8 @@ This is not a Web Performance only Newsletter
 
 ### General
 
+* [How to Convince Your Boss to Care About Speed](https://calibreapp.com/blog/convince-your-boss-about-performance), Karolina Szczur, 04/2021
+
 * [prefers-reduced-motion: Taking a no-motion-first approach to animations](https://tatianamac.com/posts/prefers-reduced-motion/), Tatiana Mac, 03/2021
 
 * [The Performance Inequality Gap, 2021](https://infrequently.org/2021/03/the-performance-inequality-gap/), Alex Russell, 03/2021
