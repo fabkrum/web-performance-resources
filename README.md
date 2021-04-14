@@ -264,6 +264,8 @@ This is not a Web Performance only Newsletter
 ### Measure Performance
 * [Diving Into the New Cumulative Layout Shift](https://blog.webpagetest.org/posts/understanding-the-new-cumulative-layout-shift/), Tim Kadlec, 04/2021
 
+* [How to use WebPageTest's Graph Page Data view](https://nooshu.github.io/blog/2021/04/13/how-to-use-webpagetests-graph-page-data-view/), Matt Hobbs, 04/2021
+
 * [Debug Web Vitals in the field](https://web.dev/debug-web-vitals-in-the-field/), Philip Walton, 04/2021
 
 * [How to create a competitive analysis dashboard for Core Web Vitals using Google Data Studio](https://www.deepcrawl.com/blog/best-practice/competitive-analysis-core-web-vitals-google-data-studio/), Rachel Anderson, 03/2021
