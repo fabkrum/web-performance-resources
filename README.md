@@ -1009,6 +1009,9 @@ A Google Sheet provided by Harry Roberts which gives you a nice overview over yo
 * [Real User Experience Test (rUXt)](https://ruxt.dexecure.com/)
 Access RUM data for 3,237,526 websites accessed by Google Chrome Users
 
+* [massWebVitals](https://github.com/dwsmart/massWebVitals)
+A node CLI script to grab Largest Contentful Paint, First Input Delay & Cumulative Layout Shift for a list of pages specified in a .csv file.
+
 * [Waterfall Heatmap Bookmarklet](https://github.com/zeman/perfmap)
 Prints the timing data on assets.
 
@@ -1061,6 +1064,7 @@ Compare your page speed at keyword level with the rest
 * [Perf Track](https://perf-track.web.app/),
 Compares the HTTP archive data of different JavaScript Frameworks
 
+
 ### Paid tools and services
 
 These are professional tools which cost money. The cost are usually depends on traffic, server or data.
@@ -1092,6 +1096,7 @@ Request Metrics is a simple low-cost performance monitoring service. It charts r
 * [Cloudflare Workers](https://workers.cloudflare.com/)
 They are like service workers in the cloud. With their help you can prototype your web performance optimizations quickly and test the outcome in Webpagetest.org.
 
+
 ## Open Source Projects
 
 * [Fast Dom](https://github.com/wilsonpage/fastdom)
@@ -1108,6 +1113,7 @@ Foundation for WebPageTest.org. You can install it locally to run it behind a fi
 
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse)
 Codebase of the Google Chrome Lighthouse tool.
+
 
 ## Studies
 
@@ -1132,6 +1138,7 @@ Learn what influence PWA have on business metrics.
 * [Open Signal: Global stat of the mobile network](https://opensignal.com/reports/2018/02/global-state-of-the-mobile-network)
 
 * [https://www.akamai.com/us/en/about/our-thinking/state-of-the-internet-report/](https://www.akamai.com/us/en/about/our-thinking/state-of-the-internet-report/)
+
 
 ## Case studies
 
@@ -1171,6 +1178,7 @@ Learn what influence PWA have on business metrics.
 
 * [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154), Addy Osmani, 11/2017
 
+
 ## Open data sources
 
 * [Web Almanac 2020 - HTTP Archive's annual
@@ -1200,6 +1208,7 @@ Browser stats, Network latency between regions
 * [Ofcom.org.uk](https://www.ofcom.org.uk/research-and-data)
 
 * [Global Internet Speed](https://www.speedtest.net/global-index)
+
 
 ## Web Performance Meetups
 
@@ -1243,6 +1252,7 @@ They all have a very good lineup:
 8–9 November 2018, Amsterdam, Netherland
 
 * [We love speed](https://www.welovespeed.com/), Bordeaux, France – Not very international, most of the talks are French
+
 
 ## W3C Standards
 
