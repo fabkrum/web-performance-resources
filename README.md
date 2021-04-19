@@ -870,8 +870,8 @@ Lighthouse is becoming the best audit tool for web performance. It has a great d
 * [Lighthouse Parade](https://github.com/cloudfour/lighthouse-parade)
 A Node.js command line tool that crawls a domain and compiles a report with lighthouse performance data for every page.
 
-* [Yellow Lab Tools](https://yellowlab.tools) – :rocket:
-Online test to help speeding up heavy web pages: Frontend Quality, WebPerf, JS Profiling
+* [Yellow Lab Tools](https://yellowlab.tools)
+Online test to help speeding up heavy web pages: Frontend Quality, WebPerf, JS Profiling – :rocket:
 
 * [WebPageTest](http://www.webpagetest.org/)
 Make synthetic measurements from all over the world. Make performance audits of any website. This tool is very powerful and gives you a lot of insights. I use it a lot to make a website comparison video. – :rocket:
