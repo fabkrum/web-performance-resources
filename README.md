@@ -6,7 +6,7 @@
 
 ### Table of Contents
 
-* <mark style="background-color:yellow">[Stay up to date](#stay-up-to-date)</mark>
+* [<mark style="background-color:yellow">Stay up to date</mark>](#stay-up-to-date)
 * [Articles](#articles)
     + [General](#general)
     + [Network and Caching](#network-and-caching)
