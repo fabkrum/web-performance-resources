@@ -266,6 +266,8 @@ This is not a Web Performance only Newsletter
 * [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/), Jason Grigsby, 03/2015
 
 ### Measure Performance
+* [An In-Depth Guide To Measuring Core Web VitalsAn In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/), Barry Pollard, 04/2021
+
 * [Diving Into the New Cumulative Layout Shift](https://blog.webpagetest.org/posts/understanding-the-new-cumulative-layout-shift/), Tim Kadlec, 04/2021
 
 * [How to use WebPageTest's Graph Page Data view](https://nooshu.github.io/blog/2021/04/13/how-to-use-webpagetests-graph-page-data-view/), Matt Hobbs, 04/2021
