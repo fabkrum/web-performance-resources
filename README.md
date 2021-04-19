@@ -6,7 +6,7 @@
 
 ### Table of Contents
 
-* [<mark style="background-color:yellow">Stay up to date</mark>](#stay-up-to-date)
+* [Stay up to date](#stay-up-to-date)
 * [Articles](#articles)
     + [General](#general)
     + [Network and Caching](#network-and-caching)
@@ -266,7 +266,7 @@ This is not a Web Performance only Newsletter
 * [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/), Jason Grigsby, 03/2015
 
 ### Measure Performance
-* [An In-Depth Guide To Measuring Core Web VitalsAn In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/), Barry Pollard, 04/2021
+* :rocket: [An In-Depth Guide To Measuring Core Web VitalsAn In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/), Barry Pollard, 04/2021
 
 * [Diving Into the New Cumulative Layout Shift](https://blog.webpagetest.org/posts/understanding-the-new-cumulative-layout-shift/), Tim Kadlec, 04/2021
 
@@ -454,7 +454,7 @@ This is not a Web Performance only Newsletter
 
 * [Responsible JavaScript: Part III - Third parties](https://alistapart.com/article/responsible-javascript-part-3/), Jeremy Wagner, 11/2019
 
-* [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019), Addy Osmani, 06/2019
+* :rocket: [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019), Addy Osmani, 06/2019
 
 * [When should you be using Web Workers?](https://dassur.ma/things/when-workers/), Surma, 06/2019
 
