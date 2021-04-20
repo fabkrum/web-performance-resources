@@ -7,9 +7,9 @@
 ### Table of Contents
 
 * [Stay up to date](#stay-up-to-date)
+* [Core Web Vitals](#core-web-vitals)
 * [Articles](#articles)
     + [General](#general)
-    + [Core Web Vitals](#core-web-vitals)
     + [Network and Caching](#network-and-caching)
     + [Image and Video Optimization](#image-and-video-optimization)
     + [Measure Performance](#measure-performance)
@@ -75,6 +75,39 @@ This is not a Web Performance only Newsletter
 * [Web performance newsletter](https://marcradziwill.com/newsletter/) weekly web performance newsletter by [Marc Radziwill](https://marcradziwill.com/)
 
 * [WebPerf Working Group Meetings](https://www.youtube.com/playlist?list=PL5b8e1JT2i4a3PqaF4a6tVfqZela-pSky), Understand what topics are discussed and be prepared for what is coming in the future
+
+## Core Web Vitals
+
+* [The Almost-Complete Guide to Cumulative Layout Shift](https://jessbpeck.com/posts/completecls/), Jess B Pack, 04/2021
+
+* [An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/), Barry Pollard, 04/2021 – 🚀
+
+* [Diving Into the New Cumulative Layout Shift](https://blog.webpagetest.org/posts/understanding-the-new-cumulative-layout-shift/), Tim Kadlec, 04/2021
+
+* [Debug Web Vitals in the field](https://web.dev/debug-web-vitals-in-the-field/), Philip Walton, 04/2021
+
+* [How to create a competitive analysis dashboard for Core Web Vitals using Google Data Studio](https://www.deepcrawl.com/blog/best-practice/competitive-analysis-core-web-vitals-google-data-studio/), Rachel Anderson, 03/2021
+
+* [Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo/), Simon Hearne, 02/2021
+
+* [Analyzing Web Vitals with WebPageTest](https://calendar.perfplanet.com/2020/analyzing-web-vitals-with-webpagetest/), Patrick Meenan, 12/2020
+
+* [How to Improve Core Web Vitals](https://simonhearne.com/2020/core-web-vitals/), Simon Hearne, 10/2020
+
+* [Cumulative Layout Shift in Practice](https://nicj.net/cumulative-layout-shift-in-practice/), Nic Jansma, 10/2020
+
+* [Cumulative Layout Shift in the Real World](https://nicj.net/cumulative-layout-shift-in-the-real-world/), Nic Jansma, 10/2020
+
+* [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc), Addy Osmani, 06/2020 – 🚀 🎥
+
+* [Web Vitals - Essential metrics for a healthy site](https://web.dev/vitals/), 05/2020
+
+* [Defining the Core Web Vitals metrics thresholds](https://web.dev/defining-core-web-vitals-thresholds/), Bryan McQuade, 05/2020
+
+* [The Science Behind Web Vitals](https://blog.chromium.org/2020/05/the-science-behind-web-vitals.html), Amar Sagoo / Annie Sullivan / Vivek Sekhar, 05/2020
+
+* [Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI) ([Slides](https://www.slideshare.net/AnnieSullivan9/monitoring-and-metrics-in-chrome-196438420)), Annie Sullivan, 11/2019 – 🎥
+
 
 ## Articles
 
@@ -153,35 +186,6 @@ This is not a Web Performance only Newsletter
 * [Perf Audits for Blink & DevTools, CNet, Wikipedia, Time](https://docs.google.com/document/d/1K-mKOqiUiSjgZTEscBLjtjd6E67oiK8H2ztOiq5tigk/edit), Paul Irish, 02/2015
 
 * [My Performance Audit Workflow](https://aerotwist.com/blog/my-performance-audit-workflow/), Paul Lewis, 04/2014
-
-
-### Core Web Vitals
-
-* [The Almost-Complete Guide to Cumulative Layout Shift](), Jess B Pack, 04/2021
-
-* [An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/), Barry Pollard, 04/2021 – :rocket:
-
-* [Diving Into the New Cumulative Layout Shift](https://blog.webpagetest.org/posts/understanding-the-new-cumulative-layout-shift/), Tim Kadlec, 04/2021
-
-* [Debug Web Vitals in the field](https://web.dev/debug-web-vitals-in-the-field/), Philip Walton, 04/2021
-
-* [How to create a competitive analysis dashboard for Core Web Vitals using Google Data Studio](https://www.deepcrawl.com/blog/best-practice/competitive-analysis-core-web-vitals-google-data-studio/), Rachel Anderson, 03/2021
-
-* [Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo/), Simon Hearne, 02/2021
-
-* [Analyzing Web Vitals with WebPageTest](https://calendar.perfplanet.com/2020/analyzing-web-vitals-with-webpagetest/), Patrick Meenan, 12/2020
-
-* [How to Improve Core Web Vitals](https://simonhearne.com/2020/core-web-vitals/), Simon Hearne, 10/2020
-
-* [Cumulative Layout Shift in Practice](https://nicj.net/cumulative-layout-shift-in-practice/), Nic Jansma, 10/2020
-
-* [Cumulative Layout Shift in the Real World](https://nicj.net/cumulative-layout-shift-in-the-real-world/), Nic Jansma, 10/2020
-
-* [Web Vitals - Essential metrics for a healthy site](https://web.dev/vitals/), 05/2020
-
-* [Defining the Core Web Vitals metrics thresholds](https://web.dev/defining-core-web-vitals-thresholds/), Bryan McQuade, 05/2020
-
-* [The Science Behind Web Vitals](https://blog.chromium.org/2020/05/the-science-behind-web-vitals.html), Amar Sagoo / Annie Sullivan / Vivek Sekhar, 05/2020
 
 
 ### Network and Caching
@@ -690,10 +694,6 @@ Nice introduction to HTTP2
 ### Measure
 
 * [WebPageTest and Cloudflare Workers – A Performance Consultant’s Dream Combo?](https://www.youtube.com/watch?v=YSS0a0uaDvk), Andy Davies, 20/2020 – :rocket:
-
-* [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc), Addy Osmani, 06/2020 – :rocket:
-
-* [Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI) ([Slides](https://www.slideshare.net/AnnieSullivan9/monitoring-and-metrics-in-chrome-196438420)), Annie Sullivan, 11/2019
 
 * [How website speed can impact digital ad revenue](https://www.youtube.com/watch?v=EwlmYec3M-s) ([Slides](https://simonhearne.github.io/presentations/digital-revenue/#/)), Simon Hearne, 06/2019
 
