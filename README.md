@@ -366,6 +366,8 @@ This is not a Web Performance only Newsletter
 
 ### Third-Party Services
 
+* [Best practices for cookie notices](https://web.dev/cookie-notice-best-practices/), Katie Hempenius, 04/2021
+
 * [Bypassing Cookie Consent Banners in Lighthouse and WebPageTest](https://andydavies.me/blog/2021/03/25/bypassing-cookie-consent-banners-in-lighthouse-and-webpagetest/), Andy Davies, 03/2021 – :rocket:
 
 * [Understanding the True Cost of Client-Side A/B Testing](https://timkadlec.com/remembers/2021-01-12-cost-of-client-side-ab-testing/), Tim Kadlec, 01/2021
