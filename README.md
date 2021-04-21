@@ -4,7 +4,7 @@
 > I keep this list up to date and add new great resources often.
 > If you know great resources which aren’t covered here please create a pull request.
 
-### Table of Contents
+## Table of Contents
 
 * [Stay up to date](#stay-up-to-date)
 * [Core Web Vitals](#core-web-vitals)
@@ -46,6 +46,17 @@
 * [Conferences](#conferences)
 * [W3C Standards](#w3c-standards)
 
+## Legend
+
+ℹ️  = Official sources (most often Google announcements)
+
+🚀  = Must read articles
+
+📚  = Resources I use regulary
+
+🎥  = Video
+
+
 ## Stay up to date
 
 * [Planet Performance](http://www.perfplanet.com/)
@@ -78,7 +89,7 @@ This is not a Web Performance only Newsletter
 
 ## Core Web Vitals
 
-* [More time, tools, and details on the page experience update](https://developers.google.com/search/blog/2021/04/more-details-page-experience), Jeffrey Jose (Google), 04/2021
+* [More time, tools, and details on the page experience update](https://developers.google.com/search/blog/2021/04/more-details-page-experience), Jeffrey Jose (Google), 04/2021 – ℹ️
 
 * [The Almost-Complete Guide to Cumulative Layout Shift](https://jessbpeck.com/posts/completecls/), Jess B Pack, 04/2021
 
@@ -86,11 +97,15 @@ This is not a Web Performance only Newsletter
 
 * [Diving Into the New Cumulative Layout Shift](https://blog.webpagetest.org/posts/understanding-the-new-cumulative-layout-shift/), Tim Kadlec, 04/2021
 
+* [Evolving the CLS metric](https://web.dev/evolving-cls/), Annie Sullivan (Google), 04/2021 – ℹ️
+
 * [Debug Web Vitals in the field](https://web.dev/debug-web-vitals-in-the-field/), Philip Walton, 04/2021
 
 * [How to create a competitive analysis dashboard for Core Web Vitals using Google Data Studio](https://www.deepcrawl.com/blog/best-practice/competitive-analysis-core-web-vitals-google-data-studio/), Rachel Anderson, 03/2021
 
 * [Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo/), Simon Hearne, 02/2021
+
+* [Cumulative Layout Shift Study of Over 1 Million Websites](https://www.seoclarity.net/blog/core-web-vitals-study), Mitul Gandhi, 02/2021
 
 * [Analyzing Web Vitals with WebPageTest](https://calendar.perfplanet.com/2020/analyzing-web-vitals-with-webpagetest/), Patrick Meenan, 12/2020
 
@@ -100,7 +115,7 @@ This is not a Web Performance only Newsletter
 
 * [Cumulative Layout Shift in the Real World](https://nicj.net/cumulative-layout-shift-in-the-real-world/), Nic Jansma, 10/2020
 
-* [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc), Addy Osmani, 06/2020 – 🚀 🎥
+* [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc), Addy Osmani, 06/2020 – 🚀 & 🎥
 
 * [Web Vitals - Essential metrics for a healthy site](https://web.dev/vitals/), 05/2020
 
@@ -108,7 +123,7 @@ This is not a Web Performance only Newsletter
 
 * [The Science Behind Web Vitals](https://blog.chromium.org/2020/05/the-science-behind-web-vitals.html), Amar Sagoo / Annie Sullivan / Vivek Sekhar, 05/2020
 
-* [Evaluating page experience for a better web](https://developers.google.com/search/blog/2020/05/evaluating-page-experience), Sowmya Subramanian (Google), 05/2020
+* [Evaluating page experience for a better web](https://developers.google.com/search/blog/2020/05/evaluating-page-experience), Sowmya Subramanian (Google), 05/2020 – ℹ️ 
 
 * [Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI) ([Slides](https://www.slideshare.net/AnnieSullivan9/monitoring-and-metrics-in-chrome-196438420)), Annie Sullivan, 11/2019 – 🎥
 
@@ -308,7 +323,7 @@ This is not a Web Performance only Newsletter
 
 * [Setting up Cloudflare Workers for web performance optimisation and testing](https://nooshu.github.io/blog/2021/03/14/setting-up-cloudflare-workers-for-web-performance-optimisation-and-testing/), Matt Hobbs, 03/2021
 
-* [Cloudflare Worker recipes for frontend performance testing](https://nooshu.github.io/blog/2021/03/02/cloudflare-worker-recipes-for-frontend-performance-testing/), Matt Hobbs, 03/2021 – :rocket:
+* [Cloudflare Worker recipes for frontend performance testing](https://nooshu.github.io/blog/2021/03/02/cloudflare-worker-recipes-for-frontend-performance-testing/), Matt Hobbs, 03/2021 – 🚀 & 📚
 
 * [Measuring Network Performance in Mobile Safari](https://csswizardry.com/2021/02/measuring-network-performance-in-mobile-safari/), Harry Roberts, 02/2021
 
@@ -328,9 +343,9 @@ This is not a Web Performance only Newsletter
 
 * [How to read a WebPageTest Connection View chart](https://nooshu.github.io/blog/2019/12/30/how-to-read-a-wpt-connection-view-chart/), Matt Hobbs, 12/2019
 
-* [How to read a WebPageTest Waterfall View chart](https://nooshu.github.io/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart/), Matt Hobbs, 10/2019 – :rocket:
+* [How to read a WebPageTest Waterfall View chart](https://nooshu.github.io/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart/), Matt Hobbs, 10/2019 – 🚀 & 📚
 
-* [Lighthouse Variability](https://developers.google.com/web/tools/lighthouse/variability), 2019 – :rocket:
+* [Lighthouse Variability](https://developers.google.com/web/tools/lighthouse/variability), 2019 – 🚀
 
 * [Metrics - Measure and optimize performance and user experience](https://web.dev/metrics/), 2019
 
@@ -384,7 +399,7 @@ This is not a Web Performance only Newsletter
 
 * [Best practices for cookie notices](https://web.dev/cookie-notice-best-practices/), Katie Hempenius, 04/2021
 
-* [Bypassing Cookie Consent Banners in Lighthouse and WebPageTest](https://andydavies.me/blog/2021/03/25/bypassing-cookie-consent-banners-in-lighthouse-and-webpagetest/), Andy Davies, 03/2021 – :rocket:
+* [Bypassing Cookie Consent Banners in Lighthouse and WebPageTest](https://andydavies.me/blog/2021/03/25/bypassing-cookie-consent-banners-in-lighthouse-and-webpagetest/), Andy Davies, 03/2021 – 🚀
 
 * [Understanding the True Cost of Client-Side A/B Testing](https://timkadlec.com/remembers/2021-01-12-cost-of-client-side-ab-testing/), Tim Kadlec, 01/2021
 
@@ -426,7 +441,7 @@ This is not a Web Performance only Newsletter
 
 * [How to avoid layout shifts caused by web fonts](https://simonhearne.com/2021/layout-shifts-webfonts/), Simon Hearne, 01/2021
 
-* [The Simplest Way to Load CSS Asynchronously](https://www.filamentgroup.com/lab/load-css-simpler/), Scott Jehl, 07/2019
+* [The Simplest Way to Load CSS Asynchronously](https://www.filamentgroup.com/lab/load-css-simpler/), Scott Jehl, 07/2019 – 🚀
 
 * [CSS audit](https://css-tricks.com/a-quick-css-audit-and-general-notes-about-design-systems/)
 
@@ -458,7 +473,7 @@ This is not a Web Performance only Newsletter
 
 * [JavaScript performance beyond bundle size](https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size/), Nolan Lawson, 02/2021
 
-* [The Import On Interaction Pattern](https://addyosmani.com/blog/import-on-interaction/), Addy Osmani, 12/2020 – :rocket:
+* [The Import On Interaction Pattern](https://addyosmani.com/blog/import-on-interaction/), Addy Osmani, 12/2020 – 🚀
 
 * [Prevent layout shifts with CSS grid stacks](https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo/), Hubert Sablonnière, 10/2020
 
@@ -484,7 +499,7 @@ This is not a Web Performance only Newsletter
 
 * [Responsible Javascript: Part I - Web platform over frameworks](https://alistapart.com/article/responsible-javascript-part-1/), Jeremy Wagner, 03/2019
 
-* [JavaScript Loading Priorities in Chrome](https://addyosmani.com/blog/script-priorities/), Addy Osmani, 02/2019 – :rocket:
+* [JavaScript Loading Priorities in Chrome](https://addyosmani.com/blog/script-priorities/), Addy Osmani, 02/2019 – 📚
 
 * [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/), Philip Walton, 09/2018 – :rocket:
 
@@ -608,7 +623,7 @@ This is a great free introduction into web performance. Ilya Grigorik from Googl
 
 ### Business
 
-* [From Milliseconds to Millions: A Look at the Numbers Driving Web Performance](https://www.youtube.com/watch?v=cXLOIIJ1UaE) ([Slides](https://speakerdeck.com/csswizardry/from-milliseconds-to-millions-a-look-at-the-numbers-powering-web-performance)), Harry Roberts, 11/2019 – :rocket:
+* [From Milliseconds to Millions: A Look at the Numbers Driving Web Performance](https://www.youtube.com/watch?v=cXLOIIJ1UaE) ([Slides](https://speakerdeck.com/csswizardry/from-milliseconds-to-millions-a-look-at-the-numbers-powering-web-performance)), Harry Roberts, 11/2019 – 🚀
 
 * [The 7 Habits of Highly Effective Performance Teams](https://www.youtube.com/watch?v=SE0HhF4TO0Q) ([Slides](https://www.slideshare.net/tammyeverts/the-7-habits-of-highly-effective-performance-teams-perfnow-2019)), Tammy Everts, 11/2019
 
@@ -697,7 +712,7 @@ Nice introduction to HTTP2
 
 ### Measure
 
-* [WebPageTest and Cloudflare Workers – A Performance Consultant’s Dream Combo?](https://www.youtube.com/watch?v=YSS0a0uaDvk), Andy Davies, 20/2020 – :rocket:
+* [WebPageTest and Cloudflare Workers – A Performance Consultant’s Dream Combo?](https://www.youtube.com/watch?v=YSS0a0uaDvk), Andy Davies, 20/2020 – 🚀
 
 * [How website speed can impact digital ad revenue](https://www.youtube.com/watch?v=EwlmYec3M-s) ([Slides](https://simonhearne.github.io/presentations/digital-revenue/#/)), Simon Hearne, 06/2019
 
@@ -885,13 +900,13 @@ Lighthouse is becoming the best audit tool for web performance. It has a great d
 A Node.js command line tool that crawls a domain and compiles a report with lighthouse performance data for every page.
 
 * [Yellow Lab Tools](https://yellowlab.tools)
-Online test to help speeding up heavy web pages: Frontend Quality, WebPerf, JS Profiling – :rocket:
+Online test to help speeding up heavy web pages: Frontend Quality, WebPerf, JS Profiling – 🚀
 
 * [WebPageTest](http://www.webpagetest.org/)
-Make synthetic measurements from all over the world. Make performance audits of any website. This tool is very powerful and gives you a lot of insights. I use it a lot to make a website comparison video. – :rocket:
+Make synthetic measurements from all over the world. Make performance audits of any website. This tool is very powerful and gives you a lot of insights. I use it a lot to make a website comparison video. – 🚀
 
 * [Waterfaller: generate tasks for developers that boost page speed](https://waterfaller.dev/)
-Waterfaller uses Google PageSpeed Insights to generate an actionable list of tasks to improve your Core Web Vitals metrics. It might be a good compliment to Lighthouse audit tips!
+Waterfaller uses Google PageSpeed Insights to generate an actionable list of tasks to improve your Core Web Vitals metrics. It might be a good compliment to Lighthouse audit tips! – 🚀
 
 * [WebPageTest comparison URL generator](https://wpt-compare.app/)
 Compare multiple webpagetest results which each other. Nice tool to see filmstrips site by site.
@@ -961,7 +976,7 @@ Nice list of 3rd party trackers with detailed information, for example about how
 Image compression
 
 * [Squoosh](https://squoosh.app)
-Upload an image and compare the original with different compressed version to find a good balance between filesize and image quality. 
+Upload an image and compare the original with different compressed version to find a good balance between filesize and image quality. – 🚀 
 
 * [Can I use?](https://caniuse.com/)
 Check the browser support for every web technology.
@@ -1017,7 +1032,7 @@ Your web font utility belt. It can subset web fonts. It can show you what unicod
 Tool to inspect local font files
 
 * [3rdParty.io](http://3rdparty.io/)
-3rdParty.io monitors third-party scripts and libraries, and checks that they’re following best practices for performance, reliability and security
+3rdParty.io monitors third-party scripts and libraries, and checks that they’re following best practices for performance, reliability and security – 🚀
 
 * [3rd Party Audit Google Sheet](https://docs.google.com/spreadsheets/d/1uTcRSoJAkXfIm2yfG5hvCSzvSZD9fAwXNQMVK3HdPMI/edit#gid=0)
 A Google Sheet provided by Harry Roberts which gives you a nice overview over your used 3rd Party Tools
@@ -1053,7 +1068,7 @@ Estimate the revenue impact of performance optimisations
 
 * [Google Page Speed Industry Benchmarks](https://www.thinkwithgoogle.com/marketing-resources/data-measurement/mobile-page-speed-new-industry-benchmarks/)
 
-* [Performance budget calculator](http://www.performancebudget.io/)
+* [Performance budget calculator](http://www.performancebudget.io/) - 🚀
 
 * [Gzip and Brotli Compression Level Estimator](https://tools.paulcalvano.com/compression.php)
 
@@ -1091,7 +1106,7 @@ These are professional tools which cost money. The cost are usually depends on t
 New Relic offers your great tools which give you insight in your whole app stack in real time. New Relic insights lets you also consume 3rd party APIs and correlate performance with business data. It also comes with great monitor solutions which alert you before things getting bad.
 
 * [Speedcurve](https://speedcurve.com/)
-Speedcurve is build on top of WebPageTest and makes running synthetic tests easy. You get nice looking dashboards which are great for running on a big display in your office. With Lux they also integrated a RUM solution.
+Speedcurve is build on top of WebPageTest and makes running synthetic tests easy. You get nice looking dashboards which are great for running on a big display in your office. With Lux they also integrated a RUM solution. - 🚀
 
 * [Akamai Web Performance Tools](https://www.akamai.com/uk/en/products/web-performance/)
 With mPulse you can understand how your performance and business data is correlation. With the “What if” tool you can predict the impact of performance changes on your business KPI. Works together with Chrome UX report data and shows RUM data of your competition (if the data is available).
@@ -1136,8 +1151,6 @@ Codebase of the Google Chrome Lighthouse tool.
 ## Studies
 
 Studies are important to understand how the different markets in the world are working. What are the most used devices? What is the average network connection?
-
-* [Cumulative Layout Shift Study of Over 1 Million Websites](https://www.seoclarity.net/blog/core-web-vitals-study), Mitul Gandhi, 02/2021
 
 * [Web Performance Optimisation Stats](https://wpostats.com)
 Web performance studies. Learn how web performance impacts business KPIs. A good source to convince people to invest money in web performance optimisations.
