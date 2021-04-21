@@ -78,6 +78,8 @@ This is not a Web Performance only Newsletter
 
 ## Core Web Vitals
 
+* [More time, tools, and details on the page experience update](https://developers.google.com/search/blog/2021/04/more-details-page-experience), Jeffrey Jose (Google), 04/2021
+
 * [The Almost-Complete Guide to Cumulative Layout Shift](https://jessbpeck.com/posts/completecls/), Jess B Pack, 04/2021
 
 * [An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/), Barry Pollard, 04/2021 – 🚀
@@ -105,6 +107,8 @@ This is not a Web Performance only Newsletter
 * [Defining the Core Web Vitals metrics thresholds](https://web.dev/defining-core-web-vitals-thresholds/), Bryan McQuade, 05/2020
 
 * [The Science Behind Web Vitals](https://blog.chromium.org/2020/05/the-science-behind-web-vitals.html), Amar Sagoo / Annie Sullivan / Vivek Sekhar, 05/2020
+
+* [Evaluating page experience for a better web](https://developers.google.com/search/blog/2020/05/evaluating-page-experience), Sowmya Subramanian (Google), 05/2020
 
 * [Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI) ([Slides](https://www.slideshare.net/AnnieSullivan9/monitoring-and-metrics-in-chrome-196438420)), Annie Sullivan, 11/2019 – 🎥
 
