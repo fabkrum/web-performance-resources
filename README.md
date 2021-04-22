@@ -569,6 +569,8 @@ This is all about how humans perceive performance and what we can do to help our
 
 * [Prototyping optimizations with Cloudflare Workers and WebPageTest](https://blog.cloudflare.com/workers-and-webpagetest/), Andrew Galloni, 08/2020
 
+* [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes/), Addy Osmani, 04/2020
+
 * [Cloudflare Workers](https://github.com/pmeenan/cf-workers), Pat Meenan
 Collection of Cloudflare Worker scripts, generally focused on performance optimizations
 
