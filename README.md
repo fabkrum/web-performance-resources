@@ -1012,8 +1012,11 @@ Collection of tools which can be used to inspect HAR files.
 * [httpstat.us](http://httpstat.us/)
 Service which responds which all kind of http error codes. With this service you can check how your app or website reacts when 3rd party services are responding with an error.
 
-* [Free CDN Performance Tool](https://www.uptrends.com/tools/cdn-performance-check)
+* [CDN Performance Tool](https://www.uptrends.com/tools/cdn-performance-check)
 Using one of your page’s CDN requests, enter the request URL above—perhaps try an image request. Uptrends sends the request and checks your CDN responses from multiple locations. Uptrends measures the response times, connection details, headers, response size, and more from each location. For best results, enable debug response headers in your CDN configuration.
+
+* [CDN Planet](https://www.cdnplanet.com/)
+Find the CDN which is right for you.
 
 * [https://httpstatus.io/](https://httpstatus.io/)
 Service which shows status codes, latency, response headers and more from the URL you submit. This is great to check for redirects and other network related issues. 
