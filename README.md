@@ -435,6 +435,8 @@ This is not a Web Performance only Newsletter
 
 ### Optimise the Critical Render Path
 
+* [The Critical Request: How to Prioritise Requests to Improve Speed](https://calibreapp.com/blog/critical-request), Ben Schwarz, 04/2021
+
 * [How to Improve CSS Performance](https://calibreapp.com/blog/css-performance), Milica Mihajlija, 03/2021
 
 * [The importance of `@font-face` source order when used with preload](https://nooshu.github.io/blog/2021/01/23/the-importance-of-font-face-source-order-when-used-with-preload/), Matt Hobbs, 01/2021
