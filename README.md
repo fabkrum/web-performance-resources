@@ -266,6 +266,8 @@ This is not a Web Performance only Newsletter
 
 * [A Comprehensive Guide To HTTP/2 Server Push](https://www.smashingmagazine.com/2017/04/guide-http2-server-push/), Jeremy Wagner, 04/2017
 
+* [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf), 03/2017, Addy Osmani
+
 * [A Link: rel=preload Analysis From the Chrome Data Saver Team](https://medium.com/reloading/a-link-rel-preload-analysis-from-the-chrome-data-saver-team-5edf54b08715), Simon Pelchat, 03/2017
 
 * [What is the preload directive?](https://www.keycdn.com/support/preload-directive/), 01/2017
