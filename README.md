@@ -123,7 +123,7 @@ This is not a Web Performance only Newsletter
 
 * [The Science Behind Web Vitals](https://blog.chromium.org/2020/05/the-science-behind-web-vitals.html), Amar Sagoo / Annie Sullivan / Vivek Sekhar, 05/2020
 
-* [Evaluating page experience for a better web](https://developers.google.com/search/blog/2020/05/evaluating-page-experience), Sowmya Subramanian (Google), 05/2020 – ℹ️ 
+* [Evaluating page experience for a better web](https://developers.google.com/search/blog/2020/05/evaluating-page-experience), Sowmya Subramanian (Google), 05/2020 – ℹ️
 
 * [Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI) ([Slides](https://www.slideshare.net/AnnieSullivan9/monitoring-and-metrics-in-chrome-196438420)), Annie Sullivan, 11/2019 – 🎥
 
@@ -140,7 +140,7 @@ This is not a Web Performance only Newsletter
 
 * [The Performance Inequality Gap, 2021](https://infrequently.org/2021/03/the-performance-inequality-gap/), Alex Russell, 03/2021
 
-* [Site Speed and Search Ranking (Complete Guide)](https://calibreapp.com/blog/site-speed-search-ranking-complete-guide), Ben Schwarz, 02/2021 
+* [Site Speed and Search Ranking (Complete Guide)](https://calibreapp.com/blog/site-speed-search-ranking-complete-guide), Ben Schwarz, 02/2021
 
 * [Finally – a way to calculate revenue impact of site speed](https://digies.se/site-speed/finally-a-way-to-calculate-revenue-impact-of-site-speed), Lina Hansson, 01/2021
 
@@ -164,7 +164,7 @@ This is not a Web Performance only Newsletter
 
 * [Web Page Usability Matters](https://dev.to/addyosmani/web-page-usability-matters-3aok), Addy Osmani, 01/2019
 
-* [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/), Vitaly Friedman, 01/2019 
+* [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/), Vitaly Friedman, 01/2019
 
 * [You need neither PWA nor AMP to make your website load fast](http://tonsky.me/blog/pwa/), Nikita, 11/2018
 
@@ -290,12 +290,12 @@ This is not a Web Performance only Newsletter
 
 * [How JPEG XL Compares to Other Image Codecs](https://cloudinary.com/blog/how_jpeg_xl_compares_to_other_image_codecs), Jon Sneyers, 05/2020
 
-* [AVIF for Next-Generation Image Coding](https://netflixtechblog.com/avif-for-next-generation-image-coding-b1d75675fe4), Netflix Technology Blog, 
+* [AVIF for Next-Generation Image Coding](https://netflixtechblog.com/avif-for-next-generation-image-coding-b1d75675fe4), Netflix Technology Blog,
  02/2020
- 
+
 * [In-Browser Performance Linting With Feature Policies](https://timkadlec.com/remembers/2020-02-20-in-browser-performance-linting-with-feature-policies/), Tim Kadlec, 02/2020
- 
-* [Visual acuity and device-pixel-ratio](https://observablehq.com/@eeeps/visual-acuity-and-device-pixel-ratio), Eric Portis, 03/2019  
+
+* [Visual acuity and device-pixel-ratio](https://observablehq.com/@eeeps/visual-acuity-and-device-pixel-ratio), Eric Portis, 03/2019
 
 * [Video Playback On The Web: The Current State Of Video](https://www.smashingmagazine.com/2018/10/video-playback-on-the-web-part-1/), Doug Sillars, 10/2018
 
@@ -449,7 +449,7 @@ This is not a Web Performance only Newsletter
 
 * [CSS audit](https://css-tricks.com/a-quick-css-audit-and-general-notes-about-design-systems/)
 
-* [Measuring the Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/measure-crp), Ilya Grigorik, 12/2018 
+* [Measuring the Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/measure-crp), Ilya Grigorik, 12/2018
 
 * [Inlining or Caching? Both Please!](https://www.filamentgroup.com/lab/inlining-cache.html), Scott Jehl, 11/2018
 
@@ -483,7 +483,7 @@ This is not a Web Performance only Newsletter
 
 * [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/), Una Kravets, Vladimir Levin, 08/2020
 
-* [The Cost of Javascript Frameworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/), Tim Kadlec, 04/2020 
+* [The Cost of Javascript Frameworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/), Tim Kadlec, 04/2020
 
 * [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/), Nolan Lawson, 02/2020
 
@@ -598,8 +598,8 @@ This course is great to start. You will learn how the browser works internally a
 ### Paid Video Courses
 
 * [Lightning-Fast Web Performance](https://scottjehl.com/lfwp/), Scott Jehl, 05/2020
-This course is great for Frontend Developers who are interested in web performance. 
-Scott introduces the most relevant web performance metrics and shows the most effective ways how to optimize them in great detail. The course contains also a lot of good references which can be used to dive deeper into the topic.  
+This course is great for Frontend Developers who are interested in web performance.
+Scott introduces the most relevant web performance metrics and shows the most effective ways how to optimize them in great detail. The course contains also a lot of good references which can be used to dive deeper into the topic.
 
 * Frontend Masters: [Web Performance](https://frontendmasters.com/courses/web-performance/), Steve Kinney, 03/2018 ($39 / monthly subscription)
 This is the go to course for Frontend Developers. This course is going really deep into Javascript Performance and Rendering Performance. I recommend this for more senior developers.
@@ -685,7 +685,7 @@ This is a great free introduction into web performance. Ilya Grigorik from Googl
 
 * [Cheating the UX when there is nothing more to optimize](https://vimeo.com/251825705) ([Slides](https://speakerdeck.com/stephaniewalter/cheating-the-ux-when-there-is-nothing-more-to-optimise)), Stephanie Walter, 01/2018
 
-* O’Reilly Safaribooksonline: [Perceived Performance: The Only Kind that Really Matters](https://www.safaribooksonline.com/library/view/perceived-performance-the/9781492029953/) ([Slides](http://assets.eli.wtf/talks/perceived-perf-talk/)), Eli Fitch, 11/2017 (34$ / monthly subscription) 
+* O’Reilly Safaribooksonline: [Perceived Performance: The Only Kind that Really Matters](https://www.safaribooksonline.com/library/view/perceived-performance-the/9781492029953/) ([Slides](http://assets.eli.wtf/talks/perceived-perf-talk/)), Eli Fitch, 11/2017 (34$ / monthly subscription)
 This is a really good talk about how humans perceive performance. Eli shares a lot of good tips and tricks how you can improve the perceived performance.
 
 * [Deconstructing Performance](https://vimeo.com/184659742), Denys Mishunov, 01/2016
@@ -898,6 +898,8 @@ Another classic book.
 
 ### Free tools and services
 
+* [Cumulative Layout Shift Debugger](https://webvitals.dev/cls): Visualise the Cumulative Layout Shift (CLS) to identify what needs improving on mobile and/or desktop in the initial load of a website.
+
 * [Pagespeed Compare](https://pagespeed.compare/)
 Compare performance metrics of your pages against each other or your competitors using Google PageSpeed Insights.
 
@@ -984,7 +986,7 @@ Nice list of 3rd party trackers with detailed information, for example about how
 Image compression
 
 * [Squoosh](https://squoosh.app)
-Upload an image and compare the original with different compressed version to find a good balance between filesize and image quality. – 🚀 
+Upload an image and compare the original with different compressed version to find a good balance between filesize and image quality. – 🚀
 
 * [Can I use?](https://caniuse.com/)
 Check the browser support for every web technology.
@@ -1023,7 +1025,7 @@ Using one of your page’s CDN requests, enter the request URL above—perhaps t
 Find the CDN which is right for you.
 
 * [https://httpstatus.io/](https://httpstatus.io/)
-Service which shows status codes, latency, response headers and more from the URL you submit. This is great to check for redirects and other network related issues. 
+Service which shows status codes, latency, response headers and more from the URL you submit. This is great to check for redirects and other network related issues.
 
 * [DNS Perf](https://www.dnsperf.com/dns-speed-benchmark/)
 DNS Speed Benchmark: Test the performance of your DNS provider from all over the world using this benchmark tool
