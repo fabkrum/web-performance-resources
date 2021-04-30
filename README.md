@@ -405,6 +405,8 @@ This is not a Web Performance only Newsletter
 
 ### Third-Party Services
 
+* [Keeping third-party scripts under control](https://web.dev/controlling-third-party-scripts/), Chris Anstey & Antoine Bisch, 04/2021
+
 * [Best practices for cookie notices](https://web.dev/cookie-notice-best-practices/), Katie Hempenius, 04/2021
 
 * [Bypassing Cookie Consent Banners in Lighthouse and WebPageTest](https://andydavies.me/blog/2021/03/25/bypassing-cookie-consent-banners-in-lighthouse-and-webpagetest/), Andy Davies, 03/2021 – 🚀
