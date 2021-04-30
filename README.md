@@ -760,6 +760,10 @@ Nice introduction to HTTP2
 
 ### Tooling
 
+* [Extending WebPageTest with Custom Metrics](https://blog.webpagetest.org/posts/extending-webpagetest-with-custom-metrics/), Tim Kadlec, 04/2021
+
+* [WebPageTest: Custom Metric Examples](https://docs.webpagetest.org/custom-metrics/examples/), WebPageTest
+
 * [Speed tooling evolutions: 2019 and beyond](https://www.youtube.com/watch?v=iaWLXf1FgI0), Elizabeth Sweeny & Paul Irish, 11/2019
 
 * [Demystifying Speed Tooling (Google I/O ’19)](https://www.youtube.com/watch?v=mLjxXPHuIJo), Elizabeth Sweeny & Paul Irish & Amir Rachum, 05/2019
