@@ -226,7 +226,7 @@ This is not a Web Performance only Newsletter
 
 * [Who Opts-in to Save-data?](https://simonhearne.com/2020/save-data/), Simon Hearne, 10/2020
 
-* [Improve performance by using a content delivery network](https://web.dev/content-delivery-networks/), Katie Hempenius, 09/2020
+* [Improve performance by using a content delivery network](https://web.dev/content-delivery-networks/), Katie Hempenius, 09/2020 - 🚀
 
 * [Measuring and examining TLS 1.3, IPv4, and IPv6 performance](https://nooshu.github.io/blog/2020/07/30/measuring-tls-13-ipv4-ipv6-performance/), Matt Hobbs, 07/2020
 
@@ -287,6 +287,8 @@ This is not a Web Performance only Newsletter
 * [How DNS works](https://howdns.works/) (Comic)
 
 ### Image and Video Optimization
+
+* [The Humble <img> Element And Core Web Vitals](https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/), Addy Osmani, 04/4021 - 🚀
 
 * [Time for Next-Gen Codecs to Dethrone JPEG](https://cloudinary.com/blog/time_for_next_gen_codecs_to_dethrone_jpeg), Jon Sneyers, 02/2020
 
@@ -876,6 +878,8 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 ## Books
 
 This are the books I read about web performance and I can highly recommend all of them:
+
+* [Image Optimization](https://www.smashingmagazine.com/printed-books/image-optimization/), Addy Osmani, Smashing Magazin Book, 04/2021
 
 * [Going Offline](https://abookapart.com/products/going-offline), Jeremy Keith, A Book Apart, 04/2018
 
