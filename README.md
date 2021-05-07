@@ -579,6 +579,8 @@ This is all about how humans perceive performance and what we can do to help our
 
 ### Tooling Articles
 
+* [WebPageTest API](https://css-tricks.com/webpagetest-api/), Chris Coyier, 05/2021
+
 * [Profiling site speed with the Chrome DevTools Performance tab](https://www.debugbear.com/blog/devtools-performance), DebugBear, 04/2021
 
 * [Exploring Site Speed Optimisations With WebPageTest and Cloudflare Workers](https://andydavies.me/blog/2020/09/22/exploring-site-speed-optimisations-with-webpagetest-and-cloudflare-workers/), Andy Davies, 09/2020
