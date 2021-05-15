@@ -40,9 +40,9 @@
         + [Webpagetest](#webpagetest)
         + [Lighthouse & CrUX & Core Web Vitals](#lighthouse--crux--core-web-vitals)
         + [Images](#images)
-        + [Thirdpary](#thirdparty)
-        + [Development](#development)
-        + [Network](#network)
+        + [Thirdparty](#thirdparty)
+        + [Development Tools](#development-tools)
+        + [Network Tools](#network-tools)
         + [Fonts](#fonts)
         + [Other Tools](#other-tools)
     + [Paid tools and services](#paid-tools-and-services)
@@ -1013,6 +1013,7 @@ Easily generate the optimal responsive image dimensions
 * [ImageOptim](https://imageoptim.com/)
 Image compression
 
+
 #### Thirdparty
 
 * [3P web](https://www.thirdpartyweb.today/), Shows the impact of Third-Party Tools based on HTTP Archive data.
@@ -1049,7 +1050,7 @@ Find similar pages for a competitor benchmark.
 Understand the technical building blocks of a website.
 
 
-#### Development
+#### Development Tools
 
 * [Chrome Developer Tools](https://developer.chrome.com/devtools)
 This is the go to tool for all web developers. Understand how your code gets loaded, parsed and rendered. – 🚀
@@ -1096,7 +1097,7 @@ Browserscope is a community-driven project for profiling web browsers. The goals
 * [CSS stats](https://cssstats.com/)
 
 
-#### Network
+#### Network Tools
 
 * [https://httpstatus.io/](https://httpstatus.io/)
 Service which shows status codes, latency, response headers and more from the URL you submit. This is great to check for redirects and other network related issues. 
@@ -1146,7 +1147,7 @@ Your web font utility belt. It can subset web fonts. It can show you what unicod
 Tool to inspect local font files
 
 
-#### Other tools
+#### Other Tools
 
 * [Web Performance Heat Map Generator](http://heatmap.webperf.tools/)
 
