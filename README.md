@@ -12,6 +12,7 @@
     + [General](#general)
     + [Network and Caching](#network-and-caching)
     + [Image and Video Optimization](#image-and-video-optimization)
+    + [Web Fonts](#web-fonts)
     + [Measure Performance](#measure-performance)
     + [Third-Party Services](#third-party-services)
     + [Optimise the Critical Render Path](#optimise-the-critical-render-path)
@@ -257,8 +258,6 @@ This is not a Web Performance only Newsletter
 
 * [TTFB optimization: a guide to enhanced performance](https://www.netcentric.biz/insights/2019/03/ttfb.html), Stephan Becker, 03/2019
 
-* [Preloading Fonts and the Puzzle of Priorities](https://andydavies.me/blog/2019/02/12/preloading-fonts-and-the-puzzle-of-priorities/), Andy Davies, 02/2019
-
 * [QUIC and HTTP/3 : Too big to fail?!](https://calendar.perfplanet.com/2018/quic-and-http-3-too-big-to-fail/), Robin Marx, 12/2018
 
 * [All about prefetching](https://calendar.perfplanet.com/2018/all-about-prefetching/), Katie Hempenius, 12/2018
@@ -339,6 +338,18 @@ This is not a Web Performance only Newsletter
 * [How Medium does progressive image loading](https://jmperezperez.com/medium-image-progressive-loading-placeholder/), José M. Pérez, 10/2015
 
 * [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/), Jason Grigsby, 03/2015
+
+### Web Fonts
+* [5 steps to faster web fonts](https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/), Iain Bean, 05/2021
+
+* [The importance of `@font-face` source order when used with preload](https://nooshu.github.io/blog/2021/01/23/the-importance-of-font-face-source-order-when-used-with-preload/), Matt Hobbs, 01/2021
+
+* [How to avoid layout shifts caused by web fonts](https://simonhearne.com/2021/layout-shifts-webfonts/), Simon Hearne, 01/2021
+
+* [Preloading Fonts and the Puzzle of Priorities](https://andydavies.me/blog/2019/02/12/preloading-fonts-and-the-puzzle-of-priorities/), Andy Davies, 02/2019
+
+* [The font loading checklist](https://www.zachleat.com/web/font-checklist/), Zach Leatherman, 08/2018
+
 
 ### Measure Performance
 
@@ -464,10 +475,6 @@ This is not a Web Performance only Newsletter
 
 * [How to Improve CSS Performance](https://calibreapp.com/blog/css-performance), Milica Mihajlija, 03/2021
 
-* [The importance of `@font-face` source order when used with preload](https://nooshu.github.io/blog/2021/01/23/the-importance-of-font-face-source-order-when-used-with-preload/), Matt Hobbs, 01/2021
-
-* [How to avoid layout shifts caused by web fonts](https://simonhearne.com/2021/layout-shifts-webfonts/), Simon Hearne, 01/2021
-
 * [The Simplest Way to Load CSS Asynchronously](https://www.filamentgroup.com/lab/load-css-simpler/), Scott Jehl, 07/2019 – 🚀
 
 * [CSS audit](https://css-tricks.com/a-quick-css-audit-and-general-notes-about-design-systems/)
@@ -477,8 +484,6 @@ This is not a Web Performance only Newsletter
 * [Inlining or Caching? Both Please!](https://www.filamentgroup.com/lab/inlining-cache.html), Scott Jehl, 11/2018
 
 * [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance/), Harry Roberts, 11/2018
-
-* [The font loading checklist](https://www.zachleat.com/web/font-checklist/), Zach Leatherman, 08/2018
 
 * [Analyzing Critical Rendering Path Performance](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/analyzing-crp), Ilya Grigorik, 08/2018
 
@@ -1145,6 +1150,14 @@ Your web font utility belt. It can subset web fonts. It can show you what unicod
 
 * [Wakamaifondue](https://wakamaifondue.com)
 Tool to inspect local font files
+
+* [Online Font Converter](https://onlinefontconverter.com/)
+A good tool to create woff2 fonts
+
+* [Font Subsetter](https://everythingfonts.com/subsetter)
+
+* [Google Web Fonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
+A Hassle-Free Way to Self-Host Google Fonts by Mario Ranftl
 
 
 #### Other Tools
