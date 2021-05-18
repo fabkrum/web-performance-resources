@@ -115,6 +115,8 @@ This is not a Web Performance only Newsletter
 
 * [Debug Web Vitals in the field](https://web.dev/debug-web-vitals-in-the-field/), Philip Walton, 04/2021
 
+* [Cookie Banners and Web Vitals](https://blr.design/blog/cookie-banner-web-vitals/), Brian Louis Ramirez, 03/2021
+
 * [How to create a competitive analysis dashboard for Core Web Vitals using Google Data Studio](https://www.deepcrawl.com/blog/best-practice/competitive-analysis-core-web-vitals-google-data-studio/), Rachel Anderson, 03/2021
 
 * [Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo/), Simon Hearne, 02/2021
@@ -596,6 +598,8 @@ This is all about how humans perceive performance and what we can do to help our
 * [Taking A Look At The State Of Progressive Images And User Perception](https://www.smashingmagazine.com/2018/02/progressive-image-loading-user-perceived-performance/), José Manuel Pérez, 02/2018
 
 ### Tooling Articles
+
+* [Using Chrome Local Overrides To Optimize Page Speed](https://blr.design/blog/local-overrides/), Brian Louis Ramirez, 05/2021
 
 * [WebPageTest API](https://css-tricks.com/webpagetest-api/), Chris Coyier, 05/2021
 
@@ -1260,6 +1264,8 @@ Learn what influence PWA have on business metrics.
 
 ## Case studies
 
+* [How We Improved Our Core Web Vitals (Case Study)](https://www.smashingmagazine.com/2021/05/core-web-vitals-case-study/), 05/2021
+
 * [Making Cybertruck Faster](https://tryblackbird.com/blog/cybertruck), 04/2021
 
 * [How has the fastest F1 website in 2021?](https://jakearchibald.com/2021/f1-perf-part-1/), Jake Archibald, 03/2021
@@ -1300,6 +1306,8 @@ Learn what influence PWA have on business metrics.
 
 
 ## Open data sources
+
+* [What do Lighthouse Scores look like across the web?](https://www.tunetheweb.com/blog/what-do-lighthouse-scores-look-like-across-the-web/), Barry Pollard, 04/2021
 
 * [Web Almanac 2020 - HTTP Archive's annual
 state of the web report](https://almanac.httparchive.org/en/2020/), 12/2020
