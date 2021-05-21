@@ -99,6 +99,10 @@ This is not a Web Performance only Newsletter
 
 ## Core Web Vitals
 
+* [The business impact of Core Web Vitals](http://youtube.com/watch?v=nPmAE0YjGK0), Google I/O, 05/2021
+
+* [Ask Me Anything - Core Web Vitals](https://www.youtube.com/watch?v=HWm6WNkHs90&t=615s), Google I/O 2021, 05/2021
+
 * [Optimizing Web Vitals using Lighthouse](https://web.dev/optimize-vitals-lighthouse/), Addy Osmani, 05/2021
 
 * [Cumulative Layout Shift: Measure and Avoid Visual Instability](https://calibreapp.com/blog/cumulative-layout-shift), Karolina Szczur, 05/2021
