@@ -99,7 +99,7 @@ This is not a Web Performance only Newsletter
 
 ## Core Web Vitals
 
-* [What's new in Web Vitals](https://www.youtube.com/watch?v=XxvHY4wC8Co), Google I/O, 05/2021
+* [What's new in Web Vitals](https://www.youtube.com/watch?v=XxvHY4wC8Co), Google I/O, 05/2021 - ℹ️
 
 * [The business impact of Core Web Vitals](http://youtube.com/watch?v=nPmAE0YjGK0), Google I/O, 05/2021
 
