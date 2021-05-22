@@ -511,6 +511,8 @@ This is not a Web Performance only Newsletter
 
 ### Javascript and Render Performance
 
+* [Building a Faster Web Experience with the postTask Scheduler](https://medium.com/airbnb-engineering/building-a-faster-web-experience-with-the-posttask-scheduler-276b83454e91), Callie (Airbnb Engineering & Data Science), 05/2021 – 🚀
+
 * [JavaScript performance beyond bundle size](https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size/), Nolan Lawson, 02/2021
 
 * [The Import On Interaction Pattern](https://addyosmani.com/blog/import-on-interaction/), Addy Osmani, 12/2020 – 🚀
