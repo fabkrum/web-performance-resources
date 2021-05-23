@@ -8,7 +8,7 @@ If you don’t have time to watch the 30 minutes Google I/O Web Vital Q&A sessio
 ## Summary
 * The biggest news: The ranking boost is granular. You don’t have to reach the “good” threshold for all Core Web Vital metrics to benefit.
 * Once you reach the good threshold, you don’t get any further ranking benefits from micro-optimizations.
-* Depending on the CrUX data available, Google will calculate the search ranking boost in this order: Page (if you wonder which of your pages are in the CrUX data set you will like my next post), Page group (Google Search Console), Site/Origin (Page Speed Insights). It is recommended to optimize your pages with the highest traffic first–check your analytics.
+* Depending on the CrUX data available, Google will calculate the search ranking boost in this order: Page (CrUX), Page group (Google Search Console), Site/Origin (Page Speed Insights). It is recommended to optimize your pages with the highest traffic first–check your analytics.
 * The search ranking factor is the same in all countries and based on your global Core Web Vitals score. If more than 25% of your users come from different countries, you should consider using a CDN.
 * The Core Web Vitals (CWV) are based on CrUX data. The CrUX data is collected by Chrome users who agreed to share anonymized data with Google. The data is 100% based on real user experiences.
 * The Core Web Vitals will impact the mobile search ranking starting this summer (June-August 2021). The desktop search will follow in the future — they didn’t communicate a date yet.
