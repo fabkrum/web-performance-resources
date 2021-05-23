@@ -16,6 +16,10 @@ If you don’t have time to watch the 30 minutes Google I/O Web Vital Q&A sessio
 
 ## Most relevant covered questions with time code
 
+## Watch full session
+Google I/O Ask Me Anything Web Vitals — May 19, 2021, with Philip Walton, Elizabeth Sweeny, John Mueller, and Annie Sullivan:
+https://youtu.be/HWm6WNkHs90
+
 ### How does Google determine a page’s Core Web Vitals Score?
 https://youtu.be/HWm6WNkHs90
 
@@ -87,9 +91,6 @@ https://youtu.be/HWm6WNkHs90?t=1553 (25:53)
 * With the Page Experience Signal, you don’t have to reach the “good” threshold for all three metrics to get a boost in rankings.
 * Once you reached the good threshold for a metric, micro-optimizing (LCP 2 seconds down to 1 second) won’t benefit your rankings but might help your users.
 
-## Watch full session
-Google I/O Ask Me Anything Web Vitals — May 19, 2021, with Philip Walton, Elizabeth Sweeny, John Mueller, and Annie Sullivan:
-https://www.youtube.com/watch?v=HWm6WNkHs90
 
 ## Thanks for your feedback
 * Barry Pollard (@tunetheweb)
