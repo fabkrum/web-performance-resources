@@ -17,13 +17,13 @@ To be able to access the CrUX data you need your own API key:
 Click on the "Get a Key" button
 ![CleanShot 2021-05-23 at 19 01 38](https://user-images.githubusercontent.com/21277749/119269781-bef65e80-bbf9-11eb-9d8d-1ef6b43d2fb4.png)
 
-Create a new projet:
+Create a new projet
 ![CleanShot 2021-05-23 at 19 02 17](https://user-images.githubusercontent.com/21277749/119269829-f95ffb80-bbf9-11eb-947c-1a9bec214d11.png)
 
-Name your project:
+Name your project
 ![CleanShot 2021-05-23 at 19 02 33](https://user-images.githubusercontent.com/21277749/119269860-1c8aab00-bbfa-11eb-92b9-1685da0676d6.png)
 
-Copy your API Key:
+Copy your API Key
 ![CleanShot 2021-05-23 at 19 02 55](https://user-images.githubusercontent.com/21277749/119269939-7e4b1500-bbfa-11eb-83a0-f8cf5272fd8a.png)
 
 
