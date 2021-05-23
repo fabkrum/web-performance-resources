@@ -1,7 +1,7 @@
 # Three big takeaways from the Google I/O Web Vitals Q&A
 If you don’t have time to watch the 30 minutes Google I/O Web Vital Q&A session here, you find a quick overview of the most relevant news.
 
-## The most important insight at one glance
+## The most important insight at a glance
 
 ![image](https://user-images.githubusercontent.com/21277749/119262133-724f5b00-bbda-11eb-978b-cdec2d54bae6.png)
 
