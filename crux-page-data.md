@@ -118,9 +118,19 @@ Then paste the URL list (⌘ + V).
 Feel free to delete or add additional URLs.
 Just be careful to not introduce any format errors: `'https://www.domain.com/page',` (the last entry must have no comma)
 
-#### Add the
 
-#### Configure the form factors
+#### Add Origins (optional)
+
+```
+const ORIGINS = [
+  'https://www.netcentric.biz/'
+];
+```
+
+#### Configure the form factors (optional)
+
+For each form factor the whole URL and ORIGINS list will be looped.
+To fasten the process you can for example only check the phone data.
 
 ```
 const FORM_FACTORS = [
@@ -130,24 +140,27 @@ const FORM_FACTORS = [
 ];
 ```
 
-
-
-
-
-## Change configuration (optional)
-
-
 ## Run the script
 
 Warning: Depending on your configuration and the number of pages your site has this can take some time (250ms per URL).
 
-In the script log you see 
+* In the script log you see can follow what the script is doing
+* Most likely most of you pages (95%) will throw an error. This means there are not in the CrUX database and Google has not enough data to calulate a page Core Web Vital. Google will take a Page Group or the Origin Core Web Vitals instead.
+* Pages with enough data will be added to Google Sheet.
 
-Most likely most of you pages (95%) will throw an error. This means there are not in the CrUX database and Google has not enough data to calulate a page Core Web Vital. Google will take a Page Group or the Origin Core Web Vitals instead.
+![CleanShot 2021-05-23 at 20 47 09](https://user-images.githubusercontent.com/21277749/119272998-2a93f800-bc09-11eb-801b-b17e694db122.png)
 
-Pages with enough data will be added to Google Sheet.
-With the
+Once the script is done you see the message "Execution completed" in the execution log.
 
+![CleanShot 2021-05-23 at 21 03 10](https://user-images.githubusercontent.com/21277749/119273278-69767d80-bc0a-11eb-8a18-eea05e16a2a0.png)
+
+
+## Check the Google Sheet
+
+![image](https://user-images.githubusercontent.com/21277749/119274219-1e129e00-bc0f-11eb-9795-cdee1a45d7c7.png)
+
+* The first row of each device is the origin (aggregates all pages of the page)
+* The second row represents the home page
 
 ### Color legend
 
