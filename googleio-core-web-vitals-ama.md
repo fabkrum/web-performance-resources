@@ -16,59 +16,51 @@ If you don’t have time to watch the 30 minutes Google I/O Web Vital Q&A sessio
 
 ## Most relevant covered questions with time code
 
-## Watch full session
+## [Watch full session](https://youtu.be/HWm6WNkHs90)
 Google I/O Ask Me Anything Web Vitals — May 19, 2021, with Philip Walton, Elizabeth Sweeny, John Mueller, and Annie Sullivan:
-https://youtu.be/HWm6WNkHs90
 
-### How does Google determine a page’s Core Web Vitals Score?
-https://youtu.be/HWm6WNkHs90
+### [How does Google determine a page’s Core Web Vitals Score?](https://youtu.be/HWm6WNkHs90)
 
 * Real User Data coming from Chrome users who opted in to share user statistic
 * 75 percentile is calculated for each of the metrics: Largest Contentful Paint (LCP), Cumulative Layout Shift (CLS), and First Input Delay (FID)
 
-### Why am I seeing different scores reported in different tools such as Lighthouse and the Chrome User Experience Report
-https://youtu.be/HWm6WNkHs90?t=127 (2:05)
+### [Why am I seeing different scores reported in different tools such as Lighthouse and the Chrome User Experience Report (2:05)](https://youtu.be/HWm6WNkHs90?t=127)
 
 * Two Data Sources: Field Data (CrUX), Simulated/Lab Load Data (LHS)
 * Different Runtime conditions of tools: LHS in Chrome Dev Tools local machine vs. Page Speed Insight: Server calls
 
-### Is inclusion in CrUX based purely on having enough data collected for a URL for a statistically relevant sample size? Are there other cappings to x amount of URLs or origins? If the sample size is the primary concern, is there a good ‘rule of thumb’ to be aware of if collecting your own RUM
-https://youtu.be/HWm6WNkHs90?t=415 (6:55)
+### [Is inclusion in CrUX based purely on having enough data collected for a URL for a statistically relevant sample size? Are there other cappings to x amount of URLs or origins? If the sample size is the primary concern, is there a good ‘rule of thumb’ to be aware of if collecting your own RUM ((6:55))](https://youtu.be/HWm6WNkHs90?t=415)
+ 
 
 * Don’t sample your RUM data. Get as many as possible.
 * The CrUX data has to reach a threshold to be anonymous.
 * There is no capping of data done by Google.
 
-### Will desktop CWV be part of the initial Page Experience Update or added in later?
-https://youtu.be/HWm6WNkHs90?t=664 (11:04)
+### [Will desktop CWV be part of the initial Page Experience Update or added in later? (11:04)](https://youtu.be/HWm6WNkHs90?t=664)
 
 * Not in the initial rollout during the summer
 * But it is planned for later
 
-### The field data in Lighthouse/Page Speed Insights being a 28-day aggregate makes it impossible to take action on the data and be sure the action truly was resolved. Are there any plans to either shorten the window or perhaps plot the data on a graph so we can see change over time?
-https://youtu.be/HWm6WNkHs90?t=707 (11:47)
+### [The field data in Lighthouse/Page Speed Insights being a 28-day aggregate makes it impossible to take action on the data and be sure the action truly was resolved. Are there any plans to either shorten the window or perhaps plot the data on a graph so we can see change over time? (11:47)](https://youtu.be/HWm6WNkHs90?t=707)
 
 * Google recommends using your own RUM Analytics Solution to monitor Core Web Vitals.
 * Have a parameter that shows the current release number to be able to segment the data to be able to compare before & after
 * Search Console offers a graph which shows the history
 
-### When did the five-second cap for Cumulative Layout Shift (CLS) go into production? Should site owners expect a shift in data around that data?
-https://youtu.be/HWm6WNkHs90?t=935 (15:35)
-
+### [When did the five-second cap for Cumulative Layout Shift (CLS) go into production? Should site owners expect a shift in data around that data? (15:35)](https://youtu.be/HWm6WNkHs90?t=935)
+ 
 * It is not in production yet
 * Google will update its tools before it becomes a ranking factor.
 * Every ranking effect will be on the newer definition of CLS
 * Nobody will see a worse CLS because of this change
 
-### Is the page experience boost per country? Example: LCP p75 is 2 from visitors within the UK but 4s from Australia, making my global p75 2.6s (so average). Will searches from within the UK get the ranking boost (because of good LCP)?
-https://youtu.be/HWm6WNkHs90?t=1029 (17:09)
+### [Is the page experience boost per country? Example: LCP p75 is 2 from visitors within the UK but 4s from Australia, making my global p75 2.6s (so average). Will searches from within the UK get the ranking boost (because of good LCP)? (17:09)](https://youtu.be/HWm6WNkHs90?t=1029)
 
 * The data from all users over the globe is collected to calculate the score.
 * Google doesn’t see dramatic changes on a country level
 * If you have a global user base, make sure to use a CDN
 
-### In the context of the Page Experience Update, does CWV use only data for the specific page or a combination of page and original-level data?
-https://youtu.be/HWm6WNkHs90?t=1178 (19:38)
+### [In the context of the Page Experience Update, does CWV use only data for the specific page or a combination of page and original-level data? (19:38)](https://youtu.be/HWm6WNkHs90?t=1178)
 
 * It depends on the availability of data.
 * If there is enough data, the score will be calculated on the page level.
@@ -76,15 +68,13 @@ https://youtu.be/HWm6WNkHs90?t=1178 (19:38)
 * If the single page doesn’t have enough data, the group score determines the search ranking.
 * If this data is also unavailable, the data is calculated for the whole origin (all page aggregated). A lot of the tools use this number.
 
-### What is the most common detriment to sites’ core web vitals that also has the most significant effect if fixed (how should we prioritize our work)?
-https://youtu.be/HWm6WNkHs90?t=1366 (22:46)
+### [What is the most common detriment to sites’ core web vitals that also has the most significant effect if fixed (how should we prioritize our work)? (22:46)](https://youtu.be/HWm6WNkHs90?t=1366)
 
 * Check your RUM data which metrics are poor, and start optimizing these pages.
 * Use Lighthouse data to (You can now filter tips on metric level) understand how to fix the CWV.
 * LCP is the metric that most sites struggle with — often due to image issues.
 
-### Is Page Experience a binary ranking factor? Only a “good experience” page can get a ranking boost, or is there a gradation in how Page Experience signals affect rankings? One kinda-slow page might get a boost over an even-slower page.
-https://youtu.be/HWm6WNkHs90?t=1553 (25:53)
+### [Is Page Experience a binary ranking factor? Only a “good experience” page can get a ranking boost, or is there a gradation in how Page Experience signals affect rankings? One kinda-slow page might get a boost over an even-slower page. (25:53)](https://youtu.be/HWm6WNkHs90?t=1553)
 
 * Relevance plays the most significant role.
 * The boost is not a binary signal. If you improve your LCP from 20 seconds to 10 seconds, that could potentially boost your ranking.
@@ -93,6 +83,6 @@ https://youtu.be/HWm6WNkHs90?t=1553 (25:53)
 
 
 ## Thanks for your feedback
-* Barry Pollard (@tunetheweb)
-* Tim Vereecke (@TimVereecke)
-* Dan Shappir (@DanShappir)
+* [Barry Pollard (@tunetheweb)](https://twitter.com/tunetheweb)
+* [Tim Vereecke (@TimVereecke)](https://twitter.com/TimVereecke)
+* [Dan Shappir (@DanShappir)](https://twitter.com/DanShappir)
