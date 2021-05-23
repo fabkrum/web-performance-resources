@@ -17,7 +17,7 @@ If you don’t have time to watch the 30 minutes Google I/O Web Vital Q&A sessio
 ## Most relevant covered questions with time code
 
 ## [Watch full session](https://youtu.be/HWm6WNkHs90)
-Google I/O Ask Me Anything Web Vitals — May 19, 2021, with Philip Walton, Elizabeth Sweeny, John Mueller, and Annie Sullivan:
+Google I/O Ask Me Anything Web Vitals — May 19, 2021, with Philip Walton, Elizabeth Sweeny, John Mueller, and Annie Sullivan.
 
 ### [How does Google determine a page’s Core Web Vitals Score?](https://youtu.be/HWm6WNkHs90)
 
