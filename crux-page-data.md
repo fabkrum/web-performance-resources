@@ -1,4 +1,4 @@
-# Get CrUX data for a page step by step
+# How to get the CrUX data for your origin and all pages
 
 ## Problem to solve
 
@@ -84,13 +84,54 @@ For most pages a manual approach would take for ever. Therefore we automate it.
 
 #### Copy & Paste the following script in your console and hit enter
 
-```
+The script copies the URL list automatically into your clipboard - so you don't have to copy them.
+
+Script:
 
 ```
+var output = '';
+var urls = document.getElementsByTagName('url');
+    
+for (var i = 0; i < urls.length; i++) {
+  var urlElement = urls[i];
+  var loc = urlElement.getElementsByTagName('loc')[0].textContent;
 
-## Add URLs to the script
+  output += `'${loc}',\n`;
+}
 
-### Paste the URLs in the 
+output = output.replace(/,\n\s*$/, "");
+
+console.log(output);
+
+copy(output);
+```
+
+![CleanShot 2021-05-23 at 20 02 09](https://user-images.githubusercontent.com/21277749/119271624-9aeb4b00-bc02-11eb-9324-e888261b3b02.png)
+
+## Add the URLs to the script, save the script, and switch back to the new editor
+
+Go back to the Google Sheet script and position your cursor between the brackets `const URLs = [|]`.
+Then paste the URL list (⌘ + V).
+
+![CleanShot 2021-05-23 at 20 25 01](https://user-images.githubusercontent.com/21277749/119272481-64afca80-bc06-11eb-80d5-11594f63d4b0.png)
+
+Feel free to delete or add additional URLs.
+Just be careful to not introduce any format errors: `'https://www.domain.com/page',` (the last entry must have no comma)
+
+#### Add the
+
+#### Configure the form factors
+
+```
+const FORM_FACTORS = [
+  'DESKTOP',
+  'PHONE',
+  'ALL_FORM_FACTORS'
+];
+```
+
+
+
 
 
 ## Change configuration (optional)
@@ -98,7 +139,7 @@ For most pages a manual approach would take for ever. Therefore we automate it.
 
 ## Run the script
 
-Depending on your configuration and the number of pages your site have this can take some time.
+Warning: Depending on your configuration and the number of pages your site has this can take some time (250ms per URL).
 
 In the script log you see 
 
@@ -132,8 +173,6 @@ With the
 
 Blue: Biggest segment for the metric
 
-
 ## Thanks to
-* Rick Visconi for the original script and his great work on the CrUX data
-* Barry Polland for his improvements and supporting me when I got stuck
-
+* [Rick Viscomi](https://twitter.com/rick_viscomi) for the original script
+* [Barry Pollard](https://twitter.com/tunetheweb) for helping me to figure this all out
