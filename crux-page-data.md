@@ -21,7 +21,7 @@ Google is calculating the Core Web Vitals search ranking boost based on CrUX Dat
 
 ### Create a new projet
 
-![CleanShot 2021-05-23 at 19 02 17](https://user-images.githubusercontent.com/21277749/119269829-f95ffb80-bbf9-11eb-947c-1a9bec214d11.png)
+![CleanShot 2021-05-23 at 19 02 17](https://user-images.githubusercontent.com/21277749/119272572-d5ef7d80-bc06-11eb-8439-4247e41127dd.png)
 
 ### Name your project
 
