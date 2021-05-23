@@ -29,7 +29,7 @@ Google I/O Ask Me Anything Web Vitals — May 19, 2021, with Philip Walton, Eliz
 * Two Data Sources: Field Data (CrUX), Simulated/Lab Load Data (LHS)
 * Different Runtime conditions of tools: LHS in Chrome Dev Tools local machine vs. Page Speed Insight: Server calls
 
-### [Is inclusion in CrUX based purely on having enough data collected for a URL for a statistically relevant sample size? Are there other cappings to x amount of URLs or origins? If the sample size is the primary concern, is there a good ‘rule of thumb’ to be aware of if collecting your own RUM ((6:55))](https://youtu.be/HWm6WNkHs90?t=415)
+### [Is inclusion in CrUX based purely on having enough data collected for a URL for a statistically relevant sample size? Are there other cappings to x amount of URLs or origins? If the sample size is the primary concern, is there a good ‘rule of thumb’ to be aware of if collecting your own RUM (6:55)](https://youtu.be/HWm6WNkHs90?t=415)
  
 
 * Don’t sample your RUM data. Get as many as possible.
