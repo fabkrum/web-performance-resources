@@ -119,13 +119,16 @@ Feel free to delete or add additional URLs.
 Just be careful to not introduce any format errors: `'https://www.domain.com/page',` (the last entry must have no comma)
 
 
-#### Add Origins (optional)
+#### Add the Origins (optional)
+
+Tip: Add the origins whithout the trailing slash to not confuse them with the home page.
 
 ```
 const ORIGINS = [
-  'https://www.netcentric.biz/'
+  'https://www.netcentric.biz'
 ];
 ```
+
 
 #### Configure the form factors (optional)
 
