@@ -9,7 +9,7 @@ Google is calculating the Core Web Vitals search ranking boost based on CrUX Dat
 3. If the page group has not enough data Google aggregates the data for whole site (see [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/))
 
 
-## Generate a free CruX API Key
+## Generate your free CruX API Key
 
 ### Open the website
 
@@ -36,9 +36,9 @@ Google is calculating the Core Web Vitals search ranking boost based on CrUX Dat
 
 ### Open the Google Sheet Template
 
-[Google Sheet Template](https://docs.google.com/spreadsheets/d/12ufFf92pErPu5jy_vQmLLCkqjse7Sj894Radw6CTxcw/edit?usp=sharing)
+Open the [Google Sheet Template](https://docs.google.com/spreadsheets/d/12ufFf92pErPu5jy_vQmLLCkqjse7Sj894Radw6CTxcw/edit?usp=sharing) in your browser.
 
-### Make a copy of the page: File → Make a copy
+### Make a copy of the Google Sheet to get access to it: File → Make a copy
 
 ![CleanShot 2021-05-23 at 18 44 56](https://user-images.githubusercontent.com/21277749/119269373-ac7b2580-bbf7-11eb-8930-6e11b4681847.png)
 
@@ -80,12 +80,23 @@ For most pages a manual approach would take for ever. Therefore we automate it.
 
 ![CleanShot 2021-05-23 at 18 33 29](https://user-images.githubusercontent.com/21277749/119269027-e3503c00-bbf5-11eb-85aa-3e40f2255197.png)
 
-####
+#### Open your Chrome Developer Tools (⌥ + ⌘ + i) and open the "Console"
+
+#### Copy & Paste the following script in your console and hit enter
+
+```
+
+```
+
+## Add URLs to the script
+
+### Paste the URLs in the 
+
+
+## Change configuration (optional)
 
 
 ## Run the script
-
-Now everything is setup and ready.
 
 Depending on your configuration and the number of pages your site have this can take some time.
 
