@@ -34,31 +34,58 @@ Google is calculating the Core Web Vitals search ranking boost based on CrUX Dat
 
 ## Prepare Google Sheet
 
-1. Open [Google Sheet Template](https://docs.google.com/spreadsheets/d/12ufFf92pErPu5jy_vQmLLCkqjse7Sj894Radw6CTxcw/edit?usp=sharing)
-2. Make a copy of the page: File → Make a copy
+### Open the Google Sheet Template
+
+[Google Sheet Template](https://docs.google.com/spreadsheets/d/12ufFf92pErPu5jy_vQmLLCkqjse7Sj894Radw6CTxcw/edit?usp=sharing)
+
+### Make a copy of the page: File → Make a copy
+
 ![CleanShot 2021-05-23 at 18 44 56](https://user-images.githubusercontent.com/21277749/119269373-ac7b2580-bbf7-11eb-8930-6e11b4681847.png)
-3. Open the Script Editor: Tools → Script Editor
+
+### Open the Script Editor: Tools → Script Editor
+
 ![CleanShot 2021-05-23 at 18 59 28](https://user-images.githubusercontent.com/21277749/119270427-f286b800-bbfc-11eb-935c-78823f9c1b75.png)
-4.  
-5. Set the 
-6. Get all URL
+
+### Open the script in the legacy editor to be able to set your API Key
+
+![CleanShot 2021-05-23 at 18 59 49](https://user-images.githubusercontent.com/21277749/119270615-dc2d2c00-bbfd-11eb-997c-6b6d6b6643c3.png)
+
+### Open the project properties: File → Project properties
+
+![CleanShot 2021-05-23 at 19 00 22](https://user-images.githubusercontent.com/21277749/119270674-27dfd580-bbfe-11eb-94ea-1e5d8c45ab2b.png)
+
+### Create a new key/value pair for your API Key
+
+Key name: CRUX_API_KEY (copy & paste)
+Value: The API key you created before
+
+![CleanShot 2021-05-23 at 19 01 07](https://user-images.githubusercontent.com/21277749/119270755-77be9c80-bbfe-11eb-9093-d4f608a0c315.png)
+
 
 ## Get a list of all page URLs
+
+For the next step you need a list of the URLs of all pages of your website.
+For most pages a manual approach would take for ever. Therefore we automate it.
 
 ### Find your sitemap.xml
 
 * Most websites have a sitemap.xml in their root directory. Try to open the sitemap.xml in your browser `https://site-domain.com/sitemap.xml`
 * If you are not lucky you might find them linked in the robots.txt file: `https://site-domain.com/robots.txt`
-* If you are not lucky, you have to add the URLs manually.
+* If you are not lucky, you have to add the URLs manually or craete a sitemap.xml first.
 
 
 ### Extract the URLs from your sitemap.xml
 
-1. Open the sitemap.xml in your browser `https://site-domain.com/sitemap.xml`
+#### Open the sitemap.xml in your browser `https://site-domain.com/sitemap.xml`
+
 ![CleanShot 2021-05-23 at 18 33 29](https://user-images.githubusercontent.com/21277749/119269027-e3503c00-bbf5-11eb-85aa-3e40f2255197.png)
-2. 
+
+####
+
 
 ## Run the script
+
+Now everything is setup and ready.
 
 Depending on your configuration and the number of pages your site have this can take some time.
 
