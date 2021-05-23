@@ -168,7 +168,8 @@ Once the script is done you see the message "Execution completed" in the executi
 
 ## Check the Google Sheet
 
-![image](https://user-images.githubusercontent.com/21277749/119274219-1e129e00-bc0f-11eb-9795-cdee1a45d7c7.png)
+![image](https://user-images.githubusercontent.com/21277749/119276952-38ec0f00-bc1d-11eb-8495-220e0ad73c07.png)
+
 
 * The first row of each device is the origin (aggregates all pages of the page)
 * The second row represents the home page
