@@ -22,7 +22,7 @@ https://youtu.be/HWm6WNkHs90
 * Real User Data coming from Chrome users who opted in to share user statistic
 * 75 percentile is calculated for each of the metrics: Largest Contentful Paint (LCP), Cumulative Layout Shift (CLS), and First Input Delay (FID)
 
-#### Why am I seeing different scores reported in different tools such as Lighthouse and the Chrome User Experience Report
+### Why am I seeing different scores reported in different tools such as Lighthouse and the Chrome User Experience Report
 https://youtu.be/HWm6WNkHs90?t=127 (2:05)
 
 * Two Data Sources: Field Data (CrUX), Simulated/Lab Load Data (LHS)
