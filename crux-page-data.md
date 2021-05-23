@@ -9,6 +9,13 @@ Google is calculating the Core Web Vitals search ranking boost based on CrUX Dat
 3. If the page group has not enough data Google aggregates the data for whole site (see [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/))
 
 
+## CrUX API - What data do I get?
+
+The CrUX API is updated on a daily basis (between 8am and 10am in Europe) and delivers the 75p of the last 28 days.
+The Google Search Console works with the same data but need some hours to process the data.
+
+Recommeded article from Barry Pollard [An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/)
+
 ## Generate your free CruX API Key
 
 ### Open the website
