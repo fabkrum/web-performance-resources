@@ -14,7 +14,7 @@ If you don’t have time to watch the 30 minutes Google I/O Web Vital Q&A sessio
 * The Core Web Vitals will impact the mobile search ranking starting this summer (June-August 2021). The desktop search will follow in the future — they didn’t communicate a date yet.
 * The new Cumulative Layout Shift (CLS) algorithm (5-second windows) will be used for the ranking factor. Google will update its tools soon. Nobody will see a worse CLS because of this change.
 
-## Most relevant covered questions with time code
+## Most relevant questions with time code
 
 ## [Watch full session](https://youtu.be/HWm6WNkHs90)
 Google I/O Ask Me Anything Web Vitals — May 19, 2021, with Philip Walton, Elizabeth Sweeny, John Mueller, and Annie Sullivan.
