@@ -5,12 +5,12 @@
 Google is calculating the search ranking boost based on CrUX data in the following order.
 If there is not enough data available, the Core Web Vitals of the next bigger group is used to calculate the ranking boost:
 
-1. Page – The big question is: Which of your pages have enough CrUX data? If you follow all the steps in this document, you will know.
+1. Page – **The big question is: Which of your pages have enough CrUX data?**
 2. Page Group (see [Google Search Console](https://search.google.com/search-console))
 3. Origin = all pages of the website aggregated (see [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/))
 
 
-If you follow all steps, you will get a Google Sheet with the CrUX data for your page:
+**If you follow all steps, you will get a Google Sheet with the CrUX data for your page:**
 
 ![CleanShot 2021-05-24 at 16 21 51](https://user-images.githubusercontent.com/21277749/119363119-bc554100-bcad-11eb-9f5b-92703baaa559.png)
 
