@@ -11,7 +11,7 @@ If there is not enough data available, the Core Web Vitals of the next bigger gr
 
 **If you follow all steps (~15 minutes), you will be ready to generate a Google Sheet with the CrUX data for your page:**
 
-![CleanShot 2021-05-24 at 16 21 51](https://user-images.githubusercontent.com/21277749/119363119-bc554100-bcad-11eb-9f5b-92703baaa559.png)
+![image](https://user-images.githubusercontent.com/21277749/119415571-2abbf280-bcf2-11eb-9489-bad8851e805e.png)
 
 
 ## CrUX API - What data do I get?
@@ -234,7 +234,7 @@ If you see the following Popup, please click on "Review permissions" and login. 
 
 ## Check the Google Sheet
 
-![CleanShot 2021-05-24 at 16 21 51](https://user-images.githubusercontent.com/21277749/119363119-bc554100-bcad-11eb-9f5b-92703baaa559.png)
+![image](https://user-images.githubusercontent.com/21277749/119415571-2abbf280-bcf2-11eb-9489-bad8851e805e.png)
 
 ### Legend
 
