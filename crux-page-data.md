@@ -1,4 +1,4 @@
-# How to get the CrUX data for your origin and all pages
+# How to use the CrUX API to get your page Core Web Vitals
 
 ## Problem to solve
 
@@ -76,11 +76,13 @@ Value: The API key you created before
 ![CleanShot 2021-05-23 at 19 01 07](https://user-images.githubusercontent.com/21277749/119270755-77be9c80-bbfe-11eb-9093-d4f608a0c315.png)
 
 
-## Add URLs
+## Add Pages
 
 There are two ways to add your page URLs:
 * Add one or multiple sitemaps (recommended)
 * Add URLs manually
+
+You can use both at the same time.
 
 
 ### Add Sitemap(s)
@@ -90,7 +92,9 @@ There are two ways to add your page URLs:
 * If you are still not lucky, you have to add the URLs manually or create a sitemap.xml first.
 
 This script loops through the sitemaps and checks all URLs.
-The following Sitemap structure is expected: `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>`
+The following sitemap structure is expected: `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>`
+
+In the Google Sheet "Type" column sitemap URLs are called "Page (Sitemap)".
 
 ```
 const SITEMAPS = [
@@ -110,11 +114,14 @@ const URLS = [
 ];
 ```
 
-For the next step, you need a list of the URLs of all pages of your website.
-For most pages, a manual approach would take forever. Therefore we automate it.
+In the Google Sheet "Type" column URLs are called "Page (URL)".
+
 
 
 ## Add Origin(s)
+
+The origin aggregates the Core Web Vitals from all pages of your site.
+To distiguish the home page and the origin youIn the Google Sheet "Type" column you can  are called "Origin".
 
 ```
 const ORIGINS = [
@@ -122,8 +129,7 @@ const ORIGINS = [
 ];
 ```
 
-
-### Configure the form factors (optional)
+## Configure the form factors (optional)
 
 For each form factor, the URL and ORIGINS list will be looped.
 To fasten the process, you can, for example, only check the phone data.
@@ -137,6 +143,8 @@ const FORM_FACTORS = [
 ```
 
 ## Run the script
+
+Before you run the script make sure you saved your changes.
 
 **Warning:** Depending on your configuration and the number of pages your site has, this can take some time (250ms per URL).
 
@@ -155,11 +163,7 @@ If you see the message "Execution completed" in the execution logs the Google Sh
 
 ![image](https://user-images.githubusercontent.com/21277749/119276952-38ec0f00-bc1d-11eb-8495-220e0ad73c07.png)
 
-
-* The first row of each device is the origin (aggregates all pages of the page)
-* The second row represents the home page
-
-### Color legend
+### Legend
 
 #### Metric Headlines:
 * Green: The average of the metric is good
