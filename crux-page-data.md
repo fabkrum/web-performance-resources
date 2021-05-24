@@ -27,14 +27,8 @@ More info:
 
 ## Limitations
 
-** If you have a very large site, this might not be the right tool for you. **
+The script has a runtime limitations and will stop latest after 30 minutes with the 
 
-* The script stops working after 30 minutes (Exceeded maximum execution time)
-* In this timeframe it made 5,250 API calls and added 665 pages to the Google Sheet
-
-This might help you to avoid the limitations:
-* Use a different Google Sheet for each market, country, or division.
-* Only use one form factor for each script run (you can ran different form factors in a row)
 
 
 ## Generate your free CrUX API Key
@@ -113,7 +107,8 @@ You can use both methods at the same time.
 * If you want to add multiple URLs, add a comma at the end of the line `'https://www.your-domain.com/blog',`
 * Don't add a comma after the last URL
 
-![CleanShot 2021-05-24 at 14 37 00](https://user-images.githubusercontent.com/21277749/119349642-ab510380-bc9e-11eb-8bb4-326da77d2111.png)
+![image](https://user-images.githubusercontent.com/21277749/119411155-3d322e00-bcea-11eb-93c5-dac234de2b7e.png)
+
 
 ### Add Sitemap(s) - optional
 
