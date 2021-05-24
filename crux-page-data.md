@@ -1,4 +1,4 @@
-# How to use the CrUX API to get your page Core Web Vitals
+# How to get your page Core Web Vitals from the CrUX API
 
 ## Problem to solve
 
