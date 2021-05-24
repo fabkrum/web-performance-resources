@@ -25,6 +25,18 @@ More info:
 * [Everything you need to know about Core Web Vitals](https://github.com/fabkrum/web-performance-resources/blob/master/web-perf-resource-list.md#core-web-vitals) (Articles, Videos, Tools)
 
 
+## Limitations
+
+** If you have a very large site, this might not be the right tool for you. **
+
+* The script stops working after 30 minutes (Exceeded maximum execution time)
+* In this timeframe it made 5,250 API calls and added 665 pages to the Google Sheet
+
+This might help you to avoid the limitations:
+* Use a different Google Sheet for each market, country, or division.
+* Only use one form factor for each script run (you can ran different form factors in a row)
+
+
 ## Generate your free CrUX API Key
 
 To be able to use the CrUX API, you have to generate a key first:
