@@ -12,19 +12,18 @@ If there is not enough data available, the Core Web Vitals of the next bigger gr
 
 If you follow the steps in this document you will get a Google Sheet with the CrUX data for your page:
 
-
+![image](https://user-images.githubusercontent.com/21277749/119361658-3258a880-bcac-11eb-8104-024680f3fbc1.png)
 
 
 ## CrUX API - What data do I get?
 
-The CrUX API is updated daily (between 8 am and 10 am in Europe).
-You get the 75 percentile of the last 28 days for each Core Web Vital.
+* You get the 75 percentile of the last 28 days for each Core Web Vital.
+* The CrUX API is updated daily (between 8 am and 10 am in Europe).
+* The Google Search Console works with the same data but needs more time to process the data.
 
-The Google Search Console works with the same data but needs more time to process the data.
-
-Read this great article from Barry Pollard to learn more about it:
-
-[An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/)
+More info:
+* [Chrome User Experience Report (CrUX)](https://developers.google.com/web/tools/chrome-user-experience-report)
+* [An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/)
 
 
 ## Generate your free CrUX API Key
