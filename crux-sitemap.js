@@ -1,14 +1,25 @@
 // Copyright 2020 Google LLC.
 // SPDX-License-Identifier: Apache-2.0
 
+/** 
+ * ====================================================================================================================================
+ * CONFIGURATION
+ * ====================================================================================================================================
+ * */
+
+// RUN MODE
+// true = script continues with the last url in the Google Sheet
+// false = script starts fresh from the beginning
+var globalContinue = false;
+
 const SITEMAPS = [
-  'https://www.netcentric.biz/sitemap.xml'
+  
 ];
 const URLS = [
-  'https://www.netcentric.biz/'
+
 ];
 const ORIGINS = [
-  'https://www.netcentric.biz/'
+  
 ];
 const FORM_FACTORS = [
   'DESKTOP',
@@ -16,7 +27,25 @@ const FORM_FACTORS = [
   'ALL_FORM_FACTORS'
 ];
 
+// Format: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html
+const TIMEZONE = 'GMT+2';
+const DATEFORMAT = 'yyyy-MM-dd';
+const TIMEFORMAT = 'HH:mm:ss';
+
+/** 
+ * ====================================================================================================================================
+ * DO NOT CHANGE ANYTHING BELOW
+ * ====================================================================================================================================
+ * */ 
+
+// Global variables
+var globalCounterChecked = 0;
+var globalCounterAdded = 0;
+var globalActive = true;
+
+const START_CONDITION = {};
 const CrUXApiUtil = {};
+
 // Get your CrUX API key at https://goo.gle/crux-api-key.
 // Set your CrUX API key at File > Project properties > Script properties (You have to use the legacy editor - link in top right corner)
 CrUXApiUtil.API_KEY = PropertiesService.getScriptProperties().getProperty('CRUX_API_KEY');
@@ -43,29 +72,75 @@ CrUXApiUtil.query = function (requestBody) {
 };
 
 function monitor() {
-  FORM_FACTORS.forEach(function(formFactor) {    
+  if (globalContinue === true) {
+    Logger.warning('RUN MODE: The script continues where it stopped last time');
+    setStartCondition();
+    globalActive = false;    
+  } else {
+    Logger.warning('RUN MODE: The script starts fresh');
+  }
+
+  FORM_FACTORS.forEach(function(formFactor) {
     ORIGINS.forEach(function(origin) {
-      getCrUXData('origin', origin, formFactor, 'Origin');
+      checkStartCondition('origin', origin, formFactor, 'Origin');      
     });
     URLS.forEach(function(url) {
-      getCrUXData('url', url, formFactor, 'Page (URL)');
-      Utilities.sleep(250)
+      checkStartCondition('url', url, formFactor, 'Page (URL)');      
     });
     SITEMAPS.forEach(function(sitemap){            
         var xml = getSitemap(sitemap);
         var urls = getSitemapUrls(xml);
     
         urls.forEach(function(url){
-            getCrUXData('url', url, formFactor, 'Page (Sitemap)');
-            Utilities.sleep(250)
-        }); 
+            checkStartCondition('url', url, formFactor, 'Page (Sitemap)');            
+        });
     });
   });
 }
 
+function setStartCondition() {
+  var values = getLastEntry();
+
+  START_CONDITION.TYPE = values[0][0];
+  START_CONDITION.URL = values[0][1];
+  START_CONDITION.FORM_FACTOR = values[0][2];
+
+  Logger.warning('Start Condition: URL: ' + START_CONDITION.URL + ' / Type: ' + START_CONDITION.TYPE + ' / Form Factor: '+ START_CONDITION.FORM_FACTOR);
+}
+
+function getLastEntry() {
+  var sheet = SpreadsheetApp.getActiveSheet();
+  var lastRow = sheet.getLastRow();
+  var data = sheet.getRange(lastRow, 3, 1, 3).getValues();
+
+  return data;
+}
+
+function checkStartCondition(source, url, formFactor, type) {
+
+  if (globalActive === true) {
+    getCrUXData(source, url, formFactor, type);
+    globalCounterChecked++;
+    let percentAdded = Math.round((globalCounterAdded * 100 / globalCounterChecked) * 100) / 100;
+    Logger.info(globalCounterAdded + '/' + globalCounterChecked + ' (' + percentAdded + ' %) / URL: ' + url);
+    Utilities.sleep(250);    
+  }
+
+  if (globalActive === false) {      
+      if (url === START_CONDITION.URL
+            && formFactor === START_CONDITION.FORM_FACTOR
+            && type === START_CONDITION.TYPE) {
+        globalActive = true;
+        Logger.warning('The start condition has occurred. The script continues now with the new URLs.');
+      } 
+  }
+
+  return;
+}
+
 function getSitemap(sitemap) {
   var xml = UrlFetchApp.fetch(sitemap).getContentText();
-
+  
   return xml;
 }
 
@@ -88,11 +163,13 @@ function getCrUXData(key, value, formFactor, source) {
     [key]: value,
     formFactor
   });
-  
-  if (!response) {
+
+  if (!response) {     
     return;
   }
   
+  globalCounterAdded++;
+
   const fcp = getMetricData(response.record.metrics.first_contentful_paint);
   const lcp = getMetricData(response.record.metrics.largest_contentful_paint);
   const fid = getMetricData(response.record.metrics.first_input_delay);
@@ -129,7 +206,8 @@ function addRow(...args) {
   const spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
   const sheet = spreadsheet.getActiveSheet();
   sheet.appendRow([
-    Utilities.formatDate(new Date(), 'GMT+2', 'yyyy-MM-dd hh:mm'),
+    Utilities.formatDate(new Date(), TIMEZONE, DATEFORMAT),
+    Utilities.formatDate(new Date(), TIMEZONE, TIMEFORMAT),
     ...args
   ]);
 }
