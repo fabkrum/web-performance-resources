@@ -2,20 +2,23 @@
 
 ## Problem to solve
 
-Google is calculating the Core Web Vitals search ranking boost based on CrUX Data:
+Google is calculating the search ranking boost based on CrUX data in the following order.
+If there is not enough data available, the Core Web Vitals of the next bigger group is used to calculate the ranking boost:
 
-1. If a single page has enough traffic the page Core Web Vitals are used. **But which of your pages have enough traffic? If you follow the steps of this document you will know the answer soon.**
-2. If the page has not enough data Google is grouping similar page together (see [Google Search Console](https://search.google.com/search-console))
-3. If the page group has not enough data Google aggregates the data for whole site (see [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/))
+1. Page – The big question is: Which of your pages have enough CrUX data? If you follow all the steps in this document, you will know.
+2. Page Group (see [Google Search Console](https://search.google.com/search-console))
+3. Origin = all pages of the website aggregated (see [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/))
 
 
 ## CrUX API - What data do I get?
 
-The CrUX API is updated on a daily basis (between 8am and 10am in Europe) and delivers the 75p of the last 28 days.
+The CrUX API is updated daily (between 8 am and 10 am in Europe).
+You get the 75 percentile of the last 28 days for each Core Web Vital.
 
-The Google Search Console works with the same data but need some hours to process the data.
+The Google Search Console works with the same data but needs more time to process the data.
 
-Recommended article from Barry Pollard: [An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/)
+Read this great article from Barry Pollard to learn more about it:
+[An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/)
 
 ## Generate your free CruX API Key
 
@@ -27,7 +30,7 @@ Recommended article from Barry Pollard: [An In-Depth Guide To Measuring Core Web
 
 ![CleanShot 2021-05-23 at 19 01 38](https://user-images.githubusercontent.com/21277749/119269781-bef65e80-bbf9-11eb-9d8d-1ef6b43d2fb4.png)
 
-### Create a new projet
+### Create a new project
 
 ![CleanShot 2021-05-23 at 19 02 17](https://user-images.githubusercontent.com/21277749/119272572-d5ef7d80-bc06-11eb-8439-4247e41127dd.png)
 
@@ -72,14 +75,14 @@ Value: The API key you created before
 
 ## Get a list of all page URLs
 
-For the next step you need a list of the URLs of all pages of your website.
-For most pages a manual approach would take for ever. Therefore we automate it.
+For the next step, you need a list of the URLs of all pages of your website.
+For most pages, a manual approach would take forever. Therefore we automate it.
 
 ### Find your sitemap.xml
 
 * Most websites have a sitemap.xml in their root directory. Try to open the sitemap.xml in your browser `https://site-domain.com/sitemap.xml`
-* If you are not lucky you might find them linked in the robots.txt file: `https://site-domain.com/robots.txt`
-* If you are not lucky, you have to add the URLs manually or craete a sitemap.xml first.
+* If you are not lucky, you might find them linked in the robots.txt file: `https://site-domain.com/robots.txt`
+* If you are still not lucky, add the URLs manually or create a sitemap.xml first.
 
 
 ### Extract the URLs from your sitemap.xml
@@ -123,13 +126,13 @@ Then paste the URL list (⌘ + V).
 
 ![CleanShot 2021-05-23 at 20 25 01](https://user-images.githubusercontent.com/21277749/119272481-64afca80-bc06-11eb-80d5-11594f63d4b0.png)
 
-Feel free to delete or add additional URLs.
-Just be careful to not introduce any format errors: `'https://www.domain.com/page',` (the last entry must have no comma)
+Feel free to delete or add additional URLs manually.
+Just be careful not to introduce any format errors: `'https://www.domain.com/page',` (the last entry must have no comma)
 
 
 #### Add the Origins (optional)
 
-Tip: Add the origins whithout the trailing slash to not confuse them with the home page.
+**Tip:** Add the origins without the trailing slash to not confuse them with the home page.
 
 ```
 const ORIGINS = [
@@ -140,8 +143,8 @@ const ORIGINS = [
 
 #### Configure the form factors (optional)
 
-For each form factor the whole URL and ORIGINS list will be looped.
-To fasten the process you can for example only check the phone data.
+For each form factor, the URL and ORIGINS list will be looped.
+To fasten the process, you can, for example, only check the phone data.
 
 ```
 const FORM_FACTORS = [
@@ -153,15 +156,15 @@ const FORM_FACTORS = [
 
 ## Run the script
 
-Warning: Depending on your configuration and the number of pages your site has this can take some time (250ms per URL).
+**Warning:** Depending on your configuration and the number of pages your site has, this can take some time (250ms per URL).
 
-* In the script log you see can follow what the script is doing
-* Most likely most of you pages (95%) will throw an error. This means there are not in the CrUX database and Google has not enough data to calulate a page Core Web Vital. Google will take a Page Group or the Origin Core Web Vitals instead.
-* Pages with enough data will be added to Google Sheet.
+* In the script log, you can follow what the script is doing.
+* Don't be surprised if most of your pages (~95%) will throw an error – these pages have not enough CrUX data.
+* The script adds all pages with enough data to the Google Sheet.
 
 ![CleanShot 2021-05-23 at 20 47 09](https://user-images.githubusercontent.com/21277749/119272998-2a93f800-bc09-11eb-801b-b17e694db122.png)
 
-Once the script is done you see the message "Execution completed" in the execution log.
+If you see the message "Execution completed" in the execution logs the Google Sheet is ready.
 
 ![CleanShot 2021-05-23 at 21 03 10](https://user-images.githubusercontent.com/21277749/119273278-69767d80-bc0a-11eb-8a18-eea05e16a2a0.png)
 
@@ -176,23 +179,28 @@ Once the script is done you see the message "Execution completed" in the executi
 
 ### Color legend
 
+#### Metric Headlines:
+* Green: The average of the metric is good
+* Yellow: The average of the metric needs improvement
+* Red: The average of the metric is poor
+
 #### URL/Origin (B):
 * Green: All Core Web Vitals are good
 * Yellow: At least one Core Vital needs improvement
 * Red: At least one Core Web Vital is poor
 
 #### P75 LCP (G)
-* Green: < 2,500
+* Green: <= 2,500
 * Yellow: In between
 * Red: > 4,500
 
 #### P75 FID (K)
-* Green: < 100
+* Green: <= 100
 * Yellow: In between
 * Red: > 300
 
 #### P75 CLS (O)
-* Green: < 0.1
+* Green: <= 0.1
 * Yellow: In between
 * Red: > 0.25
 
