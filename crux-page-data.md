@@ -23,6 +23,7 @@ If there is not enough data available, the Core Web Vitals of the next bigger gr
 More info:
 * [Chrome User Experience Report (CrUX)](https://developers.google.com/web/tools/chrome-user-experience-report)
 * [An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/) by Barry Pollard
+* [Everything you need to know about Core Web Vitals](https://github.com/fabkrum/web-performance-resources/blob/master/web-perf-resource-list.md#core-web-vitals)
 
 
 ## Generate your free CrUX API Key
