@@ -19,7 +19,6 @@ If there is not enough data available, the Core Web Vitals of the next bigger gr
 
 * You get the 75 percentile of the last 28 days for each Core Web Vital.
 * The CrUX API is updated daily between 8 am and 10 am (GMT).
-* The Google Search Console works with the same data but needs more time to process the data.
 
 More info:
 * [Chrome User Experience Report (CrUX)](https://developers.google.com/web/tools/chrome-user-experience-report)
