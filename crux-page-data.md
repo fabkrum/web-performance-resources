@@ -91,9 +91,12 @@ Value: The API key you created before
 You can use both methods at the same time.
 
 ### Use the right format:
-* If you don't want to add data ignore the field, and keep the empty brackets `const URLS = [];`.
+* If you don't want to add data, just leave it as it is: `const URLS = [];`.
 * All URLs have to be surrounded by single quotes `'https://www.your-domain.com/'`
 * If you you want to add multiple URLS, add a comma at the end of the line `'https://www.your-domain.com/blog',`
+* Don't add a comma after the last URL
+
+![CleanShot 2021-05-24 at 14 37 00](https://user-images.githubusercontent.com/21277749/119349642-ab510380-bc9e-11eb-8bb4-326da77d2111.png)
 
 ### Add Sitemap(s) - optional
 
@@ -159,8 +162,6 @@ const FORM_FACTORS = [
 ```
 
 ## Run the script
-
-![CleanShot 2021-05-24 at 14 37 00](https://user-images.githubusercontent.com/21277749/119349642-ab510380-bc9e-11eb-8bb4-326da77d2111.png)
 
 **Warning:** Depending on your configuration and the number of pages your site has, this can take some time (250ms per URL).
 
