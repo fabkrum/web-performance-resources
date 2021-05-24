@@ -67,6 +67,8 @@ Open the [Google Sheet Template](https://docs.google.com/spreadsheets/d/12ufFf92
 
 ### Open the script in the legacy editor to be able to set your API Key
 
+Close the survey popup.
+
 ![CleanShot 2021-05-23 at 18 59 49](https://user-images.githubusercontent.com/21277749/119270615-dc2d2c00-bbfd-11eb-997c-6b6d6b6643c3.png)
 
 ### Open the project properties: File → Project properties
