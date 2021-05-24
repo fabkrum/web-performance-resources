@@ -32,7 +32,7 @@ If you see this error message, you can change the script run mode. Set the globa
 In this mode the script will check the URL in the last row of your Google Sheet and continues automatically with the next URL.
 
 Google Sheets have a limitation of 5.000.000 cells, which translates to ~ 235.000 rows.
-As usually only 5-10% of your pages have enough traffic to show up in the sheet this should work for very big pages as well.
+Usually only 5-10% of your pages have enough traffic for the CrUX data set. Therefore this solution should also work for very big pages.
 
 
 
@@ -101,7 +101,7 @@ Value: The API key you created before
 ![image](https://user-images.githubusercontent.com/21277749/119411155-3d322e00-bcea-11eb-93c5-dac234de2b7e.png)
 
 
-## Run Mode
+## Run Modes
 
 The script has two run modes:
 * `var globalContiue = false` (default): The script starts fresh from the beginning.
@@ -223,10 +223,10 @@ If you see the following Popup, please click on "Review permissions" and login. 
 
 
 * In the "Execution log" below the script, you can follow what the script is doing.
-* Don't get nervous if you get a lot of error messages. These are your pages with not enough CrUX data (most likely, only 5% of your pages will have CrUX data)
+* Don't get nervous if you see a lot of error messages. These are your pages with not enough CrUX data (most likely, only 5% of your pages will have CrUX data)
 * The script adds all pages with enough data to the Google Sheet.
-* After every 50 page checks, you see a status info in the execution log (pages checked, pages added, % of pages added)
 * If you see the message "Execution completed", the script has finished, and the Google Sheet is ready.
+* If you get the "Exceeded maximum execution time" error message you can change the run mode `var globalContinue = true;` and start the script again.
 
 
 ![CleanShot 2021-05-24 at 15 08 33](https://user-images.githubusercontent.com/21277749/119353300-008f1400-bca3-11eb-8f07-4b2f9f4315c7.png)
