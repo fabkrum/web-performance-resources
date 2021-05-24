@@ -51,48 +51,36 @@ function monitor() {
       getCrUXData('url', url, formFactor, 'Page (URL)');
       Utilities.sleep(250)
     });
-    SITEMAPS.forEach(function(sitemap){
-
-      getXMLSitemapObject(sitemap, function(sitemapObject) {
-          var sitemapUrls = [];    
-          var urls = sitemapObject.getElementsByTagName('url');
-            
-          for (var i = 0; i < urls.length; i++) {
-              var urlElement = urls[i];
-
-              var loc = urlElement.getElementsByTagName('loc')[0].textContent;
-              var changefreq = urlElement.getElementsByTagName('changefreq')[0].textContent;
-              var priority = urlElement.getElementsByTagName('priority')[0].textContent;
-
-              sitemapUrls.push(loc);
-          }
-      });
-
-      sitemapUrls.forEach(function(url){
-        getCrUXData('url', url, formFactor, 'Page (Sitemap)');
-        Utilities.sleep(250)
-      });      
+    SITEMAPS.forEach(function(sitemap){            
+        var xml = getSitemap(sitemap);
+        var urls = getSitemapUrls(xml);
+    
+        urls.forEach(function(url){
+            getCrUXData('url', url, formFactor, 'Page (Sitemap)');
+            Utilities.sleep(250)
+        }); 
     });
   });
 }
 
-function getXMLSitemapObject(sitemapFile, callback) {
-    var xhttp = new XMLHttpRequest();
-    xhttp.onreadystatechange = function() {
-        if ((this.readyState === 4) && (this.status === 200)) {
-            var sitemapContent = this.responseText;
-            var sitemapObject = parseXMLSitemap(sitemapContent);
-            callback(sitemapObject);
-        }
-    };
-    xhttp.open('GET', sitemapFile, true);
-    xhttp.send();
+function getSitemap(sitemap) {
+  var xml = UrlFetchApp.fetch(sitemap).getContentText();
+
+  return xml;
 }
 
-function parseXMLSitemap(sitemapContent) {
-    var parser = new DOMParser();
-    var xmlDoc = parser.parseFromString(sitemapContent, 'text/xml');
-    return xmlDoc;
+function getSitemapUrls(xml) {  
+  var urls = [];
+  var document = XmlService.parse(xml);
+  var root = document.getRootElement();
+  var sitemaps = XmlService.getNamespace('http://www.sitemaps.org/schemas/sitemap/0.9');
+  var entries = root.getChildren('url', sitemaps);
+
+  for (var i = 0; i < entries.length; i++) {    
+    urls.push(entries[i].getChild('loc', sitemaps).getText());
+  }
+
+  return urls;
 }
 
 function getCrUXData(key, value, formFactor, source) {
