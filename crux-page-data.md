@@ -10,7 +10,7 @@ If there is not enough data available, the Core Web Vitals of the next bigger gr
 3. Origin = all pages of the website aggregated (see [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/))
 
 
-If you follow the steps in this document you will get a Google Sheet with the CrUX data for your page:
+If you follow all steps, you will get a Google Sheet with the CrUX data for your page:
 
 ![CleanShot 2021-05-24 at 16 21 51](https://user-images.githubusercontent.com/21277749/119363119-bc554100-bcad-11eb-9f5b-92703baaa559.png)
 
@@ -28,7 +28,7 @@ More info:
 
 ## Generate your free CrUX API Key
 
-To be able to use the CrUX API you have to generate a key first:
+To be able to use the CrUX API, you have to generate a key first:
 
 ### Open the website
 
@@ -97,7 +97,7 @@ You can use both methods at the same time.
 ### Use the right format:
 * If you don't want to add data, just leave it as it is: `const URLS = [];`.
 * All URLs have to be surrounded by single quotes `'https://www.your-domain.com/'`
-* If you you want to add multiple URLS, add a comma at the end of the line `'https://www.your-domain.com/blog',`
+* If you want to add multiple URLs, add a comma at the end of the line `'https://www.your-domain.com/blog',`
 * Don't add a comma after the last URL
 
 ![CleanShot 2021-05-24 at 14 37 00](https://user-images.githubusercontent.com/21277749/119349642-ab510380-bc9e-11eb-8bb4-326da77d2111.png)
@@ -106,12 +106,12 @@ You can use both methods at the same time.
 
 * Most websites have a sitemap.xml in their root directory. Try to open the sitemap.xml in your browser `https://site-domain.com/sitemap.xml`
 * If you are not lucky, you might find their location in the robots.txt file: `https://site-domain.com/robots.txt`
-* If you are still not lucky, you have to add the URLs manually or create a sitemap.xml first.
+* If you are still not lucky, add the URLs manually or create a sitemap.xml first.
 
 This script loops through the sitemaps and checks all URLs.
 The following sitemap structure is expected: `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>`
 
-In the Google Sheet "Type" column sitemap URLs are called "Page (Sitemap)".
+In the Google Sheet "Type" column, sitemap entries are named: "Page (Sitemap)".
 
 ```
 const SITEMAPS = [
@@ -131,13 +131,13 @@ const URLS = [
 ];
 ```
 
-In the Google Sheet "Type" column URLs are called "Page (URL)".
+In the Google Sheet "Type" column, sitemap entries are named: "Page (URL)".
 
 
 ## Add Origin(s) - optional
 
 The origin aggregates the Core Web Vitals from all pages of your site.
-The origin is called "Origin" in the the Google Sheet "Type" column.
+In the Google Sheet "Type" column, sitemap entries are named: "Origin".
 
 ```
 const ORIGINS = [
@@ -147,7 +147,7 @@ const ORIGINS = [
 
 ## Configure the form factors (optional)
 
-For each form factor, the SITEMAP, URLS, and ORIGINS will be looped:
+For each form factor, the script has to check all sitemaps, URLs, and origins.
 
 ```
 const FORM_FACTORS = [
@@ -157,7 +157,7 @@ const FORM_FACTORS = [
 ];
 ```
 
-To fasten the process, you might only want to check the mobile data:
+To speed up the process, you might only want to check the mobile data:
 
 ```
 const FORM_FACTORS = [
@@ -165,10 +165,10 @@ const FORM_FACTORS = [
 ];
 ```
 
-## Configure timezone and formats (optinal)
+## Configure timezone and formats (optional)
 
-If needed you can easily change the timezone, the data, and the time format.
-The script is using the simple date format ([Simple Date Format Documentation](https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html))
+You can easily change the timezone and the format for the date and time.
+The script is using the simple date format ([Simple Date Format Documentation](https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html)).
 
 Default (Europe, Berlin):
 
@@ -185,10 +185,10 @@ const TIMEFORMAT = 'HH:mm:ss';
 ![CleanShot 2021-05-24 at 15 08 21](https://user-images.githubusercontent.com/21277749/119352796-69c25780-bca2-11eb-9691-179506409ee5.png)
 
 * In the "Execution log" below the script, you can follow what the script is doing.
-* Don't get nervous if you get a lot of error messages. These are your pages with not enough CrUX data (most likely only 5% of your pages will have CrUX data)
+* Don't get nervous if you get a lot of error messages. These are your pages with not enough CrUX data (most likely, only 5% of your pages will have CrUX data)
 * The script adds all pages with enough data to the Google Sheet.
-* After every 50 page checks you see a status info in the logs.
-* If you see the message "Execution completed" the Google Sheet is ready.
+* After every 50 page checks, you see a status info in the execution log (pages checked, pages added, % of pages added)
+* If you see the message "Execution completed", the script has finished, and the Google Sheet is ready.
 
 
 ![CleanShot 2021-05-24 at 15 08 33](https://user-images.githubusercontent.com/21277749/119353300-008f1400-bca3-11eb-8f07-4b2f9f4315c7.png)
