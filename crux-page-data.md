@@ -12,7 +12,7 @@ If there is not enough data available, the Core Web Vitals of the next bigger gr
 
 If you follow the steps in this document you will get a Google Sheet with the CrUX data for your page:
 
-![image](https://user-images.githubusercontent.com/21277749/119361658-3258a880-bcac-11eb-8104-024680f3fbc1.png)
+![CleanShot 2021-05-24 at 16 21 51](https://user-images.githubusercontent.com/21277749/119363119-bc554100-bcad-11eb-9f5b-92703baaa559.png)
 
 
 ## CrUX API - What data do I get?
@@ -81,7 +81,7 @@ Value: The API key you created before
 ![CleanShot 2021-05-23 at 19 01 07](https://user-images.githubusercontent.com/21277749/119270755-77be9c80-bbfe-11eb-9093-d4f608a0c315.png)
 
 
-### Swtich back to the new editor
+### Switch back to the new editor
 
 ![CleanShot 2021-05-24 at 14 55 13](https://user-images.githubusercontent.com/21277749/119350916-2cf56100-bca0-11eb-9691-49a5e0b04651.png)
 
@@ -196,7 +196,7 @@ const TIMEFORMAT = 'HH:mm:ss';
 
 ## Check the Google Sheet
 
-![image](https://user-images.githubusercontent.com/21277749/119276952-38ec0f00-bc1d-11eb-8495-220e0ad73c07.png)
+![CleanShot 2021-05-24 at 16 21 51](https://user-images.githubusercontent.com/21277749/119363119-bc554100-bcad-11eb-9f5b-92703baaa559.png)
 
 ### Legend
 
