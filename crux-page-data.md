@@ -27,7 +27,12 @@ More info:
 
 ## Limitations
 
-The script has a runtime limitations and will stop latest after 30 minutes with the 
+The script will stop latest after 30 minutes. You will see the following error message in the execution log: "Exceeded maximum execution time"
+If you see this error message, you can change the script run mode. Set the globalContinue variable to true `var globalContinue = true;`.
+In this mode the script will check the URL in the last row of your Google Sheet and continues automatically with the next URL.
+
+Google Sheets have a limitation of 5.000.000 cells, which translates to ~ 235.000 rows.
+As usually only 5-10% of your pages have enough traffic to show up in the sheet this should work for very big pages as well.
 
 
 
@@ -91,6 +96,21 @@ Value: The API key you created before
 ### Switch back to the new editor
 
 ![CleanShot 2021-05-24 at 14 55 13](https://user-images.githubusercontent.com/21277749/119350916-2cf56100-bca0-11eb-9691-49a5e0b04651.png)
+
+
+## Run Mode
+
+The script has two run modes:
+* `var globalContiue = false` (default): The script starts fresh from the beginning.
+* `var globalContiue = true`: The script checks the last row of your Google Sheet and continues with the next URL. You can use this mode if the script stopped for any reasons and you want to continue.
+
+
+```
+// RUN MODE
+// true = script continues with the last url in the Google Sheet
+// false = script starts fresh from the beginning
+var globalContinue = false;
+```
 
 
 ## Add URLs
