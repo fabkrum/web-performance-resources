@@ -9,8 +9,7 @@ If there is not enough data available, the Core Web Vitals of the next bigger gr
 2. Page Group (see [Google Search Console](https://search.google.com/search-console))
 3. Origin = all pages of the website aggregated (see [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/))
 
-
-**If you follow all steps, you will get a Google Sheet with the CrUX data for your page:**
+**If you follow all steps (~15 minutes), you will be ready to generate a Google Sheet with the CrUX data for your page:**
 
 ![CleanShot 2021-05-24 at 16 21 51](https://user-images.githubusercontent.com/21277749/119363119-bc554100-bcad-11eb-9f5b-92703baaa559.png)
 
@@ -110,6 +109,10 @@ You can use both methods at the same time.
 * If you are not lucky, you might find their location in the robots.txt file: `https://site-domain.com/robots.txt`
 * If you are still not lucky, add the URLs manually or create a sitemap.xml first.
 
+**Important:** The script doesn't work with sitemap-index.xml (a sitemap.xml which links to multiple sitemaps.xml).
+You can open the sitemap-index.xml in your browser and copy&paste the sitemaps you want use.
+I recommended to create an extra Google Sheet for each market/country - otherwise you might hit the limits of the Google Sheets or the CrUX API.
+
 This script loops through the sitemaps and checks all URLs.
 The following sitemap structure is expected: `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>`
 
@@ -123,7 +126,7 @@ const SITEMAPS = [
 
 ### Add URL(s) - optional
 
-* 
+Here you can add one more URLs manually.
 
 ```
 const URLS = [
@@ -185,6 +188,11 @@ const TIMEFORMAT = 'HH:mm:ss';
 **Warning:** Depending on your configuration and the number of pages your site has, this can take some time (250ms per URL).
 
 ![CleanShot 2021-05-24 at 15 08 21](https://user-images.githubusercontent.com/21277749/119352796-69c25780-bca2-11eb-9691-179506409ee5.png)
+
+If you see the following Popup, please click on "Review permissions" and login. with your Google credentials.
+
+![CleanShot 2021-05-24 at 17 16 56](https://user-images.githubusercontent.com/21277749/119371275-8b2d3e80-bcb6-11eb-99ae-396df3175080.png)
+
 
 * In the "Execution log" below the script, you can follow what the script is doing.
 * Don't get nervous if you get a lot of error messages. These are your pages with not enough CrUX data (most likely, only 5% of your pages will have CrUX data)
