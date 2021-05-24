@@ -20,7 +20,10 @@ The Google Search Console works with the same data but needs more time to proces
 Read this great article from Barry Pollard to learn more about it:
 [An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/)
 
-## Generate your free CruX API Key
+
+## Generate your free CrUX API Key
+
+To be able to use the CrUX API you have to generate a key first:
 
 ### Open the website
 
@@ -73,75 +76,54 @@ Value: The API key you created before
 ![CleanShot 2021-05-23 at 19 01 07](https://user-images.githubusercontent.com/21277749/119270755-77be9c80-bbfe-11eb-9093-d4f608a0c315.png)
 
 
-## Get a list of all page URLs
+## Add URLs
+
+There are two ways to add your page URLs:
+* Add one or multiple sitemaps (recommended)
+* Add URLs manually
+
+
+### Add Sitemap(s)
+
+* Most websites have a sitemap.xml in their root directory. Try to open the sitemap.xml in your browser `https://site-domain.com/sitemap.xml`
+* If you are not lucky, you might find their location in the robots.txt file: `https://site-domain.com/robots.txt`
+* If you are still not lucky, you have to add the URLs manually or create a sitemap.xml first.
+
+This script loops through the sitemaps and checks all URLs.
+The following Sitemap structure is expected: `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>`
+
+```
+const SITEMAPS = [
+  'https://www.netcentric.biz/sitemap.xml'
+];
+```
+
+### Add URL(s)
+
+* 
+
+```
+const URLS = [
+  'https://www.netcentric.biz/',
+  'https://www.netcentric.biz/career',
+  'https://www.netcentric.biz/blog'
+];
+```
 
 For the next step, you need a list of the URLs of all pages of your website.
 For most pages, a manual approach would take forever. Therefore we automate it.
 
-### Find your sitemap.xml
 
-* Most websites have a sitemap.xml in their root directory. Try to open the sitemap.xml in your browser `https://site-domain.com/sitemap.xml`
-* If you are not lucky, you might find them linked in the robots.txt file: `https://site-domain.com/robots.txt`
-* If you are still not lucky, add the URLs manually or create a sitemap.xml first.
-
-
-### Extract the URLs from your sitemap.xml
-
-#### Open the sitemap.xml in your browser `https://site-domain.com/sitemap.xml`
-
-![CleanShot 2021-05-23 at 18 33 29](https://user-images.githubusercontent.com/21277749/119269027-e3503c00-bbf5-11eb-85aa-3e40f2255197.png)
-
-#### Open your Chrome Developer Tools (⌥ + ⌘ + i) and open the "Console"
-
-#### Copy & Paste the following script in your console and hit enter
-
-The script copies the URL list automatically into your clipboard - so you don't have to copy them.
-
-Script:
-
-```
-var output = '';
-var urls = document.getElementsByTagName('url');
-    
-for (var i = 0; i < urls.length; i++) {
-  var urlElement = urls[i];
-  var loc = urlElement.getElementsByTagName('loc')[0].textContent;
-
-  output += `'${loc}',\n`;
-}
-
-output = output.replace(/,\n\s*$/, "");
-
-console.log(output);
-
-copy(output);
-```
-
-![CleanShot 2021-05-23 at 20 02 09](https://user-images.githubusercontent.com/21277749/119271624-9aeb4b00-bc02-11eb-9324-e888261b3b02.png)
-
-## Add the URLs to the script, save the script, and switch back to the new editor
-
-Go back to the Google Sheet script and position your cursor between the brackets `const URLs = [|]`.
-Then paste the URL list (⌘ + V).
-
-![CleanShot 2021-05-23 at 20 25 01](https://user-images.githubusercontent.com/21277749/119272481-64afca80-bc06-11eb-80d5-11594f63d4b0.png)
-
-Feel free to delete or add additional URLs manually.
-Just be careful not to introduce any format errors: `'https://www.domain.com/page',` (the last entry must have no comma)
-
-
-#### Add the Origins (optional)
-
-**Tip:** Add the origins without the trailing slash to not confuse them with the home page.
+## Add Origin(s)
 
 ```
 const ORIGINS = [
-  'https://www.netcentric.biz'
+  'https://www.netcentric.biz/'
 ];
 ```
 
 
-#### Configure the form factors (optional)
+### Configure the form factors (optional)
 
 For each form factor, the URL and ORIGINS list will be looped.
 To fasten the process, you can, for example, only check the phone data.
@@ -189,10 +171,15 @@ If you see the message "Execution completed" in the execution logs the Google Sh
 * Yellow: At least one Core Vital needs improvement
 * Red: At least one Core Web Vital is poor
 
+#### P75 FCP (G)
+* Green: <= 2,000
+* Yellow: In between
+* Red: > 4,000
+
 #### P75 LCP (G)
 * Green: <= 2,500
 * Yellow: In between
-* Red: > 4,500
+* Red: > 4,000
 
 #### P75 FID (K)
 * Green: <= 100
