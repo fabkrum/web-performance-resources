@@ -18,6 +18,7 @@ You get the 75 percentile of the last 28 days for each Core Web Vital.
 The Google Search Console works with the same data but needs more time to process the data.
 
 Read this great article from Barry Pollard to learn more about it:
+
 [An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/)
 
 
@@ -76,17 +77,23 @@ Value: The API key you created before
 ![CleanShot 2021-05-23 at 19 01 07](https://user-images.githubusercontent.com/21277749/119270755-77be9c80-bbfe-11eb-9093-d4f608a0c315.png)
 
 
-## Add Pages
+### Swtich back to the new editor
 
-There are two ways to add your page URLs:
+![CleanShot 2021-05-24 at 14 55 13](https://user-images.githubusercontent.com/21277749/119350916-2cf56100-bca0-11eb-9691-49a5e0b04651.png)
+
+
+## Add URLs
+
+### There are two ways to add your page URLs:
 * Add one or multiple sitemaps (recommended)
 * Add URLs manually
 
-You can use both at the same time.
+You can use both methods at the same time.
 
-![CleanShot 2021-05-24 at 14 37 00](https://user-images.githubusercontent.com/21277749/119349642-ab510380-bc9e-11eb-8bb4-326da77d2111.png)
-
-
+### Use the right format:
+* If you don't want to add data ignore the field, and keep the empty brackets `const URLS = [];`.
+* All URLs have to be surrounded by single quotes `'https://www.your-domain.com/'`
+* If you you want to add multiple URLS, add a comma at the end of the line `'https://www.your-domain.com/blog',`
 
 ### Add Sitemap(s) - optional
 
@@ -153,11 +160,11 @@ const FORM_FACTORS = [
 
 ## Run the script
 
-Before you run the script make sure you saved your changes.
+![CleanShot 2021-05-24 at 14 37 00](https://user-images.githubusercontent.com/21277749/119349642-ab510380-bc9e-11eb-8bb4-326da77d2111.png)
 
 **Warning:** Depending on your configuration and the number of pages your site has, this can take some time (250ms per URL).
 
-* In the script log, you can follow what the script is doing.
+* In the script log, you can follow what the script is doing - after every 100 checks you see an info entry.
 * Don't be surprised if most of your pages (~95%) will throw an error – these pages have not enough CrUX data.
 * The script adds all pages with enough data to the Google Sheet.
 
