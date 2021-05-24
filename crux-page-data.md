@@ -98,6 +98,9 @@ Value: The API key you created before
 ![CleanShot 2021-05-24 at 14 55 13](https://user-images.githubusercontent.com/21277749/119350916-2cf56100-bca0-11eb-9691-49a5e0b04651.png)
 
 
+![image](https://user-images.githubusercontent.com/21277749/119411155-3d322e00-bcea-11eb-93c5-dac234de2b7e.png)
+
+
 ## Run Mode
 
 The script has two run modes:
@@ -126,8 +129,6 @@ You can use both methods at the same time.
 * All URLs have to be surrounded by single quotes `'https://www.your-domain.com/'`
 * If you want to add multiple URLs, add a comma at the end of the line `'https://www.your-domain.com/blog',`
 * Don't add a comma after the last URL
-
-![image](https://user-images.githubusercontent.com/21277749/119411155-3d322e00-bcea-11eb-93c5-dac234de2b7e.png)
 
 
 ### Add Sitemap(s) - optional
