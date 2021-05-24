@@ -10,6 +10,11 @@ If there is not enough data available, the Core Web Vitals of the next bigger gr
 3. Origin = all pages of the website aggregated (see [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/))
 
 
+If you follow the steps in this document you will get a Google Sheet with the CrUX data for your page:
+
+
+
+
 ## CrUX API - What data do I get?
 
 The CrUX API is updated daily (between 8 am and 10 am in Europe).
@@ -159,6 +164,19 @@ To fasten the process, you might only want to check the mobile data:
 const FORM_FACTORS = [
   'PHONE'
 ];
+```
+
+## Configure timezone and formats (optinal)
+
+If needed you can easily change the timezone, the data, and the time format.
+The script is using the simple date format ([Simple Date Format Documentation](https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html))
+
+Default (Europe, Berlin):
+
+```
+const TIMEZONE = 'GMT+2';
+const DATEFORMAT = 'yyyy-MM-dd';
+const TIMEFORMAT = 'HH:mm:ss';
 ```
 
 ## Run the script
