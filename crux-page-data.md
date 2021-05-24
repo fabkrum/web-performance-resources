@@ -84,8 +84,11 @@ There are two ways to add your page URLs:
 
 You can use both at the same time.
 
+![CleanShot 2021-05-24 at 14 37 00](https://user-images.githubusercontent.com/21277749/119349642-ab510380-bc9e-11eb-8bb4-326da77d2111.png)
 
-### Add Sitemap(s)
+
+
+### Add Sitemap(s) - optional
 
 * Most websites have a sitemap.xml in their root directory. Try to open the sitemap.xml in your browser `https://site-domain.com/sitemap.xml`
 * If you are not lucky, you might find their location in the robots.txt file: `https://site-domain.com/robots.txt`
@@ -102,7 +105,7 @@ const SITEMAPS = [
 ];
 ```
 
-### Add URL(s)
+### Add URL(s) - optional
 
 * 
 
@@ -117,11 +120,10 @@ const URLS = [
 In the Google Sheet "Type" column URLs are called "Page (URL)".
 
 
-
-## Add Origin(s)
+## Add Origin(s) - optional
 
 The origin aggregates the Core Web Vitals from all pages of your site.
-To distiguish the home page and the origin youIn the Google Sheet "Type" column you can  are called "Origin".
+The origin is called "Origin" in the the Google Sheet "Type" column.
 
 ```
 const ORIGINS = [
@@ -131,14 +133,21 @@ const ORIGINS = [
 
 ## Configure the form factors (optional)
 
-For each form factor, the URL and ORIGINS list will be looped.
-To fasten the process, you can, for example, only check the phone data.
+For each form factor, the SITEMAP, URLS, and ORIGINS will be looped:
 
 ```
 const FORM_FACTORS = [
   'DESKTOP',
   'PHONE',
   'ALL_FORM_FACTORS'
+];
+```
+
+To fasten the process, you can, for example, only check the phone data:
+
+```
+const FORM_FACTORS = [
+  'PHONE'
 ];
 ```
 
