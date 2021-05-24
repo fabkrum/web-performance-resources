@@ -150,7 +150,7 @@ const FORM_FACTORS = [
 ];
 ```
 
-To fasten the process, you can, for example, only check the phone data:
+To fasten the process, you might only want to check the mobile data:
 
 ```
 const FORM_FACTORS = [
@@ -164,15 +164,16 @@ const FORM_FACTORS = [
 
 **Warning:** Depending on your configuration and the number of pages your site has, this can take some time (250ms per URL).
 
-* In the script log, you can follow what the script is doing - after every 100 checks you see an info entry.
-* Don't be surprised if most of your pages (~95%) will throw an error – these pages have not enough CrUX data.
+![CleanShot 2021-05-24 at 15 08 21](https://user-images.githubusercontent.com/21277749/119352796-69c25780-bca2-11eb-9691-179506409ee5.png)
+
+* In the "Execution log" below the script, you can follow what the script is doing.
+* Don't get nervous if you get a lot of error messages. These are your pages with not enough CrUX data (most likely only 5% of your pages will have CrUX data)
 * The script adds all pages with enough data to the Google Sheet.
+* After every 50 page checks you see a status info in the logs.
+* If you see the message "Execution completed" the Google Sheet is ready.
 
-![CleanShot 2021-05-23 at 20 47 09](https://user-images.githubusercontent.com/21277749/119272998-2a93f800-bc09-11eb-801b-b17e694db122.png)
 
-If you see the message "Execution completed" in the execution logs the Google Sheet is ready.
-
-![CleanShot 2021-05-23 at 21 03 10](https://user-images.githubusercontent.com/21277749/119273278-69767d80-bc0a-11eb-8a18-eea05e16a2a0.png)
+![CleanShot 2021-05-24 at 15 08 33](https://user-images.githubusercontent.com/21277749/119353300-008f1400-bca3-11eb-8f07-4b2f9f4315c7.png)
 
 
 ## Check the Google Sheet
@@ -214,5 +215,5 @@ If you see the message "Execution completed" in the execution logs the Google Sh
 Blue: Biggest segment for the metric
 
 ## Thanks to
-* [Rick Viscomi](https://twitter.com/rick_viscomi) for the original script
+* [Rick Viscomi](https://twitter.com/rick_viscomi) for the original script and feedback
 * [Barry Pollard](https://twitter.com/tunetheweb) for helping me to figure this all out
