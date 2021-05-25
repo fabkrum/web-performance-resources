@@ -115,6 +115,21 @@ The script has two run modes:
 var globalContinue = false;
 ```
 
+You can also manually set the start point (instead of the last row) where the script should continue.
+As this might be not an often used feature I added it in the "DO NOT CHANGE" area of the code.
+
+```
+// If you don't want the script to continue with the last row URL,
+// you can define the start point manually by setting all values.
+
+// Origin, Page (URL), Page (Sitemap)
+START_CONDITION.TYPE = '';
+// URL which exists in any Sitemap
+START_CONDITION.URL = '';
+// PHONE, DESKTOP, ALL_FORM_FACTORS
+START_CONDITION.FORM_FACTOR = '';
+```
+
 
 ## Add URLs
 
