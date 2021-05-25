@@ -238,6 +238,8 @@ This is not a Web Performance only Newsletter
 
 
 ### Network and Caching
+* [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/), Ivan Akulov, 05/2021
+ 
 * [Prefetching Heuristics](https://blog.mgechev.com/2021/02/07/prefetching-strategies-heuristics-faster-web-apps/), Minko Gechev, 02/2021
 
 * [Head-of-Line Blocking in QUIC and HTTP/3: The Details](https://github.com/rmarx/holblocking-blogpost), Robin Marx, 12/2020
