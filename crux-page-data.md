@@ -20,9 +20,10 @@ If there is not enough data available, the Core Web Vitals of the next bigger gr
 * The CrUX API is updated daily between 8 am and 10 am (GMT).
 
 More info:
-* [Chrome User Experience Report (CrUX)](https://developers.google.com/web/tools/chrome-user-experience-report)
+* [Ask Me Anything - Core Web Vitals, Google I/O 05/2021](https://github.com/fabkrum/web-performance-resources/blob/master/googleio-core-web-vitals-ama.md)
 * [An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/) by Barry Pollard
 * [Everything you need to know about Core Web Vitals](https://github.com/fabkrum/web-performance-resources/blob/master/web-perf-resource-list.md#core-web-vitals) (Articles, Videos, Tools)
+* [Chrome User Experience Report (CrUX)](https://developers.google.com/web/tools/chrome-user-experience-report)
 
 
 ## Limitations
