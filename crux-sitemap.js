@@ -46,10 +46,16 @@ var globalActive = true;
 const CrUXApiUtil = {};
 const START_CONDITION = {};
 
-// If you don't want the script to continue with the last row URL,
-// you can define the start point manually by setting all values.
+/**
+ * If you don't want the script to continue with the last row URL,
+ * you can define the start point manually by setting all values.
+ */
+
+// Origin, Page (URL), Page (Sitemap)
 START_CONDITION.TYPE = '';
+// URL which exists in any Sitemap
 START_CONDITION.URL = '';
+// PHONE, DESKTOP, ALL_FORM_FACTORS
 START_CONDITION.FORM_FACTOR = '';
 
 // Get your CrUX API key at https://goo.gle/crux-api-key.
@@ -109,7 +115,7 @@ function setStartCondition() {
   if (START_CONDITION.hasOwnProperty('TYPE') && START_CONDITION.TYPE
       && START_CONDITION.hasOwnProperty('URL') && START_CONDITION.URL
       && START_CONDITION.hasOwnProperty('FORM_FACTOR') && START_CONDITION.FORM_FACTOR) {
-    Logger.warning('Start Condition (Set by user): URL: ' + START_CONDITION.URL + ' / Type: ' + START_CONDITION.TYPE + ' / Form Factor: '+ START_CONDITION.FORM_FACTOR);  
+    Logger.warning('Start Condition (set by user): URL: ' + START_CONDITION.URL + ' / Type: ' + START_CONDITION.TYPE + ' / Form Factor: '+ START_CONDITION.FORM_FACTOR);  
   } else {
     var values = getLastEntry();
 
@@ -117,7 +123,7 @@ function setStartCondition() {
     START_CONDITION.URL = values[0][1];
     START_CONDITION.FORM_FACTOR = values[0][2];
 
-    Logger.warning('Start Condition (Last Row): URL: ' + START_CONDITION.URL + ' / Type: ' + START_CONDITION.TYPE + ' / Form Factor: '+ START_CONDITION.FORM_FACTOR);
+    Logger.warning('Start Condition (last row of Google Sheet): URL: ' + START_CONDITION.URL + ' / Type: ' + START_CONDITION.TYPE + ' / Form Factor: '+ START_CONDITION.FORM_FACTOR);
   }
 }
 
