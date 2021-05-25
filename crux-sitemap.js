@@ -43,8 +43,14 @@ var globalCounterChecked = 0;
 var globalCounterAdded = 0;
 var globalActive = true;
 
-const START_CONDITION = {};
 const CrUXApiUtil = {};
+const START_CONDITION = {};
+
+// If you don't want the script to continue with the last row URL,
+// you can define the start point manually by setting all values.
+START_CONDITION.TYPE = '';
+START_CONDITION.URL = '';
+START_CONDITION.FORM_FACTOR = '';
 
 // Get your CrUX API key at https://goo.gle/crux-api-key.
 // Set your CrUX API key at File > Project properties > Script properties (You have to use the legacy editor - link in top right corner)
@@ -99,13 +105,20 @@ function monitor() {
 }
 
 function setStartCondition() {
-  var values = getLastEntry();
+  
+  if (START_CONDITION.hasOwnProperty('TYPE') && START_CONDITION.TYPE
+      && START_CONDITION.hasOwnProperty('URL') && START_CONDITION.URL
+      && START_CONDITION.hasOwnProperty('FORM_FACTOR') && START_CONDITION.FORM_FACTOR) {
+    Logger.warning('Start Condition (Set by user): URL: ' + START_CONDITION.URL + ' / Type: ' + START_CONDITION.TYPE + ' / Form Factor: '+ START_CONDITION.FORM_FACTOR);  
+  } else {
+    var values = getLastEntry();
 
-  START_CONDITION.TYPE = values[0][0];
-  START_CONDITION.URL = values[0][1];
-  START_CONDITION.FORM_FACTOR = values[0][2];
+    START_CONDITION.TYPE = values[0][0];
+    START_CONDITION.URL = values[0][1];
+    START_CONDITION.FORM_FACTOR = values[0][2];
 
-  Logger.warning('Start Condition: URL: ' + START_CONDITION.URL + ' / Type: ' + START_CONDITION.TYPE + ' / Form Factor: '+ START_CONDITION.FORM_FACTOR);
+    Logger.warning('Start Condition (Last Row): URL: ' + START_CONDITION.URL + ' / Type: ' + START_CONDITION.TYPE + ' / Form Factor: '+ START_CONDITION.FORM_FACTOR);
+  }
 }
 
 function getLastEntry() {
@@ -122,7 +135,7 @@ function checkStartCondition(source, url, formFactor, type) {
     getCrUXData(source, url, formFactor, type);
     globalCounterChecked++;
     let percentAdded = Math.round((globalCounterAdded * 100 / globalCounterChecked) * 100) / 100;
-    Logger.info(globalCounterAdded + '/' + globalCounterChecked + ' (' + percentAdded + ' %) / URL: ' + url);
+    Logger.info(globalCounterAdded + '/' + globalCounterChecked + ' (' + percentAdded + '%) / ' + type + ' / ' + formFactor + ' / ' + url);
     Utilities.sleep(250);    
   }
 
