@@ -105,8 +105,8 @@ Value: The API key you created before
 ## Run Modes
 
 The script has two run modes:
-* `var globalContiue = false` (default): The script starts fresh from the beginning.
-* `var globalContiue = true`: The script checks the last row of your Google Sheet and continues with the next URL. You can use this mode if the script stopped for any reasons and you want to continue.
+* `var globalContinue = false` (default): The script starts fresh from the beginning.
+* `var globalContinue = true`: The script checks the last row of your Google Sheet and continues with the next URL. You can use this mode if the script stopped for any reasons and you want to continue.
 
 
 ```
