@@ -10,13 +10,14 @@
 // RUN MODE
 // true = script continues with the last url in the Google Sheet
 // false = script starts fresh from the beginning
-var globalContinue = false;
+var globalContinue = true;
 
 const SITEMAPS = [
   
 ];
-const URLS = [
 
+const URLS = [
+  
 ];
 const ORIGINS = [
   
@@ -42,6 +43,8 @@ const TIMEFORMAT = 'HH:mm:ss';
 var globalCounterChecked = 0;
 var globalCounterAdded = 0;
 var globalActive = true;
+var globalLeftTests = 0;
+var globalTotalTests;
 
 const CrUXApiUtil = {};
 const START_CONDITION = {};
@@ -84,13 +87,20 @@ CrUXApiUtil.query = function (requestBody) {
 };
 
 function monitor() {
+  var sitemaps = getSitemaps();
+  var sitemapUrls = getSitemapUrls(sitemaps);
+  var uniqSitemapUrls = [...new Set(sitemapUrls)];
+  uniqSitemapUrls.sort();
+  globalTotalTests = getNumberOfTests(uniqSitemapUrls.length);
+
   if (globalContinue === true) {
-    Logger.warning('RUN MODE: The script continues where it stopped last time');
+    Logger.info('RUN MODE: The script continues where it stopped last time');
     setStartCondition();
     globalActive = false;    
   } else {
-    Logger.warning('RUN MODE: The script starts fresh');
-  }
+    Logger.info('RUN MODE: The script starts fresh');
+    Logger.info(globalTotalTests.toLocaleString() + ' CrUX API Calls are required. Estimated time: ' + getEstimatedTestTime(globalTotalTests) + ' minutes');
+  } 
 
   FORM_FACTORS.forEach(function(formFactor) {
     ORIGINS.forEach(function(origin) {
@@ -99,15 +109,90 @@ function monitor() {
     URLS.forEach(function(url) {
       checkStartCondition('url', url, formFactor, 'Page (URL)');      
     });
-    SITEMAPS.forEach(function(sitemap){            
-        var xml = getSitemap(sitemap);
-        var urls = getSitemapUrls(xml);
-    
-        urls.forEach(function(url){
-            checkStartCondition('url', url, formFactor, 'Page (Sitemap)');            
-        });
+    uniqSitemapUrls.forEach(function(url){            
+      checkStartCondition('url', url, formFactor, 'Page (Sitemap)');        
     });
   });
+}
+
+function getEstimatedTestTime(numberOfTests){
+  var milliseconds = 250 * numberOfTests;
+
+  return millisToMinutesAndSeconds(milliseconds); 
+}
+
+function millisToMinutesAndSeconds(millis) {
+  var minutes = Math.floor(millis / 60000);
+  var seconds = ((millis % 60000) / 1000).toFixed(0);
+  return minutes + ":" + (seconds < 10 ? '0' : '') + seconds;
+}
+
+function getNumberOfTests(sitemapUrls) {
+  var numberOfUrls = sitemapUrls + URLS.length + ORIGINS.length;
+  var numberOfFormFactors = FORM_FACTORS.length;
+
+  return numberOfFormFactors * numberOfUrls;
+}
+
+function getSitemaps() {
+    var maps = [];
+
+    if (!SITEMAPS.length) {
+        return maps;
+    }
+
+    SITEMAPS.forEach(function(map) {
+        var entries = getSitemapEntries(map, 'sitemap');
+        
+        // Add all sitemaps from index
+        if (entries.length) {
+            maps.push(...entries);
+        // Add a single sitemap
+        } else {
+            maps.push(map);
+        }
+    });
+
+    return maps;
+}
+
+function getSitemapUrls(maps) {  
+    var urls = [];
+    
+    maps.forEach(function(map) {      
+        var entries = getSitemapEntries(map, 'url');
+       
+        if (entries.length) {        
+            urls.push(...entries);
+        }
+    });
+  
+    return urls;
+}
+
+function getSitemapEntries(url, type) {    
+    try {          
+      var xml = UrlFetchApp.fetch(url,{muteHttpExceptions:true}).getContentText();                  
+      var document = XmlService.parse(xml);
+      var root = document.getRootElement();
+      var namespace = root.getNamespace().getURI();
+      var sitemapNameSpace = XmlService.getNamespace(namespace);
+      var entries = root.getChildren(type, sitemapNameSpace);
+      var locs = [];
+      for (var i = 0; i < entries.length; i++) {          
+        locs.push(entries[i].getChild('loc', sitemapNameSpace).getText());
+      }
+
+      return locs;
+
+    } catch(e) {
+      console.log(e)
+      if (e.toString().includes("The markup in the document preceding the root element must be well-formed")) {
+        return "Parsing error: is this a valid XML sitemap?";
+      } else {
+        return e.toString()     
+      }
+    }
 }
 
 function setStartCondition() {
@@ -115,7 +200,7 @@ function setStartCondition() {
   if (START_CONDITION.hasOwnProperty('TYPE') && START_CONDITION.TYPE
       && START_CONDITION.hasOwnProperty('URL') && START_CONDITION.URL
       && START_CONDITION.hasOwnProperty('FORM_FACTOR') && START_CONDITION.FORM_FACTOR) {
-    Logger.warning('Start Condition (set by user): URL: ' + START_CONDITION.URL + ' / Type: ' + START_CONDITION.TYPE + ' / Form Factor: '+ START_CONDITION.FORM_FACTOR);  
+    Logger.info('Start Condition (set by user): URL: ' + START_CONDITION.URL + ' / Type: ' + START_CONDITION.TYPE + ' / Form Factor: '+ START_CONDITION.FORM_FACTOR);  
   } else {
     var values = getLastEntry();
 
@@ -123,7 +208,7 @@ function setStartCondition() {
     START_CONDITION.URL = values[0][1];
     START_CONDITION.FORM_FACTOR = values[0][2];
 
-    Logger.warning('Start Condition (last row of Google Sheet): URL: ' + START_CONDITION.URL + ' / Type: ' + START_CONDITION.TYPE + ' / Form Factor: '+ START_CONDITION.FORM_FACTOR);
+    Logger.info('Start Condition (last row of Google Sheet): URL: ' + START_CONDITION.URL + ' / Type: ' + START_CONDITION.TYPE + ' / Form Factor: '+ START_CONDITION.FORM_FACTOR);
   }
 }
 
@@ -136,45 +221,28 @@ function getLastEntry() {
 }
 
 function checkStartCondition(source, url, formFactor, type) {
+  var numberOfTests;
 
   if (globalActive === true) {
     getCrUXData(source, url, formFactor, type);
     globalCounterChecked++;
     let percentAdded = Math.round((globalCounterAdded * 100 / globalCounterChecked) * 100) / 100;
-    Logger.info(globalCounterAdded + '/' + globalCounterChecked + ' (' + percentAdded + '%) / ' + type + ' / ' + formFactor + ' / ' + url);
+    Logger.info(globalCounterAdded.toLocaleString() + '/' + globalCounterChecked.toLocaleString() + ' (' + percentAdded + '%) / ' + type + ' / ' + formFactor + ' / ' + url);
     Utilities.sleep(250);    
   }
 
-  if (globalActive === false) {      
+  if (globalActive === false) { 
+      globalLeftTests++;     
       if (url === START_CONDITION.URL
             && formFactor === START_CONDITION.FORM_FACTOR
             && type === START_CONDITION.TYPE) {
         globalActive = true;
-        Logger.warning('The start condition has occurred. The script continues now with the new URLs.');
+        numberOfTests = globalTotalTests - globalLeftTests;
+        Logger.info(numberOfTests.toLocaleString() + ' CrUX API Calls are required. Estimated time: ' + getEstimatedTestTime(numberOfTests) + ' minutes');
       } 
   }
 
   return;
-}
-
-function getSitemap(sitemap) {
-  var xml = UrlFetchApp.fetch(sitemap).getContentText();
-  
-  return xml;
-}
-
-function getSitemapUrls(xml) {  
-  var urls = [];
-  var document = XmlService.parse(xml);
-  var root = document.getRootElement();
-  var sitemaps = XmlService.getNamespace('http://www.sitemaps.org/schemas/sitemap/0.9');
-  var entries = root.getChildren('url', sitemaps);
-
-  for (var i = 0; i < entries.length; i++) {    
-    urls.push(entries[i].getChild('loc', sitemaps).getText());
-  }
-
-  return urls;
 }
 
 function getCrUXData(key, value, formFactor, source) {
