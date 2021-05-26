@@ -352,6 +352,8 @@ This is not a Web Performance only Newsletter
 * [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/), Jason Grigsby, 03/2015
 
 ### Web Fonts
+* [A New Way To Reduce Font Loading Impact: CSS Font Descriptors](https://www.smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/), Barry Pollard, 05/2021
+
 * [5 steps to faster web fonts](https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/), Iain Bean, 05/2021
 
 * [The importance of `@font-face` source order when used with preload](https://nooshu.github.io/blog/2021/01/23/the-importance-of-font-face-source-order-when-used-with-preload/), Matt Hobbs, 01/2021
@@ -1155,6 +1157,10 @@ Find the CDN which is right for you.
 
 
 #### Fonts
+
+* [Autmatic Font Matching](https://deploy-preview-15--upbeat-shirley-608546.netlify.app/perfect-ish-font-fallback/?font=Montserrat)
+
+* [Font-Face Descriptor Playground](https://codepen.io/simonjhearne/pen/rNMGJyr)
 
 * [Font Style Matcher](https://meowni.ca/font-style-matcher/)
 If you use font-display: swap this tool is great to make sure the fallback font looks as similar as possible to avoid major layout changes once the web font is loaded and swapped.
