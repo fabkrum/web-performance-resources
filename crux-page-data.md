@@ -131,7 +131,6 @@ START_CONDITION.URL = '';
 START_CONDITION.FORM_FACTOR = '';
 ```
 
-
 ## Add URLs
 
 ### There are two ways to add your page URLs:
@@ -153,17 +152,14 @@ You can use both methods at the same time.
 * If you are not lucky, you might find their location in the robots.txt file: `https://site-domain.com/robots.txt`
 * If you are still not lucky, add the URLs manually or create a sitemap.xml first.
 
-**Important:** The script doesn't work with sitemap-index.xml (a sitemap.xml which links to multiple sitemaps.xml).
-You can open the sitemap-index.xml in your browser and copy&paste the sitemaps you want use.
-I recommended to create an extra Google Sheet for each market/country - otherwise you might hit the limits of the Google Sheets or the CrUX API.
-
-This script loops through the sitemaps and checks all URLs.
-The following sitemap structure is expected: `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>`
+Larger sites often use a sitemapindex.xml which links to multiple sitemap.xml files.
+If the script detects index pages it collects the urls of all linked sitemaps.
 
 In the Google Sheet "Type" column, sitemap entries are named: "Page (Sitemap)".
 
 ```
 const SITEMAPS = [
+  'https://www.netcentric.biz/sitemapindex.xml',
   'https://www.netcentric.biz/sitemap.xml'
 ];
 ```
