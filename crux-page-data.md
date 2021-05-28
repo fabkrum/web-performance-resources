@@ -20,6 +20,7 @@ If there is not enough data available, the Core Web Vitals of the next bigger gr
 * The CrUX API is updated daily between 8 am and 10 am (GMT).
 
 More info:
+* [Core Web Vitals - The final Countdown](https://www.netcentric.biz/insights/2021/05/core-web-vitals.html) by Fabian Krumbholz
 * [Ask Me Anything - Core Web Vitals, Google I/O 05/2021](https://github.com/fabkrum/web-performance-resources/blob/master/googleio-core-web-vitals-ama.md)
 * [An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/) by Barry Pollard
 * [Everything you need to know about Core Web Vitals](https://github.com/fabkrum/web-performance-resources/blob/master/web-perf-resource-list.md#core-web-vitals) (Articles, Videos, Tools)
@@ -31,10 +32,10 @@ More info:
 The script will stop latest after 30 minutes. You will see the following error message in the execution log: "Exceeded maximum execution time"
 If you see this error message, you can change the script run mode. Set the globalContinue variable to true `var globalContinue = true;`.
 In this mode the script will check the URL in the last row of your Google Sheet and continues automatically with the next URL.
+To check on URL takes ~700ms. When you start the script you will see an info with the number of URL which will be checked and the time approximately needed.
 
 Google Sheets have a limitation of 5.000.000 cells, which translates to ~ 235.000 rows.
 Usually only 5-10% of your pages have enough traffic for the CrUX data set. Therefore this solution should also work for very big pages.
-
 
 
 ## Generate your free CrUX API Key
