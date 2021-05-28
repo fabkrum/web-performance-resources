@@ -153,6 +153,8 @@ You can use both methods at the same time.
 * If you are not lucky, you might find their location in the robots.txt file: `https://site-domain.com/robots.txt`
 * If you are still not lucky, add the URLs manually or create a sitemap.xml first.
 
+![image](https://user-images.githubusercontent.com/21277749/119967571-c8424b00-bfac-11eb-9940-a996dac2cb57.png)
+
 Larger sites often use a sitemapindex.xml which links to multiple sitemap.xml files.
 If the script detects index pages it collects the urls of all linked sitemaps.
 
