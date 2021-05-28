@@ -151,9 +151,8 @@ You can use both methods at the same time.
 
 * Most websites have a sitemap.xml in their root directory. Try to open the sitemap.xml in your browser `https://site-domain.com/sitemap.xml`
 * If you are not lucky, you might find their location in the robots.txt file: `https://site-domain.com/robots.txt`
+![image](https://user-images.githubusercontent.com/21277749/119967745-faec4380-bfac-11eb-8025-95dd2572a54d.png)
 * If you are still not lucky, add the URLs manually or create a sitemap.xml first.
-
-![image](https://user-images.githubusercontent.com/21277749/119967571-c8424b00-bfac-11eb-9940-a996dac2cb57.png)
 
 Larger sites often use a sitemapindex.xml which links to multiple sitemap.xml files.
 If the script detects index pages it collects the urls of all linked sitemaps.
