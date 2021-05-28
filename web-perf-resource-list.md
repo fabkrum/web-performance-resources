@@ -827,6 +827,8 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 
 ### Image and Video
 
+* [Progressively loading images - HTTP 203](https://www.youtube.com/watch?v=-7k3H2GxE5E), Jake Archibald & Surma, 05/2021
+
 * [SVG Will Save Us](https://www.youtube.com/watch?v=sxte3WpyO60), Sarah Drasner, 04/2019, perfmatters
 
 * [Building Modern Web Media Experiences: Picture-in-Picture and AV1 (Chrome Dev Summit 2018)](https://www.youtube.com/watch?v=iTC3mfe0DwE), François Beaufort/Angie Chiang, 11/2018
@@ -840,6 +842,7 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 * [High Performance Images: Beautiful Shouldn’t Mean Slow](https://www.youtube.com/watch?v=7zgd2OjSoS8), Guy Podjarny, 12/2015
 
 ### Development
+
 * [Transitioning to modern JavaScript](https://www.youtube.com/watch?v=cLxNdLK--yI) ([Article](https://web.dev/publish-modern-javascript/)), Houssein Djirdeh, Jason Miller, Chrome Dev Summit 2020, 12/2020
 
 * [When JavaScript Bytes](https://www.youtube.com/watch?v=JvJ0v5OohNg) ([Slides](https://noti.st/tkadlec/MC0Bvy/when-javascript-bytes)), Tim Kadlec, 11/2019
