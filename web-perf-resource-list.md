@@ -7,6 +7,13 @@
 ## Table of Contents
 
 * [Stay up to date](#stay-up-to-date)
+    + [Community & Social Media](#community-&-social-media)
+    + [Newsletter](#newsletter)
+    + [Blogs](#blogs)
+    + [Web Performance Meetups](#web-performance-meetups)
+    + [Conferences](#conferences)
+    + [Meetups](#meetups)
+    + [Podcasts](#podcasts)
 * [Core Web Vitals](#core-web-vitals)
 * [Articles](#articles)
     + [General](#general)
@@ -35,7 +42,6 @@
     + [Development](#development)
     + [Meta](#meta)
 * [Books](#books)
-* [Podcasts](#podcasts)
 * [Tools](#tools)
     + [Free tools and services](#free-tools-and-services)
         + [Webpagetest](#webpagetest)
@@ -51,8 +57,6 @@
 * [Studies](#studies)
 * [Case studies](#case-studies)
 * [Open data sources](#open-data-sources)
-* [Web Performance Meetups](#web-performance-meetups)
-* [Conferences](#conferences)
 * [W3C Standards](#w3c-standards)
 
 ## Legend
@@ -68,33 +72,110 @@
 
 ## Stay up to date
 
+
+### Community & Social Media
+
 * This [Web Performance Twitter-List](https://twitter.com/fabkru/lists/web-performance) makes it easy for you to follow all the web performance authors, speakers, and evangelists at once - 📚
+
+* Twitter: [#webperf](https://twitter.com/search?q=%23webperf), [#perfmatters](https://twitter.com/search?q=%23perfmatters)
 
 * [Web performance Slack channel ](https://webperformance.herokuapp.com/) - 📚
 Slack channel which is focusing on web performance with more than 1.400 members
 
-* [Planet Performance](http://www.perfplanet.com/)
-Overview of performance related blogs
+* [WebPageTest - Twitch](https://www.twitch.tv/webpagetest)
 
-* [Dev Tips](https://umaar.com/dev-tips/), Umar Hansa, weekly
-Great resource to learn the newest Chrome Dev Tools tips and tricks
+* [WebPerf Working Group Meetings](https://www.youtube.com/playlist?list=PL5b8e1JT2i4a3PqaF4a6tVfqZela-pSky), Understand what topics are discussed and be prepared for what is coming in the future
 
-* [Medium articles about web performance](https://medium.com/tag/web-performance/latest)
 
-* Twitter: [#webperf](https://twitter.com/search?q=%23webperf), [#perfmatters](https://twitter.com/search?q=%23perfmatters)
-
-* [The speed of thought - Posts from the Performance Team at Wikimedia](https://phabricator.wikimedia.org/phame/blog/view/7/)
+### Newsletter
 
 * [Perf.email by Calibre](https://calibreapp.com/newsletter), The newsletter contains mainly web performance articles which are not directly connected with their product. Therefore I can recommend to follow it.
 
-* [Maximiliano Firtman's Newsletter](https://firt.dev/newsletter/)
+* [Web performance newsletter](https://marcradziwill.com/newsletter/) weekly web performance newsletter by [Marc Radziwill](https://marcradziwill.com/)
+
+* [WPRocket](https://wp-rocket.me/newsletter/)
 
 * [Smashing Magazine Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
 This is not a Web Performance only Newsletter
 
-* [Web performance newsletter](https://marcradziwill.com/newsletter/) weekly web performance newsletter by [Marc Radziwill](https://marcradziwill.com/)
+* [Maximiliano Firtman's Newsletter](https://firt.dev/newsletter/)
 
-* [WebPerf Working Group Meetings](https://www.youtube.com/playlist?list=PL5b8e1JT2i4a3PqaF4a6tVfqZela-pSky), Understand what topics are discussed and be prepared for what is coming in the future
+* [Dev Tips](https://umaar.com/dev-tips/), Umar Hansa, weekly
+Great resource to learn the newest Chrome Dev Tools tips and tricks
+
+
+### Blogs
+
+* [WebPageTest Blog](https://blog.webpagetest.org/)
+
+* [Calibre Blog](https://calibreapp.com/blog)
+
+* [Harry Roberts](https://csswizardry.com/archive/)
+
+* [Andy Davies](https://andydavies.me/)
+
+* [Matt Hobbs](https://nooshu.github.io/blog/)
+
+* [Simon Hearne](https://simonhearne.com/)
+
+* [Barry Pollard](https://www.tunetheweb.com/blog/)
+
+* [Addy Osmani](https://medium.com/@addyosmani)
+
+* [3Perf](https://3perf.com/content)
+
+* [Planet Performance](http://www.perfplanet.com/)
+Overview of performance related blogs
+
+* [Medium articles about web performance](https://medium.com/tag/web-performance/latest)
+
+* [The speed of thought - Posts from the Performance Team at Wikimedia](https://phabricator.wikimedia.org/phame/blog/view/7/)
+
+
+### Podcasts
+* [Chasing Waterfalls - Tim Kadlec](https://chasingwaterfalls.io/)
+
+* [Planet Performance Podcast - Stoyan Stefanov](https://podcast.perfplanet.com/)
+
+
+### Web Performance Meetups
+
+Look for a performance Meetup group close to where you live. This is a great opportunity to share and discuss ideas with other performance experts. Here are some groups close to our offices:
+
+* Barcelona: [https://www.meetup.com/Barcelona-Web-Performance/](https://www.meetup.com/Barcelona-Web-Performance/)
+
+* Berlin: [https://www.meetup.com/Berlin-Web-Performance-Group/](https://www.meetup.com/Berlin-Web-Performance-Group/)
+
+* London: [https://ldnwebperf.org/](https://ldnwebperf.org/)
+
+* Munich: [https://www.meetup.com/Munchen-Web-Performance-Group/](https://www.meetup.com/Munchen-Web-Performance-Group/)
+
+* New York City [https://www.meetup.com/Web-Performance-NY/](https://www.meetup.com/Web-Performance-NY/)
+
+* Toronto: [https://www.meetup.com/Toronto-Web-Performance-Group/](https://www.meetup.com/Toronto-Web-Performance-Group/)
+
+
+### Conferences
+
+This are all conferences with a strong focus on web performance.
+They all have a very good lineup:
+
+* [Lazy Load 2021](https://www.webdirections.org/lazyload/)
+  (May 21 & 28, online event, Ticket: Starting at 119 USD)
+
+* [#perfMatters](https://perfmattersconf.com/) / [Twitter](https://twitter.com/perfmattersconf)
+(Ticket: Blind Bird $239 — Conference & Workshop: $748)
+27–28 March, 2018, Redwood City, California, USA
+
+* [DeltaV](https://2018.deltavconf.com/) / [Twitter](https://twitter.com/deltavconf)
+(Ticket: Early bird £399 + VAT)
+10–11 May 2018, London, UK
+
+* [Performance.now()](https://perfnow.nl/) / [Twitter](https://twitter.com/perfnowconf)
+(Ticket: 550 EUR + VAT)
+8–9 November 2018, Amsterdam, Netherland
+
+* [We love speed](https://www.welovespeed.com/), Bordeaux, France – Not very international, most of the talks are French
 
 
 ## Core Web Vitals
@@ -948,14 +1029,12 @@ This book is a classic.
 * [Even Faster Web Sites](http://shop.oreilly.com/product/9780596522315.do), Steve Souders, O’Reilly, 07/2009
 Another classic book.
 
-## Podcasts
-* [Chasing Waterfalls - Tim Kadlec](https://chasingwaterfalls.io/)
-
-* [Planet Performance Podcast - Stoyan Stefanov](https://podcast.perfplanet.com/)
-
 ## Tools
 
 ### Free tools and services
+
+* [Chcr.co](https://chckr.co/)
+Check Your Site Across Leading Website Testing Tools
 
 #### WebPageTest
 
@@ -1211,7 +1290,6 @@ A visualization tool that helps understand relationship between page speed, conv
 Compare your page speed at keyword level with the rest
 
 
-
 ### Paid tools and services
 
 These are professional tools which cost money. The cost are usually depends on traffic, server or data.
@@ -1361,50 +1439,6 @@ Browser stats, Network latency between regions
 * [Ofcom.org.uk](https://www.ofcom.org.uk/research-and-data)
 
 * [Global Internet Speed](https://www.speedtest.net/global-index)
-
-
-## Web Performance Meetups
-
-Look for a performance Meetup group close to where you live. This is a great opportunity to share and discuss ideas with other performance experts. Here are some groups close to our offices:
-
-* Barcelona: [https://www.meetup.com/Barcelona-Web-Performance/](https://www.meetup.com/Barcelona-Web-Performance/)
-
-* Berlin: [https://www.meetup.com/Berlin-Web-Performance-Group/](https://www.meetup.com/Berlin-Web-Performance-Group/)
-
-* London: [https://ldnwebperf.org/](https://ldnwebperf.org/)
-
-* Munich: [https://www.meetup.com/Munchen-Web-Performance-Group/](https://www.meetup.com/Munchen-Web-Performance-Group/)
-
-* New York City [https://www.meetup.com/Web-Performance-NY/](https://www.meetup.com/Web-Performance-NY/)
-
-* Toronto: [https://www.meetup.com/Toronto-Web-Performance-Group/](https://www.meetup.com/Toronto-Web-Performance-Group/)
-
-
-## Conferences
-
-This are all conferences with a strong focus on web performance.
-They all have a very good lineup:
-
-* [Lazy Load 2021](https://www.webdirections.org/lazyload/)
-  (May 21 & 28, online event, Ticket: Starting at 119 USD)
-
-* [Smashing Conference London 2018](https://smashingconf.com/london-2018/)
-(Ticket: Early Bird: $499 — Conference & Workshop: $922)
-07–08 February 2018, London, UK
-
-* [#perfMatters](https://perfmattersconf.com/) / [Twitter](https://twitter.com/perfmattersconf)
-(Ticket: Blind Bird $239 — Conference & Workshop: $748)
-27–28 March, 2018, Redwood City, California, USA
-
-* [DeltaV](https://2018.deltavconf.com/) / [Twitter](https://twitter.com/deltavconf)
-(Ticket: Early bird £399 + VAT)
-10–11 May 2018, London, UK
-
-* [Performance.now()](https://perfnow.nl/) / [Twitter](https://twitter.com/perfnowconf)
-(Ticket: 550 EUR + VAT)
-8–9 November 2018, Amsterdam, Netherland
-
-* [We love speed](https://www.welovespeed.com/), Bordeaux, France – Not very international, most of the talks are French
 
 
 ## W3C Standards
