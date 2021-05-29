@@ -124,6 +124,8 @@ Great resource to learn the newest Chrome Dev Tools tips and tricks
 
 * [3Perf](https://3perf.com/content)
 
+* [Marc Radziwill](https://marcradziwill.com/blog/)
+
 * [Planet Performance](http://www.perfplanet.com/)
 Overview of performance related blogs
 
