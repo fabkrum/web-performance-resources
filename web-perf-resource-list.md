@@ -7,7 +7,7 @@
 ## Table of Contents
 
 * [Stay up to date](#stay-up-to-date)
-    + [Community & Social Media](#community-&-social-media)
+    + [Community & Social Media](#community--social-media)
     + [Newsletter](#newsletter)
     + [Blogs](#blogs)
     + [Web Performance Meetups](#web-performance-meetups)
