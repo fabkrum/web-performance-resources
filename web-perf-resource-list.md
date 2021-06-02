@@ -182,6 +182,8 @@ They all have a very good lineup:
 
 ## Core Web Vitals
 
+* [How To Fix Cumulative Layout Shift (CLS) Issues](https://www.smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/), Barry Pollard, 06/2021
+
 * [Core Web Vitals Tracking via GA4, BigQuery and Google Data Studio](https://bigcommerce.websiteadvantage.com.au/core-web-vitals-ga4-bigquery-data-studio/), Tony McCreath, 06/2021
 
 * [Core Web Vitals – The Final Countdown](https://www.netcentric.biz/insights/2021/05/core-web-vitals.html), Fabian Krumbholz, 05/2021
