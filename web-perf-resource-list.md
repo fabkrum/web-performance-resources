@@ -182,6 +182,8 @@ They all have a very good lineup:
 
 ## Core Web Vitals
 
+* [Core Web Vitals Tracking via GA4, BigQuery and Google Data Studio](https://bigcommerce.websiteadvantage.com.au/core-web-vitals-ga4-bigquery-data-studio/), Tony McCreath, 06/2021
+
 * [Core Web Vitals – The Final Countdown](https://www.netcentric.biz/insights/2021/05/core-web-vitals.html), Fabian Krumbholz, 05/2021
 
 * [How to get your page Core Web Vitals from the CrUX API](https://github.com/fabkrum/web-performance-resources/blob/master/crux-page-data.md), Fabian Krumbholz, 05/2021
@@ -1104,8 +1106,13 @@ A node CLI script to grab Largest Contentful Paint, First Input Delay & Cumulati
 
 * [Cumulative Layout Shift Debugger](https://webvitals.dev/cls): Visualise the Cumulative Layout Shift (CLS) to identify what needs improving on mobile and/or desktop in the initial load of a website.
 
+* [Batch Speed: Bulk speed test multiple urls using Google's Page Speed checker](https://batchspeed.com/)
 
-#### Images
+
+#### Images & Video
+
+* [AVPress](https://avpress.zaps.dev/)
+Compress & resize videos in the browser thanks to WebAssembly and FFMPEG.WASM.
 
 * [Squoosh](https://squoosh.app)
 Upload an image and compare the original with different compressed version to find a good balance between filesize and image quality. – 🚀 
