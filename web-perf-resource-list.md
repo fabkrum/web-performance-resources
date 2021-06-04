@@ -327,6 +327,9 @@ They all have a very good lineup:
 
 
 ### Network and Caching
+
+* [Conditional HTTP GET: The fastest requests need no response body](https://ieftimov.com/post/conditional-http-get-fastest-requests-need-no-response-body/), Ilija Eftimov, 06/2021
+
 * [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/), Ivan Akulov, 05/2021
  
 * [Prefetching Heuristics](https://blog.mgechev.com/2021/02/07/prefetching-strategies-heuristics-faster-web-apps/), Minko Gechev, 02/2021
@@ -441,9 +444,12 @@ They all have a very good lineup:
 * [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/), Jason Grigsby, 03/2015
 
 ### Web Fonts
+
 * [A New Way To Reduce Font Loading Impact: CSS Font Descriptors](https://www.smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/), Barry Pollard, 05/2021
 
 * [5 steps to faster web fonts](https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/), Iain Bean, 05/2021
+
+* [How I set up Glyphhanger on macOS for optimizing and converting font files for the Web](https://www.sarasoueidan.com/blog/glyphhanger/), Sara Soueidan, 03/2021
 
 * [The importance of `@font-face` source order when used with preload](https://nooshu.github.io/blog/2021/01/23/the-importance-of-font-face-source-order-when-used-with-preload/), Matt Hobbs, 01/2021
 
@@ -455,6 +461,8 @@ They all have a very good lineup:
 
 
 ### Measure Performance
+
+* [Lighthouse V.8 FAQ](https://github.com/GoogleChrome/lighthouse/blob/master/docs/v8-perf-faq.md), Paul Irish, 06/2021
 
 * [How to use WebPageTest's Graph Page Data view](https://nooshu.github.io/blog/2021/04/13/how-to-use-webpagetests-graph-page-data-view/), Matt Hobbs, 04/2021
 
@@ -1057,6 +1065,8 @@ The bigger the gap the bigger the chance a user gets frustrated.
 * [Request Map Generator](https://requestmap.herokuapp.com/)
 The Request Map Generator is the go to place to understand what 3rd party tools are running on your page and how much data they are adding.
 
+* [Webpagetest Slack Integration](https://github.com/WebPageTest/webpagetest-slack)
+
 
 #### Lighthouse & CrUX & Core Web Vitals
 
@@ -1375,6 +1385,8 @@ Learn what influence PWA have on business metrics.
 
 
 ## Case studies
+
+* [Improving The Performance Of An Online Store (Case Study)](https://www.smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/), Jennifer Brehm, 06/2021
 
 * [How We Improved Our Core Web Vitals (Case Study)](https://www.smashingmagazine.com/2021/05/core-web-vitals-case-study/), 05/2021
 
