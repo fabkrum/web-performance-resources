@@ -251,6 +251,8 @@ They all have a very good lineup:
 
 ### General
 
+* [Website Speed: Advice from the trenches](https://www.cmg.digital/website-speed-advice-from-the-trenches), Bojan Basrak, 05/2021
+
 * [Opting your Website out of Google's FLoC Network](https://paramdeo.com//blog/opting-your-website-out-of-googles-floc-network), Paramdeo Singh, 04/2021
 
 * [How to Convince Your Boss to Care About Speed](https://calibreapp.com/blog/convince-your-boss-about-performance), Karolina Szczur, 04/2021
