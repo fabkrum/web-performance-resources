@@ -246,6 +246,8 @@ Redwood City, California, USA
 
 ### General
 
+* [How To Perform An SEO Audit Using Google Search Console](https://seosly.com/how-to-audit-site-with-google-search-console/), Olga Zarzeczna, 06/2021
+
 * [Website Speed: Advice from the trenches](https://www.cmg.digital/website-speed-advice-from-the-trenches), Bojan Basrak, 05/2021
 
 * [Opting your Website out of Google's FLoC Network](https://paramdeo.com//blog/opting-your-website-out-of-googles-floc-network), Paramdeo Singh, 04/2021
