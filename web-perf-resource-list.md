@@ -165,19 +165,14 @@ They all have a very good lineup:
 * [Lazy Load 2021](https://www.webdirections.org/lazyload/)
   (May 21 & 28, online event, Ticket: Starting at 119 USD)
 
-* [#perfMatters](https://perfmattersconf.com/) / [Twitter](https://twitter.com/perfmattersconf)
-(Ticket: Blind Bird $239 — Conference & Workshop: $748)
-27–28 March, 2018, Redwood City, California, USA
-
-* [DeltaV](https://2018.deltavconf.com/) / [Twitter](https://twitter.com/deltavconf)
-(Ticket: Early bird £399 + VAT)
-10–11 May 2018, London, UK
-
 * [Performance.now()](https://perfnow.nl/) / [Twitter](https://twitter.com/perfnowconf)
-(Ticket: 550 EUR + VAT)
-8–9 November 2018, Amsterdam, Netherland
+11–12 November 2021, Amsterdam, Netherland (Ticket: 550 EUR + VAT) – The event where the Web Perf family comes together in Europe (must go event)
 
 * [We love speed](https://www.welovespeed.com/), Bordeaux, France – Not very international, most of the talks are French
+
+* [#perfMatters](https://perfmattersconf.com/) / [Twitter](https://twitter.com/perfmattersconf)
+Redwood City, California, USA
+
 
 
 ## Core Web Vitals
