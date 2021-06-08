@@ -126,6 +126,8 @@ Great resource to learn the newest Chrome Dev Tools tips and tricks
 
 * [Marc Radziwill](https://marcradziwill.com/blog/)
 
+* [Paul Calvano](https://paulcalvano.com/writing/)
+
 * [Planet Performance](http://www.perfplanet.com/)
 Overview of performance related blogs
 
@@ -176,6 +178,10 @@ Redwood City, California, USA
 
 
 ## Core Web Vitals
+
+* [Business impact of Core Web Vital optimizations](https://wpostats.com/tags/core%20web%20vitals/), WPO Stats, Updated regularly - 📚
+
+* [What can the HTTP Archive tell us about Largest Contentful Paint?](https://paulcalvano.com/2021-06-07-lcp-httparchive/), Paul Calvano, 06/2021
 
 * [How To Fix Cumulative Layout Shift (CLS) Issues](https://www.smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/), Barry Pollard, 06/2021
 
