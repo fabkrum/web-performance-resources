@@ -1187,6 +1187,9 @@ Understand the technical building blocks of a website.
 
 #### Development Tools
 
+* [Microsoft WebHint](https://webhint.io/)
+webhint is a customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors.
+
 * [Chrome Developer Tools](https://developer.chrome.com/devtools)
 This is the go to tool for all web developers. Understand how your code gets loaded, parsed and rendered. – 🚀
 
