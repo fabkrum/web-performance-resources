@@ -179,6 +179,8 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [CSS for Web Vitals](https://web.dev/css-web-vitals/), Katie Hempenius & Una Kravets, 06/2021
+
 * [Business impact of Core Web Vital optimizations](https://wpostats.com/tags/core%20web%20vitals/), WPO Stats, Updated regularly - 📚
 
 * [What can the HTTP Archive tell us about Largest Contentful Paint?](https://paulcalvano.com/2021-06-07-lcp-httparchive/), Paul Calvano, 06/2021
@@ -620,6 +622,8 @@ Redwood City, California, USA
 * [More Weight Doesn’t Mean More Wait](https://www.filamentgroup.com/lab/weight-wait.html), Scott Jehl, 04/2015
 
 ### Javascript and Render Performance
+
+* [Techniques for developing high-performance animations](https://web.dev/animations/)
 
 * [Building a Faster Web Experience with the postTask Scheduler](https://medium.com/airbnb-engineering/building-a-faster-web-experience-with-the-posttask-scheduler-276b83454e91), Callie (Airbnb Engineering & Data Science), 05/2021 – 🚀
 
