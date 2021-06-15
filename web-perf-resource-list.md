@@ -217,6 +217,8 @@ Redwood City, California, USA
 
 * [Debug Web Vitals in the field](https://web.dev/debug-web-vitals-in-the-field/), Philip Walton, 04/2021
 
+* [Debug layout shifts](https://web.dev/debug-layout-shifts/), Katie Hempenius, 03/2021
+
 * [Cookie Banners and Web Vitals](https://blr.design/blog/cookie-banner-web-vitals/), Brian Louis Ramirez, 03/2021
 
 * [How to create a competitive analysis dashboard for Core Web Vitals using Google Data Studio](https://www.deepcrawl.com/blog/best-practice/competitive-analysis-core-web-vitals-google-data-studio/), Rachel Anderson, 03/2021
