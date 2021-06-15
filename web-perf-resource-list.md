@@ -179,6 +179,8 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [Improving Cumulative Layout Shift at Telegraph Media Group](https://web.dev/telegraph/), Chris Boakes, 06/2021
+
 * [CSS for Web Vitals](https://web.dev/css-web-vitals/), Katie Hempenius & Una Kravets, 06/2021
 
 * [Business impact of Core Web Vital optimizations](https://wpostats.com/tags/core%20web%20vitals/), WPO Stats, Updated regularly - 📚
@@ -410,6 +412,8 @@ Redwood City, California, USA
 * [How DNS works](https://howdns.works/) (Comic)
 
 ### Image and Video Optimization
+
+* [Serving sharp images to high density screens](https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/), Jake Archibald, 06/2021
 
 * [The Humble <img> Element And Core Web Vitals](https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/), Addy Osmani, 04/4021 - 🚀
 
@@ -1399,6 +1403,8 @@ Learn what influence PWA have on business metrics.
 
 
 ## Case studies
+
+* [Improving Cumulative Layout Shift at Telegraph Media Group](https://web.dev/telegraph/), Chris Boakes, 06/2021
 
 * [Improving The Performance Of An Online Store (Case Study)](https://www.smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/), Jennifer Brehm, 06/2021
 
