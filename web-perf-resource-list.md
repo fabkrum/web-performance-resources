@@ -643,6 +643,8 @@ Redwood City, California, USA
 
 * [The Import On Interaction Pattern](https://addyosmani.com/blog/import-on-interaction/), Addy Osmani, 12/2020 – 🚀
 
+* [The “Live DOM” Is Not “Slow”, “Bad”, Or “Wrong”. Web Developers Are.](https://levelup.gitconnected.com/the-live-dom-is-not-slow-bad-or-wrong-web-developers-are-2bf86c3b9e2e), Jason Knight, 11/2020
+
 * [Prevent layout shifts with CSS grid stacks](https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo/), Hubert Sablonnière, 10/2020
 
 * [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/), Una Kravets, Vladimir Levin, 08/2020
