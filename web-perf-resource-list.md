@@ -479,6 +479,10 @@ Redwood City, California, USA
 
 ### Measure Performance
 
+* [Benchmarking JavaScript Memory Usage](https://blog.webpagetest.org/posts/benchmarking-javascript-memory-usage/), Tim Kadlec, 06/2021
+
+* [How Real User Monitoring will improve GOV.UK for everyone](https://insidegovuk.blog.gov.uk/2021/06/16/how-real-user-monitoring-will-improve-gov-uk-for-everyone/), Matt Hobbs, 06/2021
+
 * [How Lighthouse 8 Changes Affect Your Metrics](https://calibreapp.com/blog/lighthouse-8), Karolina Szczur, 06/2021
 
 * [Lighthouse V.8 FAQ](https://github.com/GoogleChrome/lighthouse/blob/master/docs/v8-perf-faq.md), Paul Irish, 06/2021
@@ -1205,6 +1209,9 @@ Understand the technical building blocks of a website.
 
 #### Development Tools
 
+* [PurifyCSS Online](https://purifycss.online/)
+Insert your website URL below and find out by how much of your CSS file size can be reduced
+
 * [Microsoft WebHint](https://webhint.io/)
 webhint is a customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors.
 
@@ -1316,6 +1323,8 @@ A Hassle-Free Way to Self-Host Google Fonts by Mario Ranftl
 
 
 #### Other Tools
+
+* [ProgUX – The best experience for every user](https://progux.org/)
 
 * [Web Performance Heat Map Generator](http://heatmap.webperf.tools/)
 
