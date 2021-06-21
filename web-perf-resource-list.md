@@ -179,6 +179,8 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [Towards a better responsiveness metric](https://web.dev/better-responsiveness-metric/), Nicolás Peña Moreno & Annie Sullivan & Hongbo Song, 06/2021 – ℹ️
+
 * [More time, tools, and details on the page experience update](https://developers.google.com/search/blog/2021/04/more-details-page-experience), Google Search Central, 05/2021 - ℹ️
 
 * [Improving Cumulative Layout Shift at Telegraph Media Group](https://web.dev/telegraph/), Chris Boakes, 06/2021
