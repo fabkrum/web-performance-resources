@@ -799,6 +799,8 @@ Not 100% related to Web Performance. A few of the trainings are available for fr
 
 ## Videos
 
+* [Top 10 performance pitfalls - HTTP 203](https://www.youtube.com/watch?v=Lh9q3h2khlc), Jack Archibald & Surma, 06/2021
+
 ### A crash course on web performance
 
 This is a great free introduction into web performance. Ilya Grigorik from Google is covering everything from network, the critical render path and in-app performance. It is from 2013 but it is still highly relevant.
