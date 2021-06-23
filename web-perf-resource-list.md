@@ -1258,6 +1258,8 @@ Compares the HTTP archive data of different JavaScript Frameworks
 * [Source Map Explorer](https://www.npmjs.com/package/source-map-explorer), [Webpack Bundle Analyer](https://www.npmjs.com/package/webpack-bundle-analyzer)
 Understand what code you are loading
 
+* [Bundle per page type/entry point](https://bundlers.tooling.report/code-splitting/multi-pages/)
+
 * [You might not need Javascript](http://youmightnotneedjs.com/)
 Don’t use Javascript for things where it is not really needed. This website shows you to do stuff with CSS: Slider, Modal, Scroll Indicator, Navigation, Tabs, Accordion
 
