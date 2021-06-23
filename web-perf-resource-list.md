@@ -14,6 +14,7 @@
     + [Conferences](#conferences)
     + [Meetups](#meetups)
     + [Podcasts](#podcasts)
+    + [Video Formats](#video-formats)
 * [Core Web Vitals](#core-web-vitals)
 * [Articles](#articles)
     + [General](#general)
@@ -82,8 +83,6 @@
 * [Web performance Slack channel ](https://webperformance.herokuapp.com/) - 📚
 Slack channel which is focusing on web performance with more than 1.400 members
 
-* [WebPageTest - Twitch](https://www.twitch.tv/webpagetest)
-
 * [WebPerf Working Group Meetings](https://www.youtube.com/playlist?list=PL5b8e1JT2i4a3PqaF4a6tVfqZela-pSky), Understand what topics are discussed and be prepared for what is coming in the future
 
 
@@ -140,6 +139,13 @@ Overview of performance related blogs
 * [Chasing Waterfalls - Tim Kadlec](https://chasingwaterfalls.io/)
 
 * [Planet Performance Podcast - Stoyan Stefanov](https://podcast.perfplanet.com/)
+
+
+### Video Formats
+
+* [WebPageTest - Twitch](https://www.twitch.tv/webpagetest): Bi-weekly live show on Twitch by Tim Kadlec around Webpagetest topics (Catchpoint)
+
+* [Speed@Scale](https://www.youtube.com/hashtag/speedatscale): Web Performance audits by Tracy Lee (@ladyleet) and guests
 
 
 ### Web Performance Meetups
