@@ -1182,6 +1182,8 @@ Easily generate the optimal responsive image dimensions
 * [ImageOptim](https://imageoptim.com/)
 Image compression
 
+* [ImageAlpha](https://pngmini.com/): Free png optimizer for MacOS
+
 
 #### Thirdparty
 
