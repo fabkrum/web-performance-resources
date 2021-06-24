@@ -904,6 +904,8 @@ Nice introduction to HTTP2
 
 ### Measure
 
+* [How to test site speed optimizations with Compute@Edge](https://www.fastly.com/blog/how-to-test-site-speed-optimizations-with-compute-edge), Leon Brocard, 06/2021
+
 * [WebPageTest and Cloudflare Workers – A Performance Consultant’s Dream Combo?](https://www.youtube.com/watch?v=YSS0a0uaDvk), Andy Davies, 20/2020 – 🚀
 
 * [How website speed can impact digital ad revenue](https://www.youtube.com/watch?v=EwlmYec3M-s) ([Slides](https://simonhearne.github.io/presentations/digital-revenue/#/)), Simon Hearne, 06/2019
