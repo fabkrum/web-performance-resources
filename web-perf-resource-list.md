@@ -171,7 +171,7 @@ This are all conferences with a strong focus on web performance.
 They all have a very good lineup:
 
 * [Lazy Load 2021](https://www.webdirections.org/lazyload/)
-  (May 21 & 28, online event, Ticket: Starting at 119 USD)
+  (June 11 & 18, online event, Ticket: Starting at 119 USD)
 
 * [Performance.now()](https://perfnow.nl/) / [Twitter](https://twitter.com/perfnowconf)
 11–12 November 2021, Amsterdam, Netherland (Ticket: 550 EUR + VAT) – The event where the Web Perf family comes together in Europe (must go event)
@@ -267,6 +267,8 @@ Redwood City, California, USA
 ## Articles
 
 ### General
+
+* [Fast load times Techniques for improving site performance.](https://web.dev/fast/)
 
 * [How To Perform An SEO Audit Using Google Search Console](https://seosly.com/how-to-audit-site-with-google-search-console/), Olga Zarzeczna, 06/2021
 
