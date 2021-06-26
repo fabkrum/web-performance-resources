@@ -1319,7 +1319,7 @@ Find the CDN which is right for you.
 
 #### Fonts
 
-* [Autmatic Font Matching](https://deploy-preview-15--upbeat-shirley-608546.netlify.app/perfect-ish-font-fallback/?font=Montserrat)
+* [Automatic Font Matching](https://deploy-preview-15--upbeat-shirley-608546.netlify.app/perfect-ish-font-fallback/?font=Montserrat)
 
 * [Font-Face Descriptor Playground](https://codepen.io/simonjhearne/pen/rNMGJyr)
 
