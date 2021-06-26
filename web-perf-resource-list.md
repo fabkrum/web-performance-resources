@@ -429,6 +429,8 @@ Redwood City, California, USA
 
 ### Image and Video Optimization
 
+* [GIFS on the web: A new way to bloat](https://dougsillars.com/2021/06/21/gifs-on-the-web-a-new-way-to-bloat/), Doug Sillars, 06/2021
+
 * [Serving sharp images to high density screens](https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/), Jake Archibald, 06/2021
 
 * [The Humble <img> Element And Core Web Vitals](https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/), Addy Osmani, 04/4021 - 🚀
