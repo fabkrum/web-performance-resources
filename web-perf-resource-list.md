@@ -470,6 +470,7 @@ Redwood City, California, USA
 
 * [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/), Jason Grigsby, 03/2015
 
+
 ### Web Fonts
 
 * [A New Way To Reduce Font Loading Impact: CSS Font Descriptors](https://www.smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/), Barry Pollard, 05/2021
@@ -477,6 +478,8 @@ Redwood City, California, USA
 * [5 steps to faster web fonts](https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/), Iain Bean, 05/2021
 
 * [How I set up Glyphhanger on macOS for optimizing and converting font files for the Web](https://www.sarasoueidan.com/blog/glyphhanger/), Sara Soueidan, 03/2021
+
+* [More than you ever wanted to know about font loading on the web](https://deploy-preview-15--upbeat-shirley-608546.netlify.app/posts/high-performance-web-font-loading/), Malte Ubl, 01/2021
 
 * [The importance of `@font-face` source order when used with preload](https://nooshu.github.io/blog/2021/01/23/the-importance-of-font-face-source-order-when-used-with-preload/), Matt Hobbs, 01/2021
 
