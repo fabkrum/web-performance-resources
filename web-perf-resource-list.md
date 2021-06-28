@@ -654,6 +654,8 @@ Redwood City, California, USA
 
 ### Javascript and Render Performance
 
+* [The real cost of Javascript dependencies (and the state of JS package quality)](https://medium.com/voodoo-engineering/the-real-cost-of-javascript-dependencies-and-the-state-of-js-package-quality-a8dacd74c0ec), Vincent Vallet, 06/2021
+
 * [Techniques for developing high-performance animations](https://web.dev/animations/)
 
 * [Building a Faster Web Experience with the postTask Scheduler](https://medium.com/airbnb-engineering/building-a-faster-web-experience-with-the-posttask-scheduler-276b83454e91), Callie (Airbnb Engineering & Data Science), 05/2021 – 🚀
