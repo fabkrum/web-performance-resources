@@ -990,6 +990,8 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 
 ### Development
 
+* [Web Performance Tuning with browser APIs](https://www.youtube.com/watch?v=ALN1v_sBe2g), Yaser Adel Mehraban, 06/2021
+
 * [Transitioning to modern JavaScript](https://www.youtube.com/watch?v=cLxNdLK--yI) ([Article](https://web.dev/publish-modern-javascript/)), Houssein Djirdeh, Jason Miller, Chrome Dev Summit 2020, 12/2020
 
 * [When JavaScript Bytes](https://www.youtube.com/watch?v=JvJ0v5OohNg) ([Slides](https://noti.st/tkadlec/MC0Bvy/when-javascript-bytes)), Tim Kadlec, 11/2019
