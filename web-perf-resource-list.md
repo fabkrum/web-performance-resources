@@ -758,6 +758,8 @@ This is all about how humans perceive performance and what we can do to help our
 
 ### Tooling Articles
 
+* [WebPageTest Sorcery Using Google Sheets](https://blr.design/blog/webpagetest-in-google-sheets/), Brian Louis Ramirez, 06/2021
+
 * [Using Chrome Local Overrides To Optimize Page Speed](https://blr.design/blog/local-overrides/), Brian Louis Ramirez, 05/2021
 
 * [WebPageTest API](https://css-tricks.com/webpagetest-api/), Chris Coyier, 05/2021
