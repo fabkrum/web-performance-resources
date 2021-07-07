@@ -496,6 +496,8 @@ Redwood City, California, USA
 
 ### Measure Performance
 
+* [How do Chrome extensions impact browser performance?](https://www.debugbear.com/blog/chrome-extension-performance-2021), Matt Zeunert, 07/2021
+
 * [Benchmarking JavaScript Memory Usage](https://blog.webpagetest.org/posts/benchmarking-javascript-memory-usage/), Tim Kadlec, 06/2021
 
 * [How Real User Monitoring will improve GOV.UK for everyone](https://insidegovuk.blog.gov.uk/2021/06/16/how-real-user-monitoring-will-improve-gov-uk-for-everyone/), Matt Hobbs, 06/2021
