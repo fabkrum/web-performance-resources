@@ -500,6 +500,8 @@ Redwood City, California, USA
 
 * [Benchmarking JavaScript Memory Usage](https://blog.webpagetest.org/posts/benchmarking-javascript-memory-usage/), Tim Kadlec, 06/2021
 
+* [Lighthouse performance scoring - How Lighthouse calculates your overall Performance score](https://web.dev/performance-scoring/), 06/2021
+
 * [How Real User Monitoring will improve GOV.UK for everyone](https://insidegovuk.blog.gov.uk/2021/06/16/how-real-user-monitoring-will-improve-gov-uk-for-everyone/), Matt Hobbs, 06/2021
 
 * [How Lighthouse 8 Changes Affect Your Metrics](https://calibreapp.com/blog/lighthouse-8), Karolina Szczur, 06/2021
@@ -623,6 +625,8 @@ Redwood City, California, USA
 * [10 pro tips for managing the performance of your third-party scripts,](https://www.soasta.com/blog/10-pro-tips-for-managing-the-performance-of-your-third-party-scripts/) Tammy Everts, 11/2015
 
 ### Optimise the Critical Render Path
+
+* [How to Eliminate Render-Blocking Resources: a Deep Dive](https://sia.codes/posts/render-blocking-resources/), Sia Karamalegos, 07/2021
 
 * [The Critical Request: How to Prioritise Requests to Improve Speed](https://calibreapp.com/blog/critical-request), Ben Schwarz, 04/2021
 
