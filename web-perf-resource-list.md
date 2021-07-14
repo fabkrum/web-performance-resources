@@ -59,6 +59,7 @@
 * [Case studies](#case-studies)
 * [Open data sources](#open-data-sources)
 * [W3C Standards](#w3c-standards)
+* [Build a fast blog with Eleventy](#11ty)
 
 ## Legend
 
@@ -437,6 +438,8 @@ Redwood City, California, USA
 
 * [The Humble <img> Element And Core Web Vitals](https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/), Addy Osmani, 04/4021 - 🚀
 
+* [Proxying Cloudinary Requests with Netlify](https://timkadlec.com/remembers/2020-11-17-netlify-proxy-requests/), Tim Kadlec, 11/2020
+
 * [Time for Next-Gen Codecs to Dethrone JPEG](https://cloudinary.com/blog/time_for_next_gen_codecs_to_dethrone_jpeg), Jon Sneyers, 02/2020
 
 * [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations/), Malte Ubl, 12/2020
@@ -677,6 +680,8 @@ Redwood City, California, USA
 * [Prevent layout shifts with CSS grid stacks](https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo/), Hubert Sablonnière, 10/2020
 
 * [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/), Una Kravets, Vladimir Levin, 08/2020
+
+* [Preact vs React - Updating React at Etsy](https://github.com/mq2thez/blog/blob/main/upgrade-react-etsy/preact-vs-react.md), Ben Sangster, 07/2020
 
 * [The Cost of Javascript Frameworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/), Tim Kadlec, 04/2020 
 
@@ -1547,3 +1552,9 @@ The [Web Performance Working Group](https://www.w3.org/webperf/) is providing me
 The [Performance Timing Primer](https://w3c.github.io/perf-timing-primer/) gives a good overview on what the Web Performance Group is working on.
 
 [All standards and drafts from the Performance Working Group](https://www.w3.org/TR/?tag=performance)
+
+
+#11ty
+* [Proxying Cloudinary Requests with Netlify](https://timkadlec.com/remembers/2020-11-17-netlify-proxy-requests/), Tim Kadlec, 11/2020
+
+* [Automatically Generate Social Images for Blog Posts](https://www.learnwithjason.dev/blog/auto-generate-social-image), Jason Lengstorf
