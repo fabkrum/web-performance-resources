@@ -42,6 +42,7 @@
     + [Image and Video](#image-and-video)
     + [Development](#development)
     + [Meta](#meta)
+    + [Twitch](#twitch)
 * [Books](#books)
 * [Tools](#tools)
     + [Free tools and services](#free-tools-and-services)
@@ -1072,6 +1073,7 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 
 * [HTTP2 and Front-End Performance](https://www.youtube.com/watch?v=GIDXISQs67w), Mark Nottingham, 05/2015
 
+
 ### Meta
 
 * [performance.now().reject(reasons)](https://www.youtube.com/watch?v=vtIfVPtN6io) ([Slides](https://docs.google.com/presentation/d/18KW9c8ywYvMVsXVwU-Llvc1nEX40y9Fj3VBAkHRKs_4/present)), Ilya Grigorik, 11/2019
@@ -1079,6 +1081,18 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 * [A Decade of Disciplined Delivery](https://www.youtube.com/watch?v=HC1eVj5cQOo) ([Slides](https://www.dropbox.com/s/lfvrkzoqkecnh0h/DecadeOfDelivery_PDF.pdf)), Henri Helvetica, 11/2019
 
 * [The Future of Performance](https://www.youtube.com/watch?v=Jz3Fu1o356g) ([Slides](https://www.dropbox.com/s/2bxw50ajomvniio/future-web-perf-perfnow.pdf?dl=0)), Vitaly Friedman, 11/2019
+
+
+### Twitch
+
+* [Web Performance Auditing (with Tim Kadlec) — Learn With Jason (90m)](https://www.twitch.tv/videos/1085542803), 07/2020
+
+* [Testing optimizations with Cloudflare Workers and WebPageTest](https://www.twitch.tv/videos/1080517853), Tim Kadlec (Webpagetest), 07/2020
+
+* [Live Auditing a Government Site](https://www.twitch.tv/videos/1066237948), Tim Kadlec (Webpagetest), 06/2020
+
+* [Hidden Gems in WPT](https://www.twitch.tv/videos/1051949599), Tim Kadlec (Webpagetest), 06/2020
+
 
 ## Books
 
