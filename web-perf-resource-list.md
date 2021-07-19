@@ -588,6 +588,8 @@ Redwood City, California, USA
 
 * [Driving WebPagetest from a Google Docs Spreadsheet](https://calendar.perfplanet.com/2014/driving-webpagetest-from-a-google-docs-spreadsheet/), Andy Davies, 12/2014
 
+* [Page Weight Matters - surprising result after web performance improvement](https://blog.chriszacharias.com/page-weight-matters) Chris Zacharias), 12/2012
+
 ### Third-Party Services
 
 * [Keeping third-party scripts under control](https://web.dev/controlling-third-party-scripts/), Chris Anstey & Antoine Bisch, 04/2021
@@ -1212,6 +1214,8 @@ Upload an image and compare the original with different compressed version to fi
 
 * [I just want to put an image on my page](https://just-gimme-an-img.vercel.app/) ([Article](https://paul.kinlan.me/images-are-still-too-hard/))
 Optimizes images and generate the HTML for you.
+
+* [See How Images Affect Your Page Speed](https://pageweight.imgix.com)
 
 * [Image Analyser](https://webspeedtest.cloudinary.com/)
 Image analysis tool. This tool gives you insight about how you can optimise your images to gain a better web performance. This tool is also integrated within webpagetest.org.
