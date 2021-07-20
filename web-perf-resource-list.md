@@ -1322,6 +1322,9 @@ Browserscope is a community-driven project for profiling web browsers. The goals
 
 #### Network Tools
 
+* [Fast or Slow](https://www.fastorslow.com/)
+Global Website Speed Profiler
+
 * [https://httpstatus.io/](https://httpstatus.io/)
 Service which shows status codes, latency, response headers and more from the URL you submit. This is great to check for redirects and other network related issues. 
 
