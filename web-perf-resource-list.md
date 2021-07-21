@@ -187,6 +187,8 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [Simulating real users in the lab to debug CLS issues](https://dev.to/rick_viscomi/simulating-real-users-in-the-lab-to-debug-cls-issues-3hnp), Rick Viscomi, 07/2021
+
 * [Towards a better responsiveness metric](https://web.dev/better-responsiveness-metric/), Nicolás Peña Moreno & Annie Sullivan & Hongbo Song, 06/2021 – ℹ️
 
 * [The do’s and don’ts of Core Web Vitals](https://contentsquare.com/blog/the-dos-and-donts-of-core-web-vitals-with-iprospect/), Ric Riley, 06/2021
@@ -432,6 +434,8 @@ Redwood City, California, USA
 * [How DNS works](https://howdns.works/) (Comic)
 
 ### Image and Video Optimization
+
+* [The performance effects of too much lazy-loading](https://web.dev/lcp-lazy-loading/), Rick Viscomi & Felix Arntz, 07/2021
 
 * [GIFS on the web: A new way to bloat](https://dougsillars.com/2021/06/21/gifs-on-the-web-a-new-way-to-bloat/), Doug Sillars, 06/2021
 
@@ -1489,6 +1493,8 @@ Learn what influence PWA have on business metrics.
 
 
 ## Case studies
+
+* [How committing to Core Web Vitals increased Netzwelt's advertising revenues by 18%](https://web.dev/netzwelt/), Martin Schierle, 07/2021
 
 * [Improving Cumulative Layout Shift at Telegraph Media Group](https://web.dev/telegraph/), Chris Boakes, 06/2021
 
