@@ -578,6 +578,8 @@ Redwood City, California, USA
 
 * [User-centric Performance Metrics](https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics), Philip Walton, 02/2018
 
+* [Breaking Down the Performance API](https://css-tricks.com/breaking-performance-api/), Preethi, 12/2017
+
 * [An Audit of Boomerang’s Performance](https://nicj.net/an-audit-of-boomerangs-performance/), Nic Jansma, 12/2017
 
 * [Choosing the Correct Average](https://csswizardry.com/2017/01/choosing-the-correct-average/), Harry Roberts, 01/2017
