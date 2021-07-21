@@ -774,6 +774,8 @@ This is all about how humans perceive performance and what we can do to help our
 
 ### Tooling Articles
 
+* [New Render Blocking Indicator in Chrome and WebPageTest](https://blog.webpagetest.org/posts/new-render-blocking-indicator-in-chrome-and-webpagetest/), Tim Kadlec, 07/2021
+
 * [WebPageTest Sorcery Using Google Sheets](https://blr.design/blog/webpagetest-in-google-sheets/), Brian Louis Ramirez, 06/2021
 
 * [Using Chrome Local Overrides To Optimize Page Speed](https://blr.design/blog/local-overrides/), Brian Louis Ramirez, 05/2021
