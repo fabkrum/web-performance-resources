@@ -1141,6 +1141,8 @@ Another classic book.
 * [Chcr.co](https://chckr.co/)
 Check Your Site Across Leading Website Testing Tools
 
+* [UI Test - Test your website in more than 80 tools](https://uitest.com/)
+
 #### WebPageTest
 
 * [WebPageTest](http://www.webpagetest.org/)
