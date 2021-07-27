@@ -359,6 +359,8 @@ Redwood City, California, USA
 
 ### Network and Caching
 
+* [Quicklink case study: faster pages, increased page views](https://medium.com/ynap-tech/quicklink-case-study-faster-pages-increased-page-views-1e829dbaa10c), Andrea Verlicchi, 07/2021
+
 * [Conditional HTTP GET: The fastest requests need no response body](https://ieftimov.com/post/conditional-http-get-fastest-requests-need-no-response-body/), Ilija Eftimov, 06/2021
 
 * [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/), Ivan Akulov, 05/2021
@@ -757,6 +759,8 @@ Redwood City, California, USA
 ### Perceived performance
 
 This is all about how humans perceive performance and what we can do to help our users to keep focused:
+
+* [A Guide to Keeping Users Engaged While They Wait](https://medium.com/docusign-design/a-guide-to-keeping-users-engaged-while-they-wait-10713ab54c3d), Morgan Davies, 07/2021
 
 * [Optimistic UI Patterns for Improved Perceived Performance](https://simonhearne.com/2021/optimistic-ui-patterns/), Simon Hearne, 01/2021
 
