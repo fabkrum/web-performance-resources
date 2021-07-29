@@ -1502,6 +1502,8 @@ Learn what influence PWA have on business metrics.
 
 ## Case studies
 
+* [Learnings From a WebPageTest Session on CSS-Tricks](https://css-tricks.com/learnings-from-a-webpagetest-session-on-css-tricks/), Chris Coyier, 07/2021
+
 * [How committing to Core Web Vitals increased Netzwelt's advertising revenues by 18%](https://web.dev/netzwelt/), Martin Schierle, 07/2021
 
 * [Improving Cumulative Layout Shift at Telegraph Media Group](https://web.dev/telegraph/), Chris Boakes, 06/2021
