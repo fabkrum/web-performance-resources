@@ -53,6 +53,7 @@
         + [Development Tools](#development-tools)
         + [Network Tools](#network-tools)
         + [Fonts](#fonts)
+        + [Browser Extensions](#browser-extensions)
         + [Other Tools](#other-tools)
     + [Paid tools and services](#paid-tools-and-services)
 * [Open Source Projects](#open-source-projects)
@@ -1399,6 +1400,21 @@ A good tool to create woff2 fonts
 
 * [Google Web Fonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
 A Hassle-Free Way to Self-Host Google Fonts by Mario Ranftl
+
+
+#### Browser Extensions
+
+* [Cloudinary Media Inspector](https://chrome.google.com/webstore/detail/cloudinary-media-inspecto/ehnkhkglbafecknplfmjklnnjimokpkg)
+Gives a quick overview of all loaded images (dimension, ratio, format, header, details)
+
+* [Piez](https://chrome.google.com/webstore/detail/piez/npbccjkjemgagjioahfccljgnlkdleod?hl=en)
+Piez displays optimizations made by Akamai Image Manager, Resource Optimizer, Push/Preconnect, and Script Manager.
+
+* [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj?hl=en)
+Set additional headers. I use this to set the x-host when I test Cloudflare Workers in the browser.
+
+* [Web Vitals](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma?hl=en#:~:text=Web%20Vitals&text=Web%20Vitals%20are%20quality%20signals,interactivity%20and%20layout%20shift%20metrics.)
+Shows the Web Vitals for the active page.
 
 
 #### Other Tools
