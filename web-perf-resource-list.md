@@ -1416,6 +1416,9 @@ Set additional headers. I use this to set the x-host when I test Cloudflare Work
 * [Web Vitals](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma?hl=en#:~:text=Web%20Vitals&text=Web%20Vitals%20are%20quality%20signals,interactivity%20and%20layout%20shift%20metrics.)
 Shows the Web Vitals for the active page.
 
+* [CLS Visualizer](https://chrome.google.com/webstore/detail/cls-visualizer/jbbeihojggidiclbcneckhcblilapahn?hl=en)
+This plugin will highlight and visualize the Cumulative Layout Shift of the current page.
+
 
 #### Other Tools
 
