@@ -603,6 +603,8 @@ Redwood City, California, USA
 
 ### Third-Party Services
 
+* [Best practices for tags and tag managers](https://web.dev/tag-best-practices/), Katie Hempenius, 07/2021
+
 * [Keeping third-party scripts under control](https://web.dev/controlling-third-party-scripts/), Chris Anstey & Antoine Bisch, 04/2021
 
 * [Best practices for cookie notices](https://web.dev/cookie-notice-best-practices/), Katie Hempenius, 04/2021
