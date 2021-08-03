@@ -679,6 +679,8 @@ Redwood City, California, USA
 
 ### Javascript and Render Performance
 
+* [Explore JavaScript Dependencies With Lighthouse Treemap](https://sia.codes/posts/lighthouse-treemap/), Sia Karamalegos, 08/2021
+
 * [The real cost of Javascript dependencies (and the state of JS package quality)](https://medium.com/voodoo-engineering/the-real-cost-of-javascript-dependencies-and-the-state-of-js-package-quality-a8dacd74c0ec), Vincent Vallet, 06/2021
 
 * [Techniques for developing high-performance animations](https://web.dev/animations/)
