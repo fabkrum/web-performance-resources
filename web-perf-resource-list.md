@@ -188,6 +188,8 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [HTTP Archive: CrUX Report](https://httparchive.org/reports/chrome-ux-report), HTTP Archive, Monthly Update
+
 * [Prevent unwanted Layout Shifts caused by Scrollbars with the scrollbar-gutter CSS property](https://www.bram.us/2021/07/23/prevent-unwanted-layout-shifts-caused-by-scrollbars-with-the-scrollbar-gutter-css-property/), Bramus Van Damme, 07/2021
 
 * [Simulating real users in the lab to debug CLS issues](https://dev.to/rick_viscomi/simulating-real-users-in-the-lab-to-debug-cls-issues-3hnp), Rick Viscomi, 07/2021
