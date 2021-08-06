@@ -1582,6 +1582,8 @@ Learn what influence PWA have on business metrics.
 
 ## Open data sources
 
+* [Scientia Mobile Report](https://www.scientiamobile.com/wp-content/uploads/2021/08/MOVR-2021-Q2-v3.pdf), 08/2021
+
 * [What do Lighthouse Scores look like across the web?](https://www.tunetheweb.com/blog/what-do-lighthouse-scores-look-like-across-the-web/), Barry Pollard, 04/2021
 
 * [Web Almanac 2020 - HTTP Archive's annual
