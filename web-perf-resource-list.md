@@ -188,6 +188,8 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [Why lab and field data can be different (and what to do about it)](https://web.dev/lab-and-field-data-differences/), Philip Walton, 08/2021
+
 * [A performance-focused workflow based on Google tools](https://web.dev/vitals-tools-workflow/), Antoine Bisch & Garima Mimani, 08/2021
 
 * [HTTP Archive: CrUX Report](https://httparchive.org/reports/chrome-ux-report), HTTP Archive, Monthly Update
