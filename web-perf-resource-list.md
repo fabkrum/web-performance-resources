@@ -283,6 +283,8 @@ Redwood City, California, USA
 
 ### General
 
+* [Hobson's Browser](https://infrequently.org/2021/07/hobsons-browser/), Alex Rusell, 07/2021
+
 * [Fast load times Techniques for improving site performance.](https://web.dev/fast/)
 
 * [How To Perform An SEO Audit Using Google Search Console](https://seosly.com/how-to-audit-site-with-google-search-console/), Olga Zarzeczna, 06/2021
