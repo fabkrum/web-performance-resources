@@ -616,6 +616,8 @@ Redwood City, California, USA
 
 ### Third-Party Services
 
+* [Loading Third-Party JavaScript](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript), Addy Osmani & Arthur Evans
+
 * [Best practices for tags and tag managers](https://web.dev/tag-best-practices/), Katie Hempenius, 07/2021
 
 * [Keeping third-party scripts under control](https://web.dev/controlling-third-party-scripts/), Chris Anstey & Antoine Bisch, 04/2021
