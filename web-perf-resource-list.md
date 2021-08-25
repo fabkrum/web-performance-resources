@@ -454,6 +454,8 @@ Redwood City, California, USA
 
 ### Image and Video Optimization
 
+* [Decoding AVIF: Deep dive with cats and imgproxy](https://evilmartians.com/chronicles/decoding-avif-deep-dive-with-cats-and-imgproxy), Polina Gurtovaya & Andy Barnov, 08/2021
+
 * [The performance effects of too much lazy-loading](https://web.dev/lcp-lazy-loading/), Rick Viscomi & Felix Arntz, 07/2021
 
 * [GIFS on the web: A new way to bloat](https://dougsillars.com/2021/06/21/gifs-on-the-web-a-new-way-to-bloat/), Doug Sillars, 06/2021
