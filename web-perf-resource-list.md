@@ -372,6 +372,8 @@ Redwood City, California, USA
 
 * [HTTP/3 From A To Z: Core Concepts (Part 1)](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/), Robin Marx, 08/2021 – 🚀
 
+* [HTTP/3: Performance Improvements (Part 2)](https://www.smashingmagazine.com/2021/08/http3-performance-improvements-part2/), Robin Marx, 08/2021
+
 * [Quicklink case study: faster pages, increased page views](https://medium.com/ynap-tech/quicklink-case-study-faster-pages-increased-page-views-1e829dbaa10c), Andrea Verlicchi, 07/2021
 
 * [Conditional HTTP GET: The fastest requests need no response body](https://ieftimov.com/post/conditional-http-get-fastest-requests-need-no-response-body/), Ilija Eftimov, 06/2021
@@ -518,7 +520,6 @@ Redwood City, California, USA
 
 
 ### Measure Performance
-
 
 * [Why does Lighthouse lab data not match field data?](https://www.debugbear.com/blog/lighthouse-lab-data-not-matching-field-data), Matt Zeunert, 08/2021
 
@@ -693,6 +694,8 @@ Redwood City, California, USA
 * [More Weight Doesn’t Mean More Wait](https://www.filamentgroup.com/lab/weight-wait.html), Scott Jehl, 04/2015
 
 ### Javascript and Render Performance
+
+* [Does shadow DOM improve style performance?](https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/), Nolan Lawson, 08/2021
 
 * [Debugging memory leaks - HTTP 203](https://www.youtube.com/watch?v=YDU_3WdfkxA), Jake Archibald & Surma, 08/2021
 
