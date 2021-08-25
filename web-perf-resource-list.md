@@ -319,6 +319,8 @@ Redwood City, California, USA
 
 * [Front-End Performance Checklist 2020](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/), Vitaly Friedman (Smashing Magazine), 01/2020
 
+* [Building a resilient frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement), GOV.uk, 12/2019
+
 * [We analyzed 5.2 million desktop and mobile pages - Here’s What We Learned About Page Speed](https://backlinko.com/page-speed-stats), Brian Dean, 10/2019
 
 * [How Web Content Can Affect Power Usage](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/), Benjamin Poulain & Simon Fraser, 08/2019
