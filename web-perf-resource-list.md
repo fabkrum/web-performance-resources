@@ -1557,6 +1557,8 @@ Learn what influence PWA have on business metrics.
 
 ## Case studies
 
+* [Wix.com: How We Improved Website Performance by Evolving Our Infrastructure](https://www.wix.engineering/post/how-we-improved-website-performance-by-evolving-our-infrastructure), Alon Kochba, 08/2021
+
 * [Learnings From a WebPageTest Session on CSS-Tricks](https://css-tricks.com/learnings-from-a-webpagetest-session-on-css-tricks/), Chris Coyier, 07/2021
 
 * [How committing to Core Web Vitals increased Netzwelt's advertising revenues by 18%](https://web.dev/netzwelt/), Martin Schierle, 07/2021
