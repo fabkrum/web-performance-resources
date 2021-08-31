@@ -285,6 +285,8 @@ Redwood City, California, USA
 
 ### General
 
+* [The metrics game](https://tech.bluesmoon.info/2021/08/the-metrics-game.html), Philip Tellis, 08/2021
+
 * [Hobson's Browser](https://infrequently.org/2021/07/hobsons-browser/), Alex Rusell, 07/2021
 
 * [Fast load times Techniques for improving site performance.](https://web.dev/fast/)
