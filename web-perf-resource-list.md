@@ -406,7 +406,10 @@ Redwood City, California, USA
 
 * [The impact of SSL certificate revocation on web performance](https://nooshu.github.io/blog/2020/01/26/the-impact-of-ssl-certificate-revocation-on-web-performance/), Matt Hobbs, 01/2020
 
-* [How to Test DNS Server Response Time to Troubleshoot Site Speed](https://wp-rocket.me/blog/test-dns-server-response-time-troubleshoot-site-speed/), Jenni McKinnon ,11/2019
+* [How to Test DNS Server Response Time to Troubleshoot Site Speed](https://wp-rocket.me/blog/test-dns-server-response-time-troubleshoot-site-speed/), Jenni McKinnon, 11/2019
+
+* [Extended Validation Certificates are (Really, Really) Dead
+](https://www.troyhunt.com/extended-validation-certificates-are-really-really-dead/), Troy Hunt, 08/2019
 
 * [Three Ways of Checking Rel=preconnect Resource Hints Are Working](https://andydavies.me/blog/2019/04/17/three-ways-of-checking-your-rel-equals-preconnect-resource-hints-are-working/), Andy Davies, 04/2019
 
