@@ -946,6 +946,8 @@ This is a great free introduction into web performance. Ilya Grigorik from Googl
 
 * [The Psychology of Speed](https://www.youtube.com/watch?v=7i_yQyHdxUo), Simon Hearne, 10/2020
 
+* [Improving perceived performance of loading screens through animation - Bachelor Thesis (PDF)](https://www.diva-portal.org/smash/get/diva2:1333185/FULLTEXT01.pdf), Samantha Persson, 07/2019
+
 * [Designing for Speed & Hacking Users Perception](https://www.youtube.com/watch?v=zfn_tVY5qRI), Mustafa Kurtuldu, 04/2019
 
 * [Cheating the UX when there is nothing more to optimize](https://vimeo.com/251825705) ([Slides](https://speakerdeck.com/stephaniewalter/cheating-the-ux-when-there-is-nothing-more-to-optimise)), Stephanie Walter, 01/2018
