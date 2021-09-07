@@ -1667,3 +1667,5 @@ The [Performance Timing Primer](https://w3c.github.io/perf-timing-primer/) gives
 * [Proxying Cloudinary Requests with Netlify](https://timkadlec.com/remembers/2020-11-17-netlify-proxy-requests/), Tim Kadlec, 11/2020
 
 * [Automatically Generate Social Images for Blog Posts](https://www.learnwithjason.dev/blog/auto-generate-social-image), Jason Lengstorf
+
+* [Migrating from Github Pages to Netlify & Cloudflare](https://nooshu.com/blog/2021/09/06/migrating-from-github-pages-to-cloudflare-and-netlify/), Matt Hobbs, 09/2021 
