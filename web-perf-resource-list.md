@@ -515,6 +515,8 @@ Redwood City, California, USA
 
 ### Web Fonts
 
+* [Making Google Fonts Faster in 2021](https://sia.codes/posts/making-google-fonts-faster/), Sia Karamalegos, 07/2021
+
 * [A New Way To Reduce Font Loading Impact: CSS Font Descriptors](https://www.smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/), Barry Pollard, 05/2021
 
 * [5 steps to faster web fonts](https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/), Iain Bean, 05/2021
