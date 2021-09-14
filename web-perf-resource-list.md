@@ -232,6 +232,8 @@ Redwood City, California, USA
 
 * [Cumulative Layout Shift: Measure and Avoid Visual Instability](https://calibreapp.com/blog/cumulative-layout-shift), Karolina Szczur, 05/2021
 
+* [Measuring Core Web Vitals](https://www.youtube.com/watch?v=9RpREJjoeRI), Barry Pollard, 05/2021
+
 * [More time, tools, and details on the page experience update](https://developers.google.com/search/blog/2021/04/more-details-page-experience), Jeffrey Jose (Google), 04/2021 – ℹ️
 
 * [The Almost-Complete Guide to Cumulative Layout Shift](https://jessbpeck.com/posts/completecls/), Jess B Pack, 04/2021
