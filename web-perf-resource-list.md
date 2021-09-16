@@ -678,6 +678,8 @@ Redwood City, California, USA
 
 ### Optimise the Critical Render Path
 
+* [Small Bundles, Fast Pages: What To Do With Too Much JavaScript](https://calibreapp.com/blog/bundle-size-optimization), Ben Schwarz, 09/1021
+
 * [How to Eliminate Render-Blocking Resources: a Deep Dive](https://sia.codes/posts/render-blocking-resources/), Sia Karamalegos, 07/2021
 
 * [The Critical Request: How to Prioritise Requests to Improve Speed](https://calibreapp.com/blog/critical-request), Ben Schwarz, 04/2021
