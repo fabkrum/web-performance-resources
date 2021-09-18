@@ -686,7 +686,9 @@ Redwood City, California, USA
 
 ### Optimise the Critical Render Path
 
-* [Small Bundles, Fast Pages: What To Do With Too Much JavaScript](https://calibreapp.com/blog/bundle-size-optimization), Ben Schwarz, 09/1021
+* [Eliminate render blocking CSS to improve start render time](https://www.jeffreyknox.dev/blog/eliminate-render-blocking-css-to-improve-start-render-time/), Jeff Knox, 09/2021
+
+* [Small Bundles, Fast Pages: What To Do With Too Much JavaScript](https://calibreapp.com/blog/bundle-size-optimization), Ben Schwarz, 09/2021
 
 * [How to Eliminate Render-Blocking Resources: a Deep Dive](https://sia.codes/posts/render-blocking-resources/), Sia Karamalegos, 07/2021
 
