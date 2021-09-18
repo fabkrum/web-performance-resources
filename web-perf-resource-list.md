@@ -93,6 +93,8 @@ Slack channel which is focusing on web performance with more than 1.400 members
 
 * [Perf.email by Calibre](https://calibreapp.com/newsletter), The newsletter contains mainly web performance articles which are not directly connected with their product. Therefore I can recommend to follow it.
 
+* [Webpagetest.org Newsletter](https://blog.webpagetest.org/newsletter/), Weekly Newsletter with Webpagetest.org updates and articles
+
 * [Web performance newsletter](https://marcradziwill.com/newsletter/) weekly web performance newsletter by [Marc Radziwill](https://marcradziwill.com/)
 
 * [WPRocket](https://wp-rocket.me/newsletter/)
@@ -410,6 +412,8 @@ Redwood City, California, USA
 
 * [Measuring and examining TLS 1.3, IPv4, and IPv6 performance](https://nooshu.github.io/blog/2020/07/30/measuring-tls-13-ipv4-ipv6-performance/), Matt Hobbs, 07/2020
 
+* [San Certificates: How Many Alt-Names Are Too Many?](https://paulcalvano.com/2020-02-17-san-certificates-how-many-alt-names-are-too-many/), Paul Calvano, 02/2020
+
 * [EV Certificates Make The Web Slow and Unreliable](https://www.aaronpeters.nl/blog/ev-certificates-make-the-web-slow-and-unreliable/), Aaron Peters, 01/2020
 
 * [The impact of SSL certificate revocation on web performance](https://nooshu.github.io/blog/2020/01/26/the-impact-of-ssl-certificate-revocation-on-web-performance/), Matt Hobbs, 01/2020
@@ -719,6 +723,8 @@ Redwood City, California, USA
 * [More Weight Doesn’t Mean More Wait](https://www.filamentgroup.com/lab/weight-wait.html), Scott Jehl, 04/2015
 
 ### Javascript and Render Performance
+
+* [Minimising Layout and Layout thrashing for 60 FPS](https://www.charistheo.io/blog/2021/09/dom-reflow-and-layout-thrashing/), Charis Theo, 09/2021 – 🚀
 
 * [Does shadow DOM improve style performance?](https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/), Nolan Lawson, 08/2021
 
