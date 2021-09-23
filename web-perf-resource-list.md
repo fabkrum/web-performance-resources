@@ -918,6 +918,8 @@ This is a great free introduction into web performance. Ilya Grigorik from Googl
 
 ### Business
 
+* [Inclusive Design is Fast by Default](https://www.youtube.com/watch?v=MiXy2x6flww) ([Slides](https://simonhearne.com/presentations/inclusive-design/#/)), Simon Hearne, 09/2021
+
 * [From Milliseconds to Millions: A Look at the Numbers Driving Web Performance](https://www.youtube.com/watch?v=cXLOIIJ1UaE) ([Slides](https://speakerdeck.com/csswizardry/from-milliseconds-to-millions-a-look-at-the-numbers-powering-web-performance)), Harry Roberts, 11/2019 – 🚀
 
 * [The 7 Habits of Highly Effective Performance Teams](https://www.youtube.com/watch?v=SE0HhF4TO0Q) ([Slides](https://www.slideshare.net/tammyeverts/the-7-habits-of-highly-effective-performance-teams-perfnow-2019)), Tammy Everts, 11/2019
