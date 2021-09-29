@@ -190,7 +190,9 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
-* [Web Vitals patterns](https://web.dev/patterns/web-vitals-patterns/), Katie Hempenius, 09/2021
+* [Core Web Vitals Optimizer (proven process & open-source tool)](https://github.com/fabkrum/core-web-vitals-optimizer/blob/main/README.md), Fabian Krumbholz - 📚
+
+* [Web Vitals patterns](https://web.dev/patterns/web-vitals-patterns/), Katie Hempenius, 09/2021 - 📚
 
 * [Core Web Vitals is a Measurable Ranking Factor](https://www.sistrix.com/blog/core-web-vitals-is-a-measurable-ranking-factor/), Johannes Beus, 09/2021
 
