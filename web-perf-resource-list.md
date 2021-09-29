@@ -386,6 +386,8 @@ Redwood City, California, USA
 
 ### Network and Caching
 
+* [Bringing instant page-loads to the browser through speculative prerendering](https://web.dev/speculative-prerendering/), Addy Osmani & Leena Sohoni, 09/2021
+
 * [HTTP/3 From A To Z: Core Concepts (Part 1)](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/), Robin Marx, 08/2021 – 🚀
 
 * [HTTP/3: Performance Improvements (Part 2)](https://www.smashingmagazine.com/2021/08/http3-performance-improvements-part2/), Robin Marx, 08/2021
