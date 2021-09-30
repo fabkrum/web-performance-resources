@@ -696,6 +696,8 @@ Redwood City, California, USA
 
 ### Optimise the Critical Render Path
 
+* [Chrome Resource Priorities and Scheduling](https://docs.google.com/document/d/1bCDuq9H1ih9iNjgzyAL0gpwNFiEP4TZS-YLRp_RuMlc/edit?usp=sharing), Patrick Meenan, 09/2021 - 🚀 📚
+
 * [How To Optimize CSS for Peak Site Performance](https://kinsta.com/blog/optimize-css/), Craig Buckler, 09/2021
 
 * [Eliminate render blocking CSS to improve start render time](https://www.jeffreyknox.dev/blog/eliminate-render-blocking-css-to-improve-start-render-time/), Jeff Knox, 09/2021
