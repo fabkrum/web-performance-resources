@@ -856,6 +856,8 @@ This is all about how humans perceive performance and what we can do to help our
 
 * [Taking A Look At The State Of Progressive Images And User Perception](https://www.smashingmagazine.com/2018/02/progressive-image-loading-user-perceived-performance/), José Manuel Pérez, 02/2018
 
+* [Just-noticeable difference](https://en.wikipedia.org/wiki/Just-noticeable_difference)
+
 ### Tooling Articles
 
 * [New Render Blocking Indicator in Chrome and WebPageTest](https://blog.webpagetest.org/posts/new-render-blocking-indicator-in-chrome-and-webpagetest/), Tim Kadlec, 07/2021
