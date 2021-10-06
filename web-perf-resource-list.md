@@ -614,6 +614,8 @@ Redwood City, California, USA
 
 * [The Three Types of Performance Testing](https://csswizardry.com/2018/10/three-types-of-performance-testing/), Harry Roberts, 10/2018
 
+* [Measuring Performance With Server Timing](https://www.smashingmagazine.com/2018/10/performance-server-timing/), Drew McLellan, 10/2018
+
 * [Applying Waterfall Visualizations to Real User Monitoring Data](https://developer.akamai.com/blog/2018/10/10/applying-waterfall-visualizations-real-user-monitoring-data), Simon Hearne, 10/2018
 
 * [An analysis of Chromium's paint timing metrics](https://speedcurve.com/blog/an-analysis-of-chromiums-paint-timing-metrics/), Joseph Wynn, 09/2018
