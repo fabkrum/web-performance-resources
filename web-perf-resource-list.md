@@ -656,6 +656,8 @@ Redwood City, California, USA
 
 ### Third-Party Services
 
+* [The Impact of Third-Party Scripts on the Facebook Outage](https://www.akamai.com/blog/news/the-impact-of-third-party-scripts-on-the-facebook-outage), Kunjal Botadra, 10/2021 
+
 * [Loading Third-Party JavaScript](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript), Addy Osmani & Arthur Evans
 
 * [Best practices for tags and tag managers](https://web.dev/tag-best-practices/), Katie Hempenius, 07/2021
