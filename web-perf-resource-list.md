@@ -1373,8 +1373,10 @@ Understand the technical building blocks of a website.
 
 #### Development Tools
 
+* [HTML Size Analyzer by DebugBear](https://www.debugbear.com/html-size-analyzer)
+
 * [PurifyCSS Online](https://purifycss.online/)
-Insert your website URL below and find out by how much of your CSS file size can be reduced
+Insert your website URL below and find out by how much of your CSS file size can be reduced – 🚀
 
 * [Microsoft WebHint](https://webhint.io/)
 webhint is a customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors.
