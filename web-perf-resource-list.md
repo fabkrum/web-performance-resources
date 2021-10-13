@@ -392,6 +392,9 @@ Redwood City, California, USA
 
 ### Network and Caching
 
+* [Coalescing Connections to Improve Network Privacy and Performance](https://blog.cloudflare.com/connection-coalescing-experiments/), Talha Paracha &
+Suleman Ahmad, 10/2021
+
 * [Deploying HTTP/3 on Windows Server at Scale](https://techcommunity.microsoft.com/t5/networking-blog/deploying-http-3-on-windows-server-at-scale/ba-p/2839394), Nick Banks, 10/2021
 
 * [How to win at CORS](https://jakearchibald.com/2021/cors/), Jake Archibald, 10/2021 – 🚀
