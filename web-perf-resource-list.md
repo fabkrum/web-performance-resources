@@ -392,6 +392,8 @@ Redwood City, California, USA
 
 ### Network and Caching
 
+* [How to win at CORS](https://jakearchibald.com/2021/cors/), Jake Archibald, 10/2021 – 🚀
+
 * [Bringing instant page-loads to the browser through speculative prerendering](https://web.dev/speculative-prerendering/), Addy Osmani & Leena Sohoni, 09/2021
 
 * [The Challenges of Ajax CDN](https://www.catchpoint.com/blog/ajax-cdn), Catchpoint, 09/2021
