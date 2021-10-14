@@ -506,6 +506,8 @@ Suleman Ahmad, 10/2021
 
 * [Proxying Cloudinary Requests with Netlify](https://timkadlec.com/remembers/2020-11-17-netlify-proxy-requests/), Tim Kadlec, 11/2020
 
+* [How to preload responsive images with imagesizes and imagesrcset](https://www.stefanjudis.com/today-i-learned/how-to-preload-responsive-images-with-imagesizes-and-imagesrcset/), Stefan Judis, 10/2020
+
 * [Time for Next-Gen Codecs to Dethrone JPEG](https://cloudinary.com/blog/time_for_next_gen_codecs_to_dethrone_jpeg), Jon Sneyers, 02/2020
 
 * [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations/), Malte Ubl, 12/2020
