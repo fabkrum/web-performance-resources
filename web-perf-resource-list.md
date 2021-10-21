@@ -266,6 +266,8 @@ Redwood City, California, USA
 
 * [How to create a competitive analysis dashboard for Core Web Vitals using Google Data Studio](https://www.deepcrawl.com/blog/best-practice/competitive-analysis-core-web-vitals-google-data-studio/), Rachel Anderson, 03/2021
 
+* [Case Study Vodafone: A 31% improvement in LCP increased sales by 8%](https://web.dev/vodafone/), Davide Grossi, 03/2021
+
 * [Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo/), Simon Hearne, 02/2021
 
 * [Cumulative Layout Shift Study of Over 1 Million Websites](https://www.seoclarity.net/blog/core-web-vitals-study), Mitul Gandhi, 02/2021
