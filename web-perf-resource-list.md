@@ -187,11 +187,7 @@ They all have a very good lineup:
 Redwood City, California, USA
 
 
-
 ## Core Web Vitals
-
-* [Tool: Layoutshift Automator](https://googlechromelabs.github.io/layout-shift-terminator/)
-The following tool allows you to enter arbitrary markup which causes layout shifts (e.g. social embed) in order load the markup at various viewport sizes to be able to measure the dimensions at each. With this information it then provides optimized markup with responsive media queries to reduce the amount of layout shifting when the markup is rendered on a loading page.
 
 * [Core Web Vitals Changelog](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/speed/metrics_changelog/README.md) - ℹ️
 
@@ -673,6 +669,8 @@ Suleman Ahmad, 10/2021
 * [Page Weight Matters - surprising result after web performance improvement](https://blog.chriszacharias.com/page-weight-matters) Chris Zacharias), 12/2012
 
 ### Third-Party Services
+
+* [Best practices for using third-party embeds](https://web.dev/embed-best-practices/), Leena Sohoni & Katie Hempenius & Addy Osmani, 10/20201
 
 * [The Impact of Third-Party Scripts on the Facebook Outage](https://www.akamai.com/blog/news/the-impact-of-third-party-scripts-on-the-facebook-outage), Kunjal Botadra, 10/2021 
 
@@ -1326,6 +1324,10 @@ A node CLI script to grab Largest Contentful Paint, First Input Delay & Cumulati
 * [Cumulative Layout Shift Debugger](https://webvitals.dev/cls): Visualise the Cumulative Layout Shift (CLS) to identify what needs improving on mobile and/or desktop in the initial load of a website.
 
 * [Batch Speed: Bulk speed test multiple urls using Google's Page Speed checker](https://batchspeed.com/)
+
+
+* [Tool: Layoutshift Automator](https://googlechromelabs.github.io/layout-shift-terminator/):
+The following tool allows you to enter arbitrary markup which causes layout shifts (e.g. social embed) in order load the markup at various viewport sizes to be able to measure the dimensions at each. With this information it then provides optimized markup with responsive media queries to reduce the amount of layout shifting when the markup is rendered on a loading page.
 
 
 #### Images & Video
