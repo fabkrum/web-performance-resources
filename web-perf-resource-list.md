@@ -190,6 +190,9 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [Tool: Layoutshift Automator](https://googlechromelabs.github.io/layout-shift-terminator/)
+The following tool allows you to enter arbitrary markup which causes layout shifts (e.g. social embed) in order load the markup at various viewport sizes to be able to measure the dimensions at each. With this information it then provides optimized markup with responsive media queries to reduce the amount of layout shifting when the markup is rendered on a loading page.
+
 * [Core Web Vitals Changelog](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/speed/metrics_changelog/README.md) - ℹ️
 
 * [Case Study: Renault Group](https://web.dev/renault/), Thierry Coustillac & Antoine Bisch & Cédric Bazureau, 10/2021
