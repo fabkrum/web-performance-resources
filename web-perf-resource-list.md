@@ -395,6 +395,8 @@ Redwood City, California, USA
 
 ### Network and Caching
 
+* [New HTTP standards for caching on the modern web](https://httptoolkit.tech/blog/status-targeted-caching-headers/), Tim Perry, 10/2021
+
 * [Coalescing Connections to Improve Network Privacy and Performance](https://blog.cloudflare.com/connection-coalescing-experiments/), Talha Paracha &
 Suleman Ahmad, 10/2021
 
@@ -717,6 +719,8 @@ Suleman Ahmad, 10/2021
 * [10 pro tips for managing the performance of your third-party scripts,](https://www.soasta.com/blog/10-pro-tips-for-managing-the-performance-of-your-third-party-scripts/) Tammy Everts, 11/2015
 
 ### Optimise the Critical Render Path
+
+* [Optimizing resource loading with Priority Hints](https://web.dev/priority-hints/), Patrick Meena & Addy Osmani & Leena Sohoni, 10/2021
 
 * [Chrome Resource Priorities and Scheduling](https://docs.google.com/document/d/1bCDuq9H1ih9iNjgzyAL0gpwNFiEP4TZS-YLRp_RuMlc/edit?usp=sharing), Patrick Meenan, 09/2021 - 🚀 📚
 
