@@ -189,6 +189,8 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [Send feedback to the Google Core Web Vitals Team](https://groups.google.com/g/web-vitals-feedback) - ℹ️
+
 * [Core Web Vitals Changelog](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/speed/metrics_changelog/README.md) - ℹ️
 
 * [Case Study: Renault Group](https://web.dev/renault/), Thierry Coustillac & Antoine Bisch & Cédric Bazureau, 10/2021
