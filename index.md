@@ -12,7 +12,6 @@
     + [Blogs](#blogs)
     + [Web Performance Meetups](#web-performance-meetups)
     + [Conferences](#conferences)
-    + [Meetups](#meetups)
     + [Podcasts](#podcasts)
     + [Video Formats](#video-formats)
 * [Core Web Vitals](#core-web-vitals)
