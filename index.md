@@ -943,7 +943,7 @@ Not 100% related to Web Performance. A few of the trainings are available for fr
 
 ## Videos
 
-* [Modern Web | State of Web Performance 2021](https://www.youtube.com/watch?v=qeYfbPDyg80), Panel: Alex Rusell, Yoav Weiss, Katie Hempenius, Rob Ocel, Katie Saylor-Miller, 08/2021
+* [Modern Web - State of Web Performance 2021](https://www.youtube.com/watch?v=qeYfbPDyg80), Panel: Alex Rusell, Yoav Weiss, Katie Hempenius, Rob Ocel, Katie Saylor-Miller, 08/2021
 
 * [Top 10 performance pitfalls - HTTP 203](https://www.youtube.com/watch?v=Lh9q3h2khlc), Jack Archibald & Surma, 06/2021
 
