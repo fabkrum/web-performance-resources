@@ -510,6 +510,8 @@ Suleman Ahmad, 10/2021
 
 * [Proxying Cloudinary Requests with Netlify](https://timkadlec.com/remembers/2020-11-17-netlify-proxy-requests/), Tim Kadlec, 11/2020
 
+* [How to cap image fidelity to 2x and save 45% image weight on high-end mobile phones](https://www.andreaverlicchi.eu/capping-image-fidelity-2x-minimize-loading-time/), Andrea Verlicchi, 11/2020
+
 * [How to preload responsive images with imagesizes and imagesrcset](https://www.stefanjudis.com/today-i-learned/how-to-preload-responsive-images-with-imagesizes-and-imagesrcset/), Stefan Judis, 10/2020
 
 * [Time for Next-Gen Codecs to Dethrone JPEG](https://cloudinary.com/blog/time_for_next_gen_codecs_to_dethrone_jpeg), Jon Sneyers, 02/2020
@@ -548,6 +550,8 @@ Suleman Ahmad, 10/2021
 * [How Medium does progressive image loading](https://jmperezperez.com/medium-image-progressive-loading-placeholder/), José M. Pérez, 10/2015
 
 * [Responsive Images 101](https://cloudfour.com/thinks/responsive-images-101-definitions/), Jason Grigsby, 03/2015
+
+* [Srcset and sizes](https://ericportis.com/posts/2014/srcset-sizes/), Eric Portis, 03/2014
 
 
 ### Web Fonts
