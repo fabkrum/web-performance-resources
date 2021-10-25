@@ -781,6 +781,8 @@ Suleman Ahmad, 10/2021
 
 * [The real cost of Javascript dependencies (and the state of JS package quality)](https://medium.com/voodoo-engineering/the-real-cost-of-javascript-dependencies-and-the-state-of-js-package-quality-a8dacd74c0ec), Vincent Vallet, 06/2021
 
+* [The State Of Web Workers In 2021](https://www.smashingmagazine.com/2021/06/web-workers-2021/), Surma, 06/2021
+
 * [Techniques for developing high-performance animations](https://web.dev/animations/)
 
 * [Building a Faster Web Experience with the postTask Scheduler](https://medium.com/airbnb-engineering/building-a-faster-web-experience-with-the-posttask-scheduler-276b83454e91), Callie (Airbnb Engineering & Data Science), 05/2021 – 🚀
