@@ -498,6 +498,8 @@ Suleman Ahmad, 10/2021
 
 ### Image and Video Optimization
 
+* [Building an effective Image Component](https://web.dev/image-component/), Leena Sohoni & Kara Erickson & Alex Castle, 10/2021
+
 * [Decoding AVIF: Deep dive with cats and imgproxy](https://evilmartians.com/chronicles/decoding-avif-deep-dive-with-cats-and-imgproxy), Polina Gurtovaya & Andy Barnov, 08/2021
 
 * [The performance effects of too much lazy-loading](https://web.dev/lcp-lazy-loading/), Rick Viscomi & Felix Arntz, 07/2021
