@@ -1030,6 +1030,8 @@ This is a great free introduction into web performance. Ilya Grigorik from Googl
 * O’Reilly Safaribooksonline: [Perceived Performance: The Only Kind that Really Matters](https://www.safaribooksonline.com/library/view/perceived-performance-the/9781492029953/) ([Slides](http://assets.eli.wtf/talks/perceived-perf-talk/)), Eli Fitch, 11/2017 (34$ / monthly subscription) 
 This is a really good talk about how humans perceive performance. Eli shares a lot of good tips and tricks how you can improve the perceived performance.
 
+* [The Illusion of speed - improving the perceived speed of websites](https://www.youtube.com/watch?v=g3P7Gy_2wOo), Paul Bakaus, 08/2017
+
 * [Deconstructing Performance](https://vimeo.com/184659742), Denys Mishunov, 01/2016
 The content of this talk is similar to Eli Fitch’s talk, but less technical.
 
