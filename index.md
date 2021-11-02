@@ -775,6 +775,8 @@ Suleman Ahmad, 10/2021
 
 * [GPU accelerated JavaScript](https://gpu.rocks/#/)
 
+* [Introducing Partytown 🎉: Run Third-Party Scripts From a Web Worker](https://dev.to/adamdbradley/introducing-partytown-run-third-party-scripts-from-a-web-worker-2cnp), Adam Bradly, 10/2021
+
 * [Minimising Layout and Layout thrashing for 60 FPS](https://www.charistheo.io/blog/2021/09/dom-reflow-and-layout-thrashing/), Charis Theo, 09/2021 – 🚀
 
 * [Does shadow DOM improve style performance?](https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/), Nolan Lawson, 08/2021
