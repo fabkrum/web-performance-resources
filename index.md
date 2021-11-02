@@ -773,6 +773,8 @@ Suleman Ahmad, 10/2021
 
 ### Javascript and Render Performance
 
+* [GPU accelerated JavaScript](https://gpu.rocks/#/)
+
 * [Minimising Layout and Layout thrashing for 60 FPS](https://www.charistheo.io/blog/2021/09/dom-reflow-and-layout-thrashing/), Charis Theo, 09/2021 – 🚀
 
 * [Does shadow DOM improve style performance?](https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/), Nolan Lawson, 08/2021
