@@ -188,6 +188,14 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [CLS at BuzzFeed — Part 1: Raising The Floor](https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-1-8b7ead2381dd), Edgar Sanchez, 11/2021
+
+* [CLS at BuzzFeed — Part 2: Getting Help From Real Users](), Edgar Sanchez, 11/2021
+
+* [CLS at BuzzFeed — Part 3: Dealing with the unpredictable](https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-2-2a846adeb097), Edgar Sanchez, 11/2021
+
+* [CWV will become a desktop ranking factor in February 2022](https://developers.google.com/search/blog/2021/11/bringing-page-experience-to-desktop) - ℹ️
+
 * [Send feedback to the Google Core Web Vitals Team](https://groups.google.com/g/web-vitals-feedback) - ℹ️
 
 * [Core Web Vitals Changelog](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/speed/metrics_changelog/README.md) - ℹ️
@@ -1072,6 +1080,8 @@ Nice introduction to HTTP2
 
 ### Measure
 
+* [Web Performance Metrics Cheatsheet](https://bitsofco.de/web-performance-metrics-cheatsheet/), Ire Aderinokun, 10/2021
+
 * [How to test site speed optimizations with Compute@Edge](https://www.fastly.com/blog/how-to-test-site-speed-optimizations-with-compute-edge), Leon Brocard, 06/2021
 
 * [WebPageTest and Cloudflare Workers – A Performance Consultant’s Dream Combo?](https://www.youtube.com/watch?v=YSS0a0uaDvk), Andy Davies, 20/2020 – 🚀
@@ -1652,6 +1662,8 @@ Learn what influence PWA have on business metrics.
 
 
 ## Case studies
+
+* [How I made my WordPress Site Score 100% on Web Vitals](https://blog.speedvitals.com/wordpress-score-100-web-vitals/), Kashish Kumawat, 11/2021
 
 * [LinkedIn: Personalizing Performance: Adapting Application in real time to member environments](https://www.linkedin.com/pulse/personalizing-performance-adapting-application-real-time-pasumarthy/), Nitin Pasumarthy, 09/2021
 
