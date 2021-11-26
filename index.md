@@ -1663,6 +1663,8 @@ Learn what influence PWA have on business metrics.
 
 ## Case studies
 
+* [Case Study: Improving The Performance Of Wix Websites](https://www.smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/), Dan Shapir, 11/2021
+
 * [How I made my WordPress Site Score 100% on Web Vitals](https://blog.speedvitals.com/wordpress-score-100-web-vitals/), Kashish Kumawat, 11/2021
 
 * [LinkedIn: Personalizing Performance: Adapting Application in real time to member environments](https://www.linkedin.com/pulse/personalizing-performance-adapting-application-real-time-pasumarthy/), Nitin Pasumarthy, 09/2021
@@ -1721,6 +1723,8 @@ Learn what influence PWA have on business metrics.
 
 
 ## Open data sources
+
+* [HTTP Archive Report: State of Images](https://httparchive.org/reports/state-of-images)
 
 * [Scientia Mobile Report](https://www.scientiamobile.com/wp-content/uploads/2021/08/MOVR-2021-Q2-v3.pdf), 08/2021
 
