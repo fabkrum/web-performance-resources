@@ -1306,6 +1306,9 @@ The Request Map Generator is the go to place to understand what 3rd party tools 
 
 #### Lighthouse & CrUX & Core Web Vitals
 
+* [Lighthouse network throttling simulation](https://www.debugbear.com/lighthouse-simulation)
+This tool runs a Lighthouse performance test at a range of different network speeds. It shows how bandwidth and round-trip latency impact site performance metrics.
+
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 Lighthouse is becoming the best audit tool for web performance. It has a great documentation and gives valuable insights. This is where my performance audit is starting.
 
