@@ -311,6 +311,10 @@ Redwood City, California, USA
 
 ### General
 
+* [2021 Chrome Dev Summit: Web Performance 101 (Slides)](https://www.slideshare.net/tammyeverts/2021-chrome-dev-summit-web-performance-101?from_action=save), Tammy Everyts, 11/2021
+
+* [Web Alamnac 2021: Web Performance](https://almanac.httparchive.org/en/2021/performance), Sia Karamalegos, 11/2021
+
 * [My Challenge to the Web Performance Community](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/), Philip Walton, 10/2021
 
 * [The metrics game](https://tech.bluesmoon.info/2021/08/the-metrics-game.html), Philip Tellis, 08/2021
@@ -403,6 +407,8 @@ Redwood City, California, USA
 
 
 ### Network and Caching
+
+* [Experiment with Priority Hints Locally](https://blr.design/blog/experiment-with-priority-hints/), Brian Louis Ramirez, 11/2021
 
 * [New HTTP standards for caching on the modern web](https://httptoolkit.tech/blog/status-targeted-caching-headers/), Tim Perry, 10/2021
 
@@ -582,12 +588,18 @@ Suleman Ahmad, 10/2021
 
 * [How to avoid layout shifts caused by web fonts](https://simonhearne.com/2021/layout-shifts-webfonts/), Simon Hearne, 01/2021
 
+* [The Fastest Google Fonts](https://csswizardry.com/2020/05/the-fastest-google-fonts/), Harry Roberts, 05/2020
+
+* [Should you self-host Google Fonts?](https://www.tunetheweb.com/blog/should-you-self-host-google-fonts/), Barry Pollard, 02/2020
+
 * [Preloading Fonts and the Puzzle of Priorities](https://andydavies.me/blog/2019/02/12/preloading-fonts-and-the-puzzle-of-priorities/), Andy Davies, 02/2019
 
 * [The font loading checklist](https://www.zachleat.com/web/font-checklist/), Zach Leatherman, 08/2018
 
 
 ### Measure Performance
+
+* [What's new in PageSpeed Insights](https://web.dev/whats-new-pagespeed-insights/), Addy Osmani & Elizabeth Sweeny, 11/2021
 
 * [Why does Lighthouse lab data not match field data?](https://www.debugbear.com/blog/lighthouse-lab-data-not-matching-field-data), Matt Zeunert, 08/2021
 
@@ -687,6 +699,8 @@ Suleman Ahmad, 10/2021
 
 ### Third-Party Services
 
+* [Web Almanac 2021: Third Parties](https://almanac.httparchive.org/en/2021/third-parties), Barry Pollard, 11/2021
+
 * [Best practices for using third-party embeds](https://web.dev/embed-best-practices/), Leena Sohoni & Katie Hempenius & Addy Osmani, 10/20201
 
 * [The Impact of Third-Party Scripts on the Facebook Outage](https://www.akamai.com/blog/news/the-impact-of-third-party-scripts-on-the-facebook-outage), Kunjal Botadra, 10/2021 
@@ -706,6 +720,8 @@ Suleman Ahmad, 10/2021
 * [The Case Against Anti-Flicker Snippets](https://andydavies.me/blog/2020/11/16/the-case-against-anti-flicker-snippets/), Andy Davies, 11/2020
 
 * [Reducing the Site-Speed Impact of Third-Party Tags](https://andydavies.me/blog/2020/10/02/reducing-the-site-speed-impact-of-third-party-tags/), Andy Davies, 10/2020
+
+* [Adding controls to Google Tag Manager](https://www.tunetheweb.com/blog/adding-controls-to-google-tag-manager/), Barry Pollard, 09/2019
 
 * [Improve web performance lazy loading reCaptcha](https://antonioufano.com/articles/improve-web-performance-lazy-loading-recaptcha/), Antonio Ufano, 06/2020
 
@@ -1156,6 +1172,8 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 * [High Performance Images: Beautiful Shouldn’t Mean Slow](https://www.youtube.com/watch?v=7zgd2OjSoS8), Guy Podjarny, 12/2015
 
 ### Development
+
+* [Harry Roberts - Get Your "head" Straight](https://www.youtube.com/watch?v=MHyAOZ45vnU), Harry Roberts, 11/2021
 
 * [Web Performance Tuning with browser APIs](https://www.youtube.com/watch?v=ALN1v_sBe2g), Yaser Adel Mehraban, 06/2021
 
