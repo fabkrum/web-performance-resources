@@ -188,6 +188,10 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [Towards an animation smoothness metric](https://web.dev/smoothness/), Michal Mocny & Behdad Bakhshinategh & Jonathan Ross, 11/2021
+
+* [An experimental responsiveness metric](https://web.dev/responsiveness/), Hongbo Song, 11/2021
+
 * [CLS at BuzzFeed — Part 1: Raising The Floor](https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-1-8b7ead2381dd), Edgar Sanchez, 11/2021
 
 * [CLS at BuzzFeed — Part 2: Getting Help From Real Users](), Edgar Sanchez, 11/2021
