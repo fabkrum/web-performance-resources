@@ -321,6 +321,8 @@ Redwood City, California, USA
 
 * [My Challenge to the Web Performance Community](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/), Philip Walton, 10/2021
 
+* [Personalizing Performance: Adapting Application in real time to member environments](https://www.linkedin.com/pulse/personalizing-performance-adapting-application-real-time-pasumarthy/), Nitin Pasumarthy, 09/2021
+
 * [The metrics game](https://tech.bluesmoon.info/2021/08/the-metrics-game.html), Philip Tellis, 08/2021
 
 * [Hobson's Browser](https://infrequently.org/2021/07/hobsons-browser/), Alex Rusell, 07/2021
