@@ -1401,7 +1401,10 @@ Optimizes images and generate the HTML for you.
 
 * [See How Images Affect Your Page Speed](https://pageweight.imgix.com)
 
-* [Image Analyser](https://webspeedtest.cloudinary.com/)
+* [Cloudflare: Image Optimization Test](https://images.cloudflare.com/)
+Image analysis tool. This tool gives you insight about how you can optimise your images to gain a better web performance.
+
+* [Cloudinary: Image Analyser](https://webspeedtest.cloudinary.com/)
 Image analysis tool. This tool gives you insight about how you can optimise your images to gain a better web performance. This tool is also integrated within webpagetest.org.
 
 * [Responsive Image Breakpoints Generator v2.0](https://responsivebreakpoints.com/)
