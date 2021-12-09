@@ -605,6 +605,8 @@ Suleman Ahmad, 10/2021
 
 ### Measure Performance
 
+* [Why Lighthouse Performance Score Doesn’t Work](https://calibreapp.com/blog/downsides-of-performance-score), Karolina Szczur, 12/2021
+
 * [What's new in PageSpeed Insights](https://web.dev/whats-new-pagespeed-insights/), Addy Osmani & Elizabeth Sweeny, 11/2021
 
 * [Why does Lighthouse lab data not match field data?](https://www.debugbear.com/blog/lighthouse-lab-data-not-matching-field-data), Matt Zeunert, 08/2021
