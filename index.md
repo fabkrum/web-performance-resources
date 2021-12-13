@@ -61,6 +61,7 @@
 * [Open data sources](#open-data-sources)
 * [W3C Standards](#w3c-standards)
 * [Build a fast blog with Eleventy](#11ty)
+* [Checklists](#checklists)
 
 ## Legend
 
@@ -1806,3 +1807,10 @@ The [Performance Timing Primer](https://w3c.github.io/perf-timing-primer/) gives
 * [Automatically Generate Social Images for Blog Posts](https://www.learnwithjason.dev/blog/auto-generate-social-image), Jason Lengstorf
 
 * [Migrating from Github Pages to Netlify & Cloudflare](https://nooshu.com/blog/2021/09/06/migrating-from-github-pages-to-cloudflare-and-netlify/), Matt Hobbs, 09/2021 
+
+#Checklists
+* [Web Quality Assurance Checklist](https://checklists.opquast.com/web-quality-assurance/)
+* [Web Sustainability Checklist (German)](https://nachhaltiges-webdesign.jetzt/)
+* [Smashing Magazine: Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
+
+
