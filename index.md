@@ -806,6 +806,8 @@ Suleman Ahmad, 10/2021
 
 ### Javascript and Render Performance
 
+* [Nuxt SSR Optimizing Tips]{https://vueschool.io/articles/vuejs-tutorials/nuxt-ssr-optimizing-tips/}, Filip Rakowski
+
 * [GPU accelerated JavaScript](https://gpu.rocks/#/)
 
 * [Introducing Partytown 🎉: Run Third-Party Scripts From a Web Worker](https://dev.to/adamdbradley/introducing-partytown-run-third-party-scripts-from-a-web-worker-2cnp), Adam Bradly, 10/2021
