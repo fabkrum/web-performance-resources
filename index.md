@@ -189,6 +189,8 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [Hands On with the new Responsiveness Metrics](https://calendar.perfplanet.com/2021/hands-on-with-the-new-responsiveness-metrics/), Hongbo Song, 12/2021
+
 * [Have Core Web Vitals made the web faster?](https://calendar.perfplanet.com/2021/have-core-web-vitals-made-the-web-faster/), Barry Pollard, 12/2021
 
 * [Towards an animation smoothness metric](https://web.dev/smoothness/), Michal Mocny & Behdad Bakhshinategh & Jonathan Ross, 11/2021
