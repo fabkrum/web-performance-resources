@@ -812,6 +812,8 @@ Suleman Ahmad, 10/2021
 
 ### Javascript and Render Performance
 
+* [Have Single-Page Apps Ruined the Web? | Transitional Apps](https://www.youtube.com/watch?v=860d8usGC0o), Rich Harris, 12/2021
+
 * [Improve how you architect webapps](https://www.patterns.dev/), Addy Osmani & Lydia Hallie – 🚀
 
 * [Nuxt SSR Optimizing Tips]{https://vueschool.io/articles/vuejs-tutorials/nuxt-ssr-optimizing-tips/}, Filip Rakowski
