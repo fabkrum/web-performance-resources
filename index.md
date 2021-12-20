@@ -189,6 +189,8 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [Improving Core Web Vitals, A Smashing Magazine Case Study](https://www.smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/), Barry Pollard, 12/2021
+
 * [Hands On with the new Responsiveness Metrics](https://calendar.perfplanet.com/2021/hands-on-with-the-new-responsiveness-metrics/), Hongbo Song, 12/2021
 
 * [Have Core Web Vitals made the web faster?](https://calendar.perfplanet.com/2021/have-core-web-vitals-made-the-web-faster/), Barry Pollard, 12/2021
