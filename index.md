@@ -810,6 +810,8 @@ Suleman Ahmad, 10/2021
 
 ### Javascript and Render Performance
 
+* [Improve how you architect webapps](https://www.patterns.dev/), Addy Osmani & Lydia Hallie – 🚀
+
 * [Nuxt SSR Optimizing Tips]{https://vueschool.io/articles/vuejs-tutorials/nuxt-ssr-optimizing-tips/}, Filip Rakowski
 
 * [GPU accelerated JavaScript](https://gpu.rocks/#/)
