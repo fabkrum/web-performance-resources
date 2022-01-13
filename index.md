@@ -324,6 +324,8 @@ Redwood City, California, USA
 
 * [Website performance and the planet](https://blog.webpagetest.org/posts/website-performance-and-the-planet/), Fershad Irani, 01/2022
 
+* [Should you use a carousel on your website?](https://www.pragm.co/post/should-you-use-a-carousel-on-your-website), Myriam Jessier, 12/2021
+
 * [2021 Chrome Dev Summit: Web Performance 101 (Slides)](https://www.slideshare.net/tammyeverts/2021-chrome-dev-summit-web-performance-101?from_action=save), Tammy Everyts, 11/2021
 
 * [Web Alamnac 2021: Web Performance](https://almanac.httparchive.org/en/2021/performance), Sia Karamalegos, 11/2021
