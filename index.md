@@ -322,6 +322,8 @@ Redwood City, California, USA
 
 ### General
 
+* [Browser Cookie Status](https://www.cookiestatus.com/), Simo Ahava - 📚
+
 * [Website performance and the planet](https://blog.webpagetest.org/posts/website-performance-and-the-planet/), Fershad Irani, 01/2022
 
 * [Should you use a carousel on your website?](https://www.pragm.co/post/should-you-use-a-carousel-on-your-website), Myriam Jessier, 12/2021
