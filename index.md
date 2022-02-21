@@ -427,6 +427,8 @@ Redwood City, California, USA
 
 ### Network and Caching
 
+* [Bringing instant page-loads to the browser through speculative prerendering](https://web.dev/speculative-prerendering/#in-browser-speculation-rules-for-prefetch-and-prerender), Leena Sohoni & Addy Osmani, 02/2022
+
 * [Experiment with Priority Hints Locally](https://blr.design/blog/experiment-with-priority-hints/), Brian Louis Ramirez, 11/2021
 
 * [New HTTP standards for caching on the modern web](https://httptoolkit.tech/blog/status-targeted-caching-headers/), Tim Perry, 10/2021
