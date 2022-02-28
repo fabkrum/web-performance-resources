@@ -189,6 +189,8 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [How To Benchmark And Improve Web Vitals With Real User Metrics](smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/), Átila Fassina, 02/2022
+
 * [Improving Core Web Vitals, A Smashing Magazine Case Study](https://www.smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/), Barry Pollard, 12/2021
 
 * [Hands On with the new Responsiveness Metrics](https://calendar.perfplanet.com/2021/hands-on-with-the-new-responsiveness-metrics/), Hongbo Song, 12/2021
