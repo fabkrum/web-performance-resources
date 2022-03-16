@@ -1410,7 +1410,6 @@ A node CLI script to grab Largest Contentful Paint, First Input Delay & Cumulati
 
 * [Batch Speed: Bulk speed test multiple urls using Google's Page Speed checker](https://batchspeed.com/)
 
-
 * [Layout Shift Terminator](https://googlechromelabs.github.io/layout-shift-terminator/):
 The following tool allows you to enter arbitrary markup which causes layout shifts (e.g. social embed) in order load the markup at various viewport sizes to be able to measure the dimensions at each. With this information it then provides optimized markup with responsive media queries to reduce the amount of layout shifting when the markup is rendered on a loading page.
 
@@ -1480,6 +1479,8 @@ Understand the technical building blocks of a website.
 
 
 #### Development Tools
+
+* [Resource Hint Validator by DebugBear](https://www.debugbear.com/resource-hint-validator)
 
 * [HTML Size Analyzer by DebugBear](https://www.debugbear.com/html-size-analyzer)
 
