@@ -1090,8 +1090,7 @@ This is a great free introduction into web performance. Ilya Grigorik from Googl
 
 * [Cheating the UX when there is nothing more to optimize](https://vimeo.com/251825705) ([Slides](https://speakerdeck.com/stephaniewalter/cheating-the-ux-when-there-is-nothing-more-to-optimise)), Stephanie Walter, 01/2018
 
-* O’Reilly Safaribooksonline: [Perceived Performance: The Only Kind that Really Matters](https://www.safaribooksonline.com/library/view/perceived-performance-the/9781492029953/) ([Slides](http://assets.eli.wtf/talks/perceived-perf-talk/)), Eli Fitch, 11/2017 (34$ / monthly subscription) 
-This is a really good talk about how humans perceive performance. Eli shares a lot of good tips and tricks how you can improve the perceived performance.
+* [Perceived Performance: The Only Kind that Really Matters](https://www.youtube.com/watch?v=USH4iPQ44LQ) ([Slides](http://assets.eli.wtf/talks/perceived-perf-perfmatters-2018/#/)), Eli Fitch, 11/2017
 
 * [The Illusion of speed - improving the perceived speed of websites](https://www.youtube.com/watch?v=g3P7Gy_2wOo), Paul Bakaus, 08/2017
 
