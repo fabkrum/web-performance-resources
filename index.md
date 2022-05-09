@@ -189,6 +189,10 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [Optimising Largest Contentful Paint](https://csswizardry.com/2022/03/optimising-largest-contentful-paint/), Harry Roberts, 03/2022
+
+* [Optimising Core Web Vitals on SPAs](https://simonhearne.com/2022/core-web-vitals-on-spas/), Simon Hearne, 03/2022
+
 * [How To Benchmark And Improve Web Vitals With Real User Metrics](smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/), Átila Fassina, 02/2022
 
 * [Improving Core Web Vitals, A Smashing Magazine Case Study](https://www.smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/), Barry Pollard, 12/2021
@@ -821,6 +825,8 @@ Suleman Ahmad, 10/2021
 * [More Weight Doesn’t Mean More Wait](https://www.filamentgroup.com/lab/weight-wait.html), Scott Jehl, 04/2015
 
 ### Javascript and Render Performance
+
+* [The Web Performance impact of jQuery](https://twitter.com/TheRealNooshu/status/1509487050122276864), Matt Hobbs, 03/2022
 
 * [Have Single-Page Apps Ruined the Web? | Transitional Apps](https://www.youtube.com/watch?v=860d8usGC0o), Rich Harris, 12/2021
 
