@@ -826,6 +826,8 @@ Suleman Ahmad, 10/2021
 
 ### Javascript and Render Performance
 
+* [Don't fight the browser preload scanner](https://web.dev/preload-scanner/), Jeremy Wagner, 05/2022
+
 * [The Web Performance impact of jQuery](https://twitter.com/TheRealNooshu/status/1509487050122276864), Matt Hobbs, 03/2022
 
 * [Have Single-Page Apps Ruined the Web? | Transitional Apps](https://www.youtube.com/watch?v=860d8usGC0o), Rich Harris, 12/2021
