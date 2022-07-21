@@ -189,6 +189,8 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [Chrome UX Report documentation](https://developer.chrome.com/docs/crux/), 07/2022 - ℹ️
+
 * [Optimising Largest Contentful Paint](https://csswizardry.com/2022/03/optimising-largest-contentful-paint/), Harry Roberts, 03/2022
 
 * [Optimising Core Web Vitals on SPAs](https://simonhearne.com/2022/core-web-vitals-on-spas/), Simon Hearne, 03/2022
