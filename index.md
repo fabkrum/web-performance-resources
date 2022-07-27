@@ -435,6 +435,8 @@ Redwood City, California, USA
 
 ### Network and Caching
 
+* [Worker Runtimes](https://workers.js.org/)
+
 * [Bringing instant page-loads to the browser through speculative prerendering](https://web.dev/speculative-prerendering/#in-browser-speculation-rules-for-prefetch-and-prerender), Leena Sohoni & Addy Osmani, 02/2022
 
 * [Experiment with Priority Hints Locally](https://blr.design/blog/experiment-with-priority-hints/), Brian Louis Ramirez, 11/2021
