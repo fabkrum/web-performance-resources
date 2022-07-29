@@ -1004,6 +1004,8 @@ This course is great to start. You will learn how the browser works internally a
 
 ### Paid Video Courses
 
+* [Setting up DevTools for Performance Testing](https://csswizardry.gumroad.com/l/perfect-devtools), Harry Roberts, 07/2022
+
 * [Lightning-Fast Web Performance](https://scottjehl.com/lfwp/), Scott Jehl, 05/2020
 This course is great for Frontend Developers who are interested in web performance. 
 Scott introduces the most relevant web performance metrics and shows the most effective ways how to optimize them in great detail. The course contains also a lot of good references which can be used to dive deeper into the topic.  
