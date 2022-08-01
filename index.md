@@ -189,6 +189,8 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [Luxury retailer Farfetch sees higher conversion rates for better Core Web Vitals]([https://developer.chrome.com/docs/crux/](https://web.dev/farfetch/)), Rui Santos & Manuel Garcia & Patrícia Couto Neto & Dikla Cohen, 07/2022
+
 * [Chrome UX Report documentation](https://developer.chrome.com/docs/crux/), 07/2022 - ℹ️
 
 * [Optimising Largest Contentful Paint](https://csswizardry.com/2022/03/optimising-largest-contentful-paint/), Harry Roberts, 03/2022
