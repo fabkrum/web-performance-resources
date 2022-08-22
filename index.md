@@ -832,6 +832,8 @@ Suleman Ahmad, 10/2021
 
 ### Javascript and Render Performance
 
+* [Profiling & Optimizing the runtime performance with the DevTools Performance tab](iamtk.co/profiling-and-optimizing-the-runtime-performance-with-the-devtools-performance-tab), TK, 08/2022
+
 * [Don't fight the browser preload scanner](https://web.dev/preload-scanner/), Jeremy Wagner, 05/2022
 
 * [The Web Performance impact of jQuery](https://twitter.com/TheRealNooshu/status/1509487050122276864), Matt Hobbs, 03/2022
@@ -1295,6 +1297,8 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 
 ### Meta
 
+* [Web Performance Research](https://github.com/imteekay/web-performance-research), TK, 08/2022
+
 * [performance.now().reject(reasons)](https://www.youtube.com/watch?v=vtIfVPtN6io) ([Slides](https://docs.google.com/presentation/d/18KW9c8ywYvMVsXVwU-Llvc1nEX40y9Fj3VBAkHRKs_4/present)), Ilya Grigorik, 11/2019
 
 * [A Decade of Disciplined Delivery](https://www.youtube.com/watch?v=HC1eVj5cQOo) ([Slides](https://www.dropbox.com/s/lfvrkzoqkecnh0h/DecadeOfDelivery_PDF.pdf)), Henri Helvetica, 11/2019
@@ -1754,11 +1758,15 @@ Learn what influence PWA have on business metrics.
 
 * [How We Improved Our Core Web Vitals (Case Study)](https://www.smashingmagazine.com/2021/05/core-web-vitals-case-study/), 05/2021
 
+* [Optimizing the Performance of a React Progressive Web App](https://www.iamtk.co/optimizing-the-performance-of-a-react-progressive-web-app), TK, 04/2021
+
 * [Making Cybertruck Faster](https://tryblackbird.com/blog/cybertruck), 04/2021
 
 * [How has the fastest F1 website in 2021?](https://jakearchibald.com/2021/f1-perf-part-1/), Jake Archibald, 03/2021
 
 * [How we built UK’s fastest online fashion-store](https://www.scipioerp.com/2021/03/08/how-we-built-uks-fastest-online-fashion-store/), Paul, 03/2021
+
+* [Performance: Prefetch Next Pages Chunks](https://www.iamtk.co/performance-prefetch-next-pages-chunks), TK, 01/2021
 
 * [Making GitHub’s new homepage fast and performant](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/), Tobias Ahlin, 01/2021
 
