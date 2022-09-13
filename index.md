@@ -189,6 +189,8 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [Why is CrUX data different from my RUM data?](https://web.dev/crux-and-rum-differences/), Barry Pollard, 08/2022
+
 * [Luxury retailer Farfetch sees higher conversion rates for better Core Web Vitals]([https://developer.chrome.com/docs/crux/](https://web.dev/farfetch/)), Rui Santos & Manuel Garcia & Patrícia Couto Neto & Dikla Cohen, 07/2022
 
 * [Chrome UX Report documentation](https://developer.chrome.com/docs/crux/), 07/2022 - ℹ️
