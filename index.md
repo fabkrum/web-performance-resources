@@ -788,6 +788,8 @@ Suleman Ahmad, 10/2021
 
 ### Optimise the Critical Render Path
 
+* [Critical CSS? Not So Fast!](https://csswizardry.com/2022/09/critical-css-not-so-fast/), Harry Roberts, 09/2022
+
 * [Optimizing resource loading with Priority Hints](https://web.dev/priority-hints/), Patrick Meena & Addy Osmani & Leena Sohoni, 10/2021 - 🚀 📚
 
 * [Chrome Resource Priorities and Scheduling](https://docs.google.com/document/d/1bCDuq9H1ih9iNjgzyAL0gpwNFiEP4TZS-YLRp_RuMlc/edit?usp=sharing), Patrick Meenan, 09/2021 - 🚀 📚
