@@ -634,6 +634,8 @@ Suleman Ahmad, 10/2021
 
 ### Measure Performance
 
+* [Measure What You Impact, Not What You Influence](https://csswizardry.com/2022/08/measure-what-you-impact-not-what-you-influence/), Harry Roberts, 08/2022
+
 * [Why Lighthouse Performance Score Doesn’t Work](https://calibreapp.com/blog/downsides-of-performance-score), Karolina Szczur, 12/2021
 
 * [What's new in PageSpeed Insights](https://web.dev/whats-new-pagespeed-insights/), Addy Osmani & Elizabeth Sweeny, 11/2021
