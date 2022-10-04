@@ -607,6 +607,8 @@ Suleman Ahmad, 10/2021
 
 ### Web Fonts
 
+* [Fallback Font Generator](https://screenspan.net/fallback)
+
 * [30 Best Web Safe Fonts for Your Next Design in 2021](https://kinsta.com/blog/web-safe-fonts/), Maateo Duó, 07/2021
 
 * [Making Google Fonts Faster in 2021](https://sia.codes/posts/making-google-fonts-faster/), Sia Karamalegos, 07/2021
@@ -633,6 +635,9 @@ Suleman Ahmad, 10/2021
 
 
 ### Measure Performance
+
+* [Element Timing: One true metric to rule them all?
+](https://www.speedcurve.com/blog/element-timing-one-true-metric/), Andy Davies, 09/2022
 
 * [Measure What You Impact, Not What You Influence](https://csswizardry.com/2022/08/measure-what-you-impact-not-what-you-influence/), Harry Roberts, 08/2022
 
@@ -792,6 +797,8 @@ Suleman Ahmad, 10/2021
 
 * [Critical CSS? Not So Fast!](https://csswizardry.com/2022/09/critical-css-not-so-fast/), Harry Roberts, 09/2022
 
+* [Priority Hints - What Your Browser Doesn’t Know (Yet)](https://www.etsy.com/codeascraft/priority-hints-what-your-browser-doesnt-know-yet), David Ross, 07/2022
+
 * [Optimizing resource loading with Priority Hints](https://web.dev/priority-hints/), Patrick Meena & Addy Osmani & Leena Sohoni, 10/2021 - 🚀 📚
 
 * [Chrome Resource Priorities and Scheduling](https://docs.google.com/document/d/1bCDuq9H1ih9iNjgzyAL0gpwNFiEP4TZS-YLRp_RuMlc/edit?usp=sharing), Patrick Meenan, 09/2021 - 🚀 📚
@@ -837,6 +844,12 @@ Suleman Ahmad, 10/2021
 * [More Weight Doesn’t Mean More Wait](https://www.filamentgroup.com/lab/weight-wait.html), Scott Jehl, 04/2015
 
 ### Javascript and Render Performance
+
+* [Five Data-Loading Patterns To Boost Web Performance](https://www.smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/), Agustinus Theodorus, 09/2022
+
+* [Optimize long tasks](https://web.dev/optimize-long-tasks/), Jerry Wagner, 09/2022 – 🚀
+
+* [The impact of removing jQuery on our web performance](https://insidegovuk.blog.gov.uk/2022/08/15/the-impact-of-removing-jquery-on-our-web-performance/), Matt Hobbs & Andy Sellick, 08/2022
 
 * [Profiling & Optimizing the runtime performance with the DevTools Performance tab](iamtk.co/profiling-and-optimizing-the-runtime-performance-with-the-devtools-performance-tab), TK, 08/2022
 
