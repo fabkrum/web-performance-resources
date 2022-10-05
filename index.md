@@ -636,6 +636,8 @@ Suleman Ahmad, 10/2021
 
 ### Measure Performance
 
+* [How Fast Is Your Web App? How to Test Page Transition Performance](https://blog.webpagetest.org/posts/test-your-spa/), Scott Jehl, 09/2022
+
 * [Element Timing: One true metric to rule them all?
 ](https://www.speedcurve.com/blog/element-timing-one-true-metric/), Andy Davies, 09/2022
 
