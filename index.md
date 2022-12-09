@@ -1103,6 +1103,8 @@ This is a great free introduction into web performance. Ilya Grigorik from Googl
 
 * [Hybrid Personalization in the Adobe Experience Platform Web SDK](https://blog.developer.adobe.com/hybrid-personalization-in-the-adobe-experience-platform-web-sdk-6a1bb674bf41), Jason Waters, 11/2023
 
+* [Keeping it 100, Web Performance with Franklin](https://www.hlx.live/developer/keeping-it-100), Adobe - Project Franklin, 08/2023 
+
 * [How anti-flicker snippets from A/B testing tools impact site speed](https://www.debugbear.com/blog/ab-testing-anti-flicker-body-hiding), Matt Zeunert, 02/2022
 
 * [Deep dive into third-party performance](https://www.youtube.com/watch?v=uXv9JFvrnwo) ([Slides](https://noti.st/simonhearne/5QA7lv/third-party-performance-a-deep-dive)), Simon Hearne, 11/2019
