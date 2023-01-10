@@ -189,6 +189,8 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [What goes into making a new Web Vital metric](https://calendar.perfplanet.com/2022/making-a-new-web-vital-metric/), Annie Sullivan, 12/2022
+
 * [Why is CrUX data different from my RUM data?](https://web.dev/crux-and-rum-differences/), Barry Pollard, 08/2022
 
 * [Luxury retailer Farfetch sees higher conversion rates for better Core Web Vitals]([https://developer.chrome.com/docs/crux/](https://web.dev/farfetch/)), Rui Santos & Manuel Garcia & Patrícia Couto Neto & Dikla Cohen, 07/2022
@@ -635,6 +637,8 @@ Suleman Ahmad, 10/2021
 
 
 ### Measure Performance
+
+* [Variability Isn't the Problem](https://timkadlec.com/remembers/2022-12-08-variability-isnt-the-problem/), Tim Kadlec, 12/2022
 
 * [How Fast Is Your Web App? How to Test Page Transition Performance](https://blog.webpagetest.org/posts/test-your-spa/), Scott Jehl, 09/2022
 
