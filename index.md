@@ -189,7 +189,9 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
-* [Optimize Time to First Byte](https://web.dev/optimize-ttfb/), Jeremy Wagner, 01/2023
+* [Optimize Time to First Byte (TTFB)](https://web.dev/optimize-ttfb/), Jeremy Wagner, 01/2023
+
+* [Optimizing Largest Contentful Paint (LCP)]([)https://www.youtube.com/watch?v=JhTR2fz68ec), Harry Roberts, 10/2022
 
 * [Google's top Core Web Vitals recommendations for 2023](https://web.dev/top-cwv-2023/), Barry Pollard, Rick Viscomi, Philip Walton, Jeremy Wagner, Brendan Kenny, 01/2023 
 
