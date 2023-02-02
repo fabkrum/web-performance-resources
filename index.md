@@ -189,6 +189,8 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [Optimize Time to First Byte](https://web.dev/optimize-ttfb/), Jeremy Wagner, 01/2023
+
 * [Google's top Core Web Vitals recommendations for 2023](https://web.dev/top-cwv-2023/), Barry Pollard, Rick Viscomi, Philip Walton, Jeremy Wagner, Brendan Kenny, 01/2023 
 
 * [What goes into making a new Web Vital metric](https://calendar.perfplanet.com/2022/making-a-new-web-vital-metric/), Annie Sullivan, 12/2022
