@@ -189,8 +189,6 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
-* [Experimenting with measuring soft navigations - Chrome Developers](https://developer.chrome.com/blog/soft-navigations-experiment/), Barry Pollard, Yoav Weiss, 02/2023
-
 * [What goes into making a new Web Vital metric](https://calendar.perfplanet.com/2022/making-a-new-web-vital-metric/), Annie Sullivan, 12/2022
 
 * [Why is CrUX data different from my RUM data?](https://web.dev/crux-and-rum-differences/), Barry Pollard, 08/2022
@@ -337,6 +335,8 @@ Redwood City, California, USA
 ## Articles
 
 ### General
+
+* [The Performance Inequality Gap, 2023](https://infrequently.org/2022/12/performance-baseline-2023/), Alex Russell, 12/2022
 
 * [Browser Cookie Status](https://www.cookiestatus.com/), Simo Ahava - 📚
 
@@ -639,6 +639,8 @@ Suleman Ahmad, 10/2021
 
 
 ### Measure Performance
+
+* [Experimenting with measuring soft navigations - Chrome Developers](https://developer.chrome.com/blog/soft-navigations-experiment/), Barry Pollard, Yoav Weiss, 02/2023
 
 * [Variability Isn't the Problem](https://timkadlec.com/remembers/2022-12-08-variability-isnt-the-problem/), Tim Kadlec, 12/2022
 
