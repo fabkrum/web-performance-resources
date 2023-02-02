@@ -189,6 +189,8 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [Experimenting with measuring soft navigations - Chrome Developers](https://developer.chrome.com/blog/soft-navigations-experiment/), Barry Pollard, Yoav Weiss, 02/2023
+
 * [What goes into making a new Web Vital metric](https://calendar.perfplanet.com/2022/making-a-new-web-vital-metric/), Annie Sullivan, 12/2022
 
 * [Why is CrUX data different from my RUM data?](https://web.dev/crux-and-rum-differences/), Barry Pollard, 08/2022
