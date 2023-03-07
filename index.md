@@ -810,6 +810,10 @@ Suleman Ahmad, 10/2021
 
 ### Optimise the Critical Render Path
 
+* [Why Not document.write()?](https://csswizardry.com/2023/01/why-not-document-write/), Harry Roberts, 01/2023
+
+* [Speeding Up Async Snippets](https://csswizardry.com/2022/10/speeding-up-async-snippets/), Harry Roberts, 10/2022
+
 * [Critical CSS? Not So Fast!](https://csswizardry.com/2022/09/critical-css-not-so-fast/), Harry Roberts, 09/2022
 
 * [Priority Hints - What Your Browser Doesn’t Know (Yet)](https://www.etsy.com/codeascraft/priority-hints-what-your-browser-doesnt-know-yet), David Ross, 07/2022
