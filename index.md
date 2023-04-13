@@ -864,6 +864,10 @@ Suleman Ahmad, 10/2021
 
 ### Javascript and Render Performance
 
+* [When JavaScript Fails](https://scribe.rip/@jason.godesky/when-javascript-fails-52eef47e90db), Jason Godesky, 02/2023
+
+* [Everyone has Javascript, right?](https://www.kryogenix.org/code/browser/everyonehasjs.html), Stuart Langridge
+
 * [Five Data-Loading Patterns To Boost Web Performance](https://www.smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/), Agustinus Theodorus, 09/2022
 
 * [Optimize long tasks](https://web.dev/optimize-long-tasks/), Jerry Wagner, 09/2022 – 🚀
@@ -1272,6 +1276,8 @@ Use the new Lighthouse API to integrate it into the Jenkins pipeline.
 * [Transitioning to modern JavaScript](https://www.youtube.com/watch?v=cLxNdLK--yI) ([Article](https://web.dev/publish-modern-javascript/)), Houssein Djirdeh, Jason Miller, Chrome Dev Summit 2020, 12/2020
 
 * [When JavaScript Bytes](https://www.youtube.com/watch?v=JvJ0v5OohNg) ([Slides](https://noti.st/tkadlec/MC0Bvy/when-javascript-bytes)), Tim Kadlec, 11/2019
+
+* [You Really Don't Need All that JavaScript, I Promise.](https://www.youtube.com/watch?v=rxlJRydqmk8), Stuart Langridge, 2019
 
 * [Adaptive Loading — Improving the UX for millions on low-end devices](https://www.youtube.com/watch?v=puUPpVrIRkc), Addy Osmany, 11/2019
 
