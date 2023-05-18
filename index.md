@@ -17,6 +17,7 @@
 * [Core Web Vitals](#core-web-vitals)
 * [Articles](#articles)
     + [General](#general)
+    + [SEO & Marketing](#seo-and-marketing)
     + [Network and Caching](#network-and-caching)
     + [Image and Video Optimization](#image-and-video-optimization)
     + [Web Fonts](#web-fonts)
@@ -114,6 +115,8 @@ Great resource to learn the newest Chrome Dev Tools tips and tricks
 
 * [Calibre Blog](https://calibreapp.com/blog)
 
+* [RUMVision](https://www.rumvision.com/blog/)
+
 * [Harry Roberts](https://csswizardry.com/archive/)
 
 * [Andy Davies](https://andydavies.me/)
@@ -189,6 +192,14 @@ Redwood City, California, USA
 
 ## Core Web Vitals
 
+* [The 9 most effective Core Web Vitals opportunities of 2023](https://www.youtube.com/watch?v=mdB-J6BRReo), Barry Pollard, 05/2023
+
+* [Advancing Interaction to Next Paint](https://web.dev/inp-cwv/), Rick Viscomi, Annie Sullivan, 05/2023
+
+* [How to optimize web responsiveness with Interaction to Next Paint](https://www.youtube.com/watch?v=KZ1kxzsJZ5g), Annie Sullivan, Michal Mocny, 05/2023
+
+* [Largest Contentful Paint update in Chrome version 112](https://www.rumvision.com/blog/largest-contentful-paint-update-in-chrome-version-112/), Karlijn Löwik, 04/2023
+
 * [Optimize Time to First Byte (TTFB)](https://web.dev/optimize-ttfb/), Jeremy Wagner, 01/2023
 
 * [Optimizing Largest Contentful Paint (LCP)]([)https://www.youtube.com/watch?v=JhTR2fz68ec), Harry Roberts, 10/2022
@@ -238,8 +249,6 @@ Redwood City, California, USA
 * [How SPA architectures affect Core Web Vitals](https://web.dev/vitals-spa-faq/), Philip Walton & Yoav Weiss, 09/2021
 
 * [Web Vitals patterns](https://web.dev/patterns/web-vitals-patterns/), Katie Hempenius, 09/2021 - 📚
-
-* [Core Web Vitals is a Measurable Ranking Factor](https://www.sistrix.com/blog/core-web-vitals-is-a-measurable-ranking-factor/), Johannes Beus, 09/2021
 
 * [Insight into Core Web Vitals from the Chrome Platform Team](https://www.youtube.com/watch?v=CcHCbFhx2UM), Annie Sullivan & Katie Hempenius, 08/2021
 
@@ -307,8 +316,6 @@ Redwood City, California, USA
 
 * [Case Study Vodafone: A 31% improvement in LCP increased sales by 8%](https://web.dev/vodafone/), Davide Grossi, 03/2021
 
-* [Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo/), Simon Hearne, 02/2021
-
 * [Cumulative Layout Shift Study of Over 1 Million Websites](https://www.seoclarity.net/blog/core-web-vitals-study), Mitul Gandhi, 02/2021
 
 * [Analyzing Web Vitals with WebPageTest](https://calendar.perfplanet.com/2020/analyzing-web-vitals-with-webpagetest/), Patrick Meenan, 12/2020
@@ -362,8 +369,6 @@ Redwood City, California, USA
 * [Hobson's Browser](https://infrequently.org/2021/07/hobsons-browser/), Alex Rusell, 07/2021
 
 * [Fast load times Techniques for improving site performance.](https://web.dev/fast/)
-
-* [How To Perform An SEO Audit Using Google Search Console](https://seosly.com/how-to-audit-site-with-google-search-console/), Olga Zarzeczna, 06/2021
 
 * [Website Speed: Advice from the trenches](https://www.cmg.digital/website-speed-advice-from-the-trenches), Bojan Basrak, 05/2021
 
@@ -446,9 +451,26 @@ Redwood City, California, USA
 * [My Performance Audit Workflow](https://aerotwist.com/blog/my-performance-audit-workflow/), Paul Lewis, 04/2014
 
 
+### SEO and Marketing
+
+* [WTH Google, is Pagespeed a SEO ranking factor or not?! (Spoiler: yes, it is, but not a ranking system..)](https://www.rumvision.com/blog/is-pagespeed-a-ranking-factor-april-2023/), Erwin Hofman, 05/2023
+
+* [Are Core Web Vitals affected by Google Ads?](https://www.rumvision.com/blog/google-ads-impacting-core-web-vitals/), Roderik Derksen, 11/2022
+
+* [Core Web Vitals is a Measurable Ranking Factor](https://www.sistrix.com/blog/core-web-vitals-is-a-measurable-ranking-factor/), Johannes Beus, 09/2021
+
+* [How To Perform An SEO Audit Using Google Search Console](https://seosly.com/how-to-audit-site-with-google-search-console/), Olga Zarzeczna, 06/2021
+
+* [Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo/), Simon Hearne, 02/2021
+
+
 ### Network and Caching
 
 * [Worker Runtimes](https://workers.js.org/)
+
+* [Don't make visitors on your website wait for the same page twice](https://www.rumvision.com/blog/ttfb-challenges-that-our-client-discovered-with-rumvision/), Jordy Scholing, 05/2023
+
+* [Make sure to check your caching rules](https://www.rumvision.com/blog/make-sure-to-check-your-caching-rules/#how-do-i-avoid), Leander Westerhout, 07/2022
 
 * [Bringing instant page-loads to the browser through speculative prerendering](https://web.dev/speculative-prerendering/#in-browser-speculation-rules-for-prefetch-and-prerender), Leena Sohoni & Addy Osmani, 02/2022
 
