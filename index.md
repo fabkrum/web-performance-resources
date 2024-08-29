@@ -84,7 +84,7 @@
 
 * Twitter: [#webperf](https://twitter.com/search?q=%23webperf), [#perfmatters](https://twitter.com/search?q=%23perfmatters)
 
-* [Web performance Slack channel ](https://webperformance.herokuapp.com/) - 📚
+* [Web performance Slack channel ](https://webperformance.slack.com/) - 📚
 Slack channel which is focusing on web performance with more than 1.400 members
 
 * [WebPerf Working Group Meetings](https://www.youtube.com/playlist?list=PL5b8e1JT2i4a3PqaF4a6tVfqZela-pSky), Understand what topics are discussed and be prepared for what is coming in the future
