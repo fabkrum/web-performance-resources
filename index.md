@@ -138,12 +138,16 @@ Great resource to learn the newest Chrome Dev Tools tips and tricks
 * [Planet Performance](http://www.perfplanet.com/)
 Overview of performance related blogs
 
+* [Performance on dxsrc.org](https://dxsrc.org/topics/performance/)
+Performance-related news
+
 * [Medium articles about web performance](https://medium.com/tag/web-performance/latest)
 
 * [The speed of thought - Posts from the Performance Team at Wikimedia](https://phabricator.wikimedia.org/phame/blog/view/7/)
 
 
 ### Podcasts
+
 * [Chasing Waterfalls - Tim Kadlec](https://chasingwaterfalls.io/)
 
 * [Planet Performance Podcast - Stoyan Stefanov](https://podcast.perfplanet.com/)
@@ -204,7 +208,7 @@ Redwood City, California, USA
 
 * [Optimizing Largest Contentful Paint (LCP)]([)https://www.youtube.com/watch?v=JhTR2fz68ec), Harry Roberts, 10/2022
 
-* [Google's top Core Web Vitals recommendations for 2023](https://web.dev/top-cwv-2023/), Barry Pollard, Rick Viscomi, Philip Walton, Jeremy Wagner, Brendan Kenny, 01/2023 
+* [Google's top Core Web Vitals recommendations for 2023](https://web.dev/top-cwv-2023/), Barry Pollard, Rick Viscomi, Philip Walton, Jeremy Wagner, Brendan Kenny, 01/2023
 
 * [What goes into making a new Web Vital metric](https://calendar.perfplanet.com/2022/making-a-new-web-vital-metric/), Annie Sullivan, 12/2022
 
@@ -334,7 +338,7 @@ Redwood City, California, USA
 
 * [The Science Behind Web Vitals](https://blog.chromium.org/2020/05/the-science-behind-web-vitals.html), Amar Sagoo / Annie Sullivan / Vivek Sekhar, 05/2020
 
-* [Evaluating page experience for a better web](https://developers.google.com/search/blog/2020/05/evaluating-page-experience), Sowmya Subramanian (Google), 05/2020 – ℹ️ 
+* [Evaluating page experience for a better web](https://developers.google.com/search/blog/2020/05/evaluating-page-experience), Sowmya Subramanian (Google), 05/2020 – ℹ️
 
 * [Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI) ([Slides](https://www.slideshare.net/AnnieSullivan9/monitoring-and-metrics-in-chrome-196438420)), Annie Sullivan, 11/2019 – 🎥
 
@@ -382,7 +386,7 @@ Redwood City, California, USA
 
 * [The Performance Inequality Gap, 2021](https://infrequently.org/2021/03/the-performance-inequality-gap/), Alex Russell, 03/2021
 
-* [Site Speed and Search Ranking (Complete Guide)](https://calibreapp.com/blog/site-speed-search-ranking-complete-guide), Ben Schwarz, 02/2021 
+* [Site Speed and Search Ranking (Complete Guide)](https://calibreapp.com/blog/site-speed-search-ranking-complete-guide), Ben Schwarz, 02/2021
 
 * [Finally – a way to calculate revenue impact of site speed](https://digies.se/site-speed/finally-a-way-to-calculate-revenue-impact-of-site-speed), Lina Hansson, 01/2021
 
@@ -408,7 +412,7 @@ Redwood City, California, USA
 
 * [Web Page Usability Matters](https://dev.to/addyosmani/web-page-usability-matters-3aok), Addy Osmani, 01/2019
 
-* [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/), Vitaly Friedman, 01/2019 
+* [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/), Vitaly Friedman, 01/2019
 
 * [You need neither PWA nor AMP to make your website load fast](http://tonsky.me/blog/pwa/), Nikita, 11/2018
 
@@ -500,7 +504,7 @@ Suleman Ahmad, 10/2021
 * [Conditional HTTP GET: The fastest requests need no response body](https://ieftimov.com/post/conditional-http-get-fastest-requests-need-no-response-body/), Ilija Eftimov, 06/2021
 
 * [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/), Ivan Akulov, 05/2021
- 
+
 * [Prefetching Heuristics](https://blog.mgechev.com/2021/02/07/prefetching-strategies-heuristics-faster-web-apps/), Minko Gechev, 02/2021
 
 * [Head-of-Line Blocking in QUIC and HTTP/3: The Details](https://github.com/rmarx/holblocking-blogpost), Robin Marx, 12/2020
@@ -604,12 +608,12 @@ Suleman Ahmad, 10/2021
 
 * [How JPEG XL Compares to Other Image Codecs](https://cloudinary.com/blog/how_jpeg_xl_compares_to_other_image_codecs), Jon Sneyers, 05/2020
 
-* [AVIF for Next-Generation Image Coding](https://netflixtechblog.com/avif-for-next-generation-image-coding-b1d75675fe4), Netflix Technology Blog, 
+* [AVIF for Next-Generation Image Coding](https://netflixtechblog.com/avif-for-next-generation-image-coding-b1d75675fe4), Netflix Technology Blog,
  02/2020
- 
+
 * [In-Browser Performance Linting With Feature Policies](https://timkadlec.com/remembers/2020-02-20-in-browser-performance-linting-with-feature-policies/), Tim Kadlec, 02/2020
- 
-* [Visual acuity and device-pixel-ratio](https://observablehq.com/@eeeps/visual-acuity-and-device-pixel-ratio), Eric Portis, 03/2019  
+
+* [Visual acuity and device-pixel-ratio](https://observablehq.com/@eeeps/visual-acuity-and-device-pixel-ratio), Eric Portis, 03/2019
 
 * [Video Playback On The Web: The Current State Of Video](https://www.smashingmagazine.com/2018/10/video-playback-on-the-web-part-1/), Doug Sillars, 10/2018
 
@@ -784,7 +788,7 @@ Suleman Ahmad, 10/2021
 
 * [Best practices for using third-party embeds](https://web.dev/embed-best-practices/), Leena Sohoni & Katie Hempenius & Addy Osmani, 10/20201
 
-* [The Impact of Third-Party Scripts on the Facebook Outage](https://www.akamai.com/blog/news/the-impact-of-third-party-scripts-on-the-facebook-outage), Kunjal Botadra, 10/2021 
+* [The Impact of Third-Party Scripts on the Facebook Outage](https://www.akamai.com/blog/news/the-impact-of-third-party-scripts-on-the-facebook-outage), Kunjal Botadra, 10/2021
 
 * [Loading Third-Party JavaScript](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript), Addy Osmani & Arthur Evans
 
@@ -860,7 +864,7 @@ Suleman Ahmad, 10/2021
 
 * [CSS audit](https://css-tricks.com/a-quick-css-audit-and-general-notes-about-design-systems/)
 
-* [Measuring the Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/measure-crp), Ilya Grigorik, 12/2018 
+* [Measuring the Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/measure-crp), Ilya Grigorik, 12/2018
 
 * [Inlining or Caching? Both Please!](https://www.filamentgroup.com/lab/inlining-cache.html), Scott Jehl, 11/2018
 
@@ -946,7 +950,7 @@ Suleman Ahmad, 10/2021
 
 * [Preact vs React - Updating React at Etsy](https://github.com/mq2thez/blog/blob/main/upgrade-react-etsy/preact-vs-react.md), Ben Sangster, 07/2020
 
-* [The Cost of Javascript Frameworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/), Tim Kadlec, 04/2020 
+* [The Cost of Javascript Frameworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/), Tim Kadlec, 04/2020
 
 * [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/), Nolan Lawson, 02/2020
 
@@ -1075,8 +1079,8 @@ This course is great to start. You will learn how the browser works internally a
 * [Setting up DevTools for Performance Testing](https://csswizardry.gumroad.com/l/perfect-devtools), Harry Roberts, 07/2022
 
 * [Lightning-Fast Web Performance](https://scottjehl.com/lfwp/), Scott Jehl, 05/2020
-This course is great for Frontend Developers who are interested in web performance. 
-Scott introduces the most relevant web performance metrics and shows the most effective ways how to optimize them in great detail. The course contains also a lot of good references which can be used to dive deeper into the topic.  
+This course is great for Frontend Developers who are interested in web performance.
+Scott introduces the most relevant web performance metrics and shows the most effective ways how to optimize them in great detail. The course contains also a lot of good references which can be used to dive deeper into the topic.
 
 * Frontend Masters: [Web Performance](https://frontendmasters.com/courses/web-performance/), Steve Kinney, 03/2018 ($39 / monthly subscription)
 This is the go to course for Frontend Developers. This course is going really deep into Javascript Performance and Rendering Performance. I recommend this for more senior developers.
@@ -1146,7 +1150,7 @@ This is a great free introduction into web performance. Ilya Grigorik from Googl
 
 * [Hybrid Personalization in the Adobe Experience Platform Web SDK](https://blog.developer.adobe.com/hybrid-personalization-in-the-adobe-experience-platform-web-sdk-6a1bb674bf41), Jason Waters, 11/2023
 
-* [Keeping it 100, Web Performance with Franklin](https://www.hlx.live/developer/keeping-it-100), Adobe - Project Franklin, 08/2023 
+* [Keeping it 100, Web Performance with Franklin](https://www.hlx.live/developer/keeping-it-100), Adobe - Project Franklin, 08/2023
 
 * [How anti-flicker snippets from A/B testing tools impact site speed](https://www.debugbear.com/blog/ab-testing-anti-flicker-body-hiding), Matt Zeunert, 02/2022
 
@@ -1424,7 +1428,8 @@ Another classic book.
 * [Chcr.co](https://chckr.co/)
 Check Your Site Across Leading Website Testing Tools
 
-* [UI Test - Test your website in more than 80 tools](https://uitest.com/)
+* [dxrsrc Site Check](https://dxsrc.org/tools/check/)
+Test your website in more than 90 tools
 
 #### WebPageTest
 
@@ -1509,7 +1514,7 @@ The following tool allows you to enter arbitrary markup which causes layout shif
 Compress & resize videos in the browser thanks to WebAssembly and FFMPEG.WASM.
 
 * [Squoosh](https://squoosh.app)
-Upload an image and compare the original with different compressed version to find a good balance between filesize and image quality. – 🚀 
+Upload an image and compare the original with different compressed version to find a good balance between filesize and image quality. – 🚀
 
 * [I just want to put an image on my page](https://just-gimme-an-img.vercel.app/) ([Article](https://paul.kinlan.me/images-are-still-too-hard/))
 Optimizes images and generate the HTML for you.
@@ -1632,7 +1637,7 @@ Browserscope is a community-driven project for profiling web browsers. The goals
 Global Website Speed Profiler
 
 * [https://httpstatus.io/](https://httpstatus.io/)
-Service which shows status codes, latency, response headers and more from the URL you submit. This is great to check for redirects and other network related issues. 
+Service which shows status codes, latency, response headers and more from the URL you submit. This is great to check for redirects and other network related issues.
 
 * [Cloud Ping](http://www.cloudping.info/)
 See the network latency from your location to all AWS centres in the work.
@@ -1924,11 +1929,9 @@ The [Performance Timing Primer](https://w3c.github.io/perf-timing-primer/) gives
 
 * [Automatically Generate Social Images for Blog Posts](https://www.learnwithjason.dev/blog/auto-generate-social-image), Jason Lengstorf
 
-* [Migrating from Github Pages to Netlify & Cloudflare](https://nooshu.com/blog/2021/09/06/migrating-from-github-pages-to-cloudflare-and-netlify/), Matt Hobbs, 09/2021 
+* [Migrating from Github Pages to Netlify & Cloudflare](https://nooshu.com/blog/2021/09/06/migrating-from-github-pages-to-cloudflare-and-netlify/), Matt Hobbs, 09/2021
 
 #Checklists
 * [Web Quality Assurance Checklist](https://checklists.opquast.com/web-quality-assurance/)
 * [Web Sustainability Checklist (German)](https://nachhaltiges-webdesign.jetzt/)
 * [Smashing Magazine: Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
-
-
